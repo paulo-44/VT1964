@@ -6,7 +6,7 @@
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] The Mandalorian | S01 [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/1xO2UnWyxoyTrdvVDXW276LaHQc.jpg</thumbnail>
-		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/SERIES/The.Mandalorian/Temporada-1.BR.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Mandalorian/Temporada-1.BR.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/1q4fsKSUJf7HIRpViK4uoKnTAPr.jpg</fanart>
 		<info>
 [COLOR lime]Sinopse:[/COLOR] [COLOR white]A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.[/COLOR]			
