@@ -1,10 +1,23 @@
 <item>
-<title>[B][COLOR white] Trunk Train - The Movie [/COLOR][COLOR gold] 7[/COLOR][COLOR lime]Plus.BR[/COLOR][/B]</title>
+<title>[B][COLOR white] A Elefanta do Mágico [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/WbGPwjyrv3Ubd3L</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g7weieVLynnkcFqOWA5WAmjffNB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gNOyIDGW8YY6AYbz6nMvrVSHSXs.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Um garoto aceita o desafio proposto por um rei: realizar três tarefas impossíveis para ganhar uma elefanta mágica e ter a chance de ir atrás de seu destino.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 39m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Trunk Train - The Movie [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/KQxoPGXZeyf0mmD</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nW6K0GdzEv3faofvAaaZtReS0wi.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ouDwGXFGdzkJJeDK3GNsCaiNxvi.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Gajah é um elefante desmemoriado que é alçado do anonimato para o status de celebridade da noite para o dia. Ele acaba se afastando de seus antigos companheiros de viagem no Tromba Trem.[/COLOR]
-[COLOR lime]»»[/COLOR][B][COLOR red] Dublado [/COLOR][/B][COLOR lime]««[/COLOR]
 [COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
 [COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
 [COLOR lime]Duração:[/COLOR][COLOR white] 1h 20m[/COLOR]
