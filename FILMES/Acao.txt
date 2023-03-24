@@ -1,4 +1,18 @@
 <item>
+<title>[B][COLOR white] The Weapon [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/rk1PaY073ZfbbXk</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/slQYCDzCMM8SBh9Xa3aPeM2fekA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/i7nnmCTnjK50vNqbMfVtmoVULWJ.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Dallas é uma máquina de matar de um homem só que está trabalhando para um chefe da máfia de Las Vegas e não vai parar até que a justiça seja feita.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 25m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Luther: O Cair da Noite [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/DG31xaaWrzfkX2k</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg</thumbnail>
