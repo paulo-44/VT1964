@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] A Academia do Diabo [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/qaDXXr60DxhZ87</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tCd9zcdjHcidTkGNgwRx4hhXkI5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4uA2ks2hBPn8hjo4i4CUFBI1cgr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma jornalista em um casamento morno precisa escolher entre o marido distante, mas amoroso, e um ex-namorado mais jovem que reaparece em sua vida.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Documentário, Terror[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 28m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] A Academia do Diabo [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/QPv39zGrJ6tGP2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tCd9zcdjHcidTkGNgwRx4hhXkI5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4uA2ks2hBPn8hjo4i4CUFBI1cgr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma jornalista em um casamento morno precisa escolher entre o marido distante, mas amoroso, e um ex-namorado mais jovem que reaparece em sua vida.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Documentário, Terror[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 28m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] A Profecia do Mal [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/P9e2oB6oelFDQA</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg</thumbnail>

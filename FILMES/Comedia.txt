@@ -1,4 +1,62 @@
 <item>
+<title>[B][COLOR white] Em Todas as Partes [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/okmerrbQQmFdmP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/w8wP1X3c7fNdt7otvCxCpWypD89.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Há mais de uma década separados, um casal de irmãos decide tentar uma reaproximação e realizar um sonho de infância: uma viagem de moto pelo México.[/COLOR]
+[COLOR lime]»»[/COLOR][B][COLOR red] Dublado [/COLOR][/B][COLOR lime]««[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Comédia, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 37m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Em Todas as Partes [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/xqprYOO3rksoKl</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/w8wP1X3c7fNdt7otvCxCpWypD89.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Há mais de uma década separados, um casal de irmãos decide tentar uma reaproximação e realizar um sonho de infância: uma viagem de moto pelo México.[/COLOR]
+[COLOR lime]»»[/COLOR][B][COLOR red] Dublado [/COLOR][/B][COLOR lime]««[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Comédia, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 37m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] 80 pelo Brady [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Mz07O4PoPaFmq9B</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jixBLmH4gQuTKTenZr89egvqZbW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aeksAhU6dZl0Fclm3dBRt6cKBmD.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Um quarteto de melhores amigas idosas decide viver a vida ao máximo fazendo uma viagem louca ao Super Bowl 51 para ver seu herói Tom Brady jogar.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Comédia[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 38m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] 80 pelo Brady [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/WG0R0k6ADYCR9p</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jixBLmH4gQuTKTenZr89egvqZbW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aeksAhU6dZl0Fclm3dBRt6cKBmD.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Um quarteto de melhores amigas idosas decide viver a vida ao máximo fazendo uma viagem louca ao Super Bowl 51 para ver seu herói Tom Brady jogar.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Comédia[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 38m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Fantasma e CIA [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/PJK77xp4VKS0wLO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tGZbqePTre2AnpMeC1nqAHhLhZ.jpg</thumbnail>

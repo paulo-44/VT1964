@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] Excluídos [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/0lb1e1oWYrtexg</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w3nvKg5Ntog0VeWsBqCysxfNNFL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cKqk1m6n2lPHZMHNSVYhrnRCiux.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma mulher conseguiu construir meticulosamente uma vida de privilégios. Mas a chegada de dois estranhos à cidade ameaça derrubar esse castelo de cartas.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Thriller, Mistério, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 40m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Excluídos [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/RLBKKYbBMlSBWv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w3nvKg5Ntog0VeWsBqCysxfNNFL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cKqk1m6n2lPHZMHNSVYhrnRCiux.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma mulher conseguiu construir meticulosamente uma vida de privilégios. Mas a chegada de dois estranhos à cidade ameaça derrubar esse castelo de cartas.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Thriller, Mistério, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 40m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] 10 Dias de um Homem Bom [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/8Zkllak46btoB78</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eQnY9isD2u7jdSkyfy8qjdMgQnT.jpg</thumbnail>

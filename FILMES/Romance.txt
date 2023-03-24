@@ -1,0 +1,28 @@
+<item>
+<title>[B][COLOR white] Esta Noite, Você Dorme Comigo [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/YDQ1l9x8GLuvyD1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tNHOildeM8pRcHUQE85IHh6DxkR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/50ifLsFOF2i8lH015S6rRqv7epN.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma jornalista em um casamento morno precisa escolher entre o marido distante, mas amoroso, e um ex-namorado mais jovem que reaparece em sua vida.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Romance, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 33m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Esta Noite, Você Dorme Comigo [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/wzaxDXd8qRtGvM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tNHOildeM8pRcHUQE85IHh6DxkR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/50ifLsFOF2i8lH015S6rRqv7epN.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma jornalista em um casamento morno precisa escolher entre o marido distante, mas amoroso, e um ex-namorado mais jovem que reaparece em sua vida.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Romance, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 33m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

@@ -1,4 +1,90 @@
 <item>
+<title>[B][COLOR white] Em Todas as Partes [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/okmerrbQQmFdmP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/w8wP1X3c7fNdt7otvCxCpWypD89.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Há mais de uma década separados, um casal de irmãos decide tentar uma reaproximação e realizar um sonho de infância: uma viagem de moto pelo México.[/COLOR]
+[COLOR lime]»»[/COLOR][B][COLOR red] Dublado [/COLOR][/B][COLOR lime]««[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Comédia, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 37m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Em Todas as Partes [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/xqprYOO3rksoKl</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/w8wP1X3c7fNdt7otvCxCpWypD89.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Há mais de uma década separados, um casal de irmãos decide tentar uma reaproximação e realizar um sonho de infância: uma viagem de moto pelo México.[/COLOR]
+[COLOR lime]»»[/COLOR][B][COLOR red] Dublado [/COLOR][/B][COLOR lime]««[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Comédia, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 37m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Excluídos [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/0lb1e1oWYrtexg</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w3nvKg5Ntog0VeWsBqCysxfNNFL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cKqk1m6n2lPHZMHNSVYhrnRCiux.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma mulher conseguiu construir meticulosamente uma vida de privilégios. Mas a chegada de dois estranhos à cidade ameaça derrubar esse castelo de cartas.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Thriller, Mistério, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 40m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Excluídos [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/RLBKKYbBMlSBWv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w3nvKg5Ntog0VeWsBqCysxfNNFL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cKqk1m6n2lPHZMHNSVYhrnRCiux.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma mulher conseguiu construir meticulosamente uma vida de privilégios. Mas a chegada de dois estranhos à cidade ameaça derrubar esse castelo de cartas.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Thriller, Mistério, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 40m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Esta Noite, Você Dorme Comigo [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/YDQ1l9x8GLuvyD1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tNHOildeM8pRcHUQE85IHh6DxkR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/50ifLsFOF2i8lH015S6rRqv7epN.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma jornalista em um casamento morno precisa escolher entre o marido distante, mas amoroso, e um ex-namorado mais jovem que reaparece em sua vida.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Romance, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 33m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Esta Noite, Você Dorme Comigo [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/wzaxDXd8qRtGvM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tNHOildeM8pRcHUQE85IHh6DxkR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/50ifLsFOF2i8lH015S6rRqv7epN.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma jornalista em um casamento morno precisa escolher entre o marido distante, mas amoroso, e um ex-namorado mais jovem que reaparece em sua vida.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Romance, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 33m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Procura-se Gonker [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/xeP9LVmzDdIkal0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ziAL5224J9QHA0S0exarpkz4eUN.jpg</thumbnail>
