@@ -1,0 +1,52 @@
+<item>
+<title>[B][COLOR white] O Mandaloriano (S03E01)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/AAeMmq82KkUXJDW</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5HruRbC8JzszQNtt6KODB5ffdMN.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/v4/series/361753/backgrounds/63f162936e3ea.jpg</fanart>
+<info>
+
+[COLOR lime]S03E01[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Mandaloriano (S03E02)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/JwQee4DaL6tj8kB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5HruRbC8JzszQNtt6KODB5ffdMN.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/v4/series/361753/backgrounds/63f162936e3ea.jpg</fanart>
+<info>
+
+[COLOR lime]S03E02[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Mandaloriano (S03E03)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ZK9WP0YgwZfq9A7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5HruRbC8JzszQNtt6KODB5ffdMN.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/v4/series/361753/backgrounds/63f162936e3ea.jpg</fanart>
+<info>
+
+[COLOR lime]S03E03[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Mandaloriano (S03E04)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/k30LaYrG0QTOdAx</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5HruRbC8JzszQNtt6KODB5ffdMN.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/v4/series/361753/backgrounds/63f162936e3ea.jpg</fanart>
+<info>
+
+[COLOR lime]S03E04[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
