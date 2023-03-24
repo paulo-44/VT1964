@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] At Midnight [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/wk9pL0Q3VJFJ2Kp</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/da8zHCMp2AQUtZQhFWps9GdVhm8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xVrtNFpcy5xS80HxvXsxodQxCpg.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]A vida de Alejandro muda quando a atriz Sophie Wilder se hospeda no hotel em que ele trabalha. Os dois se envolvem, e passam a se encontrar à meia-noite.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Romance, Comédia[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 30m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] At Midnight [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/pbYwJVw0oxSrZ3e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/da8zHCMp2AQUtZQhFWps9GdVhm8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xVrtNFpcy5xS80HxvXsxodQxCpg.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]A vida de Alejandro muda quando a atriz Sophie Wilder se hospeda no hotel em que ele trabalha. Os dois se envolvem, e passam a se encontrar à meia-noite.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Romance, Comédia[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 30m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Em Todas as Partes [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/okmerrbQQmFdmP</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg</thumbnail>

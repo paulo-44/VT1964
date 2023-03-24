@@ -1,4 +1,116 @@
 <item>
+<title>[B][COLOR white] A Profecia do Mal [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/eK7p4ZVKrAc2BQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sp7MPK2K60LLd7A6zjHKsfgjFil.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma poderosa empresa de biotecnologia faz uma descoberta de ponta, permitindo a clonagem de a partir de meros fragmentos de DNA, inclusive figuras históricas.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Terror, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 51m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] A Profecia do Mal [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/P9e2oB6oelFDQA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sp7MPK2K60LLd7A6zjHKsfgjFil.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma poderosa empresa de biotecnologia faz uma descoberta de ponta, permitindo a clonagem de a partir de meros fragmentos de DNA, inclusive figuras históricas.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Terror, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 51m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Rei das Sombras [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/qrovA1KrgrFzlLY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/68cAOluxo42cmzpkWhPyI8FxNBa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xjixln7CCUOgAJNX8RrGxYRwLvI.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Após a morte do pai, dois meios-irmãos se veem em lados opostos de um conflito com consequências trágicas.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Crime, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 29m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Rei das Sombras [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/4Wxo1pqAZaHKmYP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/68cAOluxo42cmzpkWhPyI8FxNBa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xjixln7CCUOgAJNX8RrGxYRwLvI.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Após a morte do pai, dois meios-irmãos se veem em lados opostos de um conflito com consequências trágicas.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Crime, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 29m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Estrangulador de Boston [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/GjOyveX7yqSmZ8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iyJM16EEF5jcQZipFjpRtEjeRyu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/254iY5CzFzjnjkP0lUkLpOLvXar.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]As repórteres Loretta McLaughlin e Jean Cole são pioneiras ao divulgar o caso dos famosos assassinatos do Estrangulador de Boston.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Crime, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 52m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Estrangulador de Boston [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/k09x2WQ3LBUOJAw</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iyJM16EEF5jcQZipFjpRtEjeRyu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/254iY5CzFzjnjkP0lUkLpOLvXar.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]As repórteres Loretta McLaughlin e Jean Cole são pioneiras ao divulgar o caso dos famosos assassinatos do Estrangulador de Boston.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Crime, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 52m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Som do Caos [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/gj2Q9VDYlXUqKQX</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yka6u5dbx1vWoMrNIHHutluaepp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/okRg5RLwYOM9I01aaT6A9tUqxoC.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Após se mudar para a casa onde passou a infância, um homem descobre segredos sinistros da própria família ao investigar um acidente que aconteceu na região.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 30m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Som do Caos [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ybwAkjBQPgc1z6M</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yka6u5dbx1vWoMrNIHHutluaepp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/okRg5RLwYOM9I01aaT6A9tUqxoC.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Após se mudar para a casa onde passou a infância, um homem descobre segredos sinistros da própria família ao investigar um acidente que aconteceu na região.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 30m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Excluídos [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/0lb1e1oWYrtexg</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/w3nvKg5Ntog0VeWsBqCysxfNNFL.jpg</thumbnail>

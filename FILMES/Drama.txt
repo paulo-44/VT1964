@@ -1,4 +1,145 @@
 <item>
+<title>[B][COLOR white] O Rei das Sombras [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/qrovA1KrgrFzlLY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/68cAOluxo42cmzpkWhPyI8FxNBa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xjixln7CCUOgAJNX8RrGxYRwLvI.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Após a morte do pai, dois meios-irmãos se veem em lados opostos de um conflito com consequências trágicas.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Crime, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 29m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Rei das Sombras [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/4Wxo1pqAZaHKmYP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/68cAOluxo42cmzpkWhPyI8FxNBa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xjixln7CCUOgAJNX8RrGxYRwLvI.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Após a morte do pai, dois meios-irmãos se veem em lados opostos de um conflito com consequências trágicas.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Crime, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 29m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Estrangulador de Boston [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/GjOyveX7yqSmZ8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iyJM16EEF5jcQZipFjpRtEjeRyu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/254iY5CzFzjnjkP0lUkLpOLvXar.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]As repórteres Loretta McLaughlin e Jean Cole são pioneiras ao divulgar o caso dos famosos assassinatos do Estrangulador de Boston.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Crime, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 52m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Estrangulador de Boston [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/k09x2WQ3LBUOJAw</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iyJM16EEF5jcQZipFjpRtEjeRyu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/254iY5CzFzjnjkP0lUkLpOLvXar.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]As repórteres Loretta McLaughlin e Jean Cole são pioneiras ao divulgar o caso dos famosos assassinatos do Estrangulador de Boston.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Crime, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 52m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Som do Caos [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/gj2Q9VDYlXUqKQX</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yka6u5dbx1vWoMrNIHHutluaepp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/okRg5RLwYOM9I01aaT6A9tUqxoC.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Após se mudar para a casa onde passou a infância, um homem descobre segredos sinistros da própria família ao investigar um acidente que aconteceu na região.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 30m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Som do Caos [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ybwAkjBQPgc1z6M</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yka6u5dbx1vWoMrNIHHutluaepp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/okRg5RLwYOM9I01aaT6A9tUqxoC.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Após se mudar para a casa onde passou a infância, um homem descobre segredos sinistros da própria família ao investigar um acidente que aconteceu na região.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 30m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Meu Nome é Chihiro [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/6OyrpxpzaDIoX4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hkvq6vqz6j1gSojBYkpTjSauFZD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xOlEdqLMwf1OakIC1sokact3Piq.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma ex-acompanhante irreverente começa a trabalhar no restaurante de uma cidadezinha do litoral e alegra a todos que cruzam o seu caminho.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 11m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Meu Nome é Chihiro [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/qJGxz8X6QXTzz8b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hkvq6vqz6j1gSojBYkpTjSauFZD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xOlEdqLMwf1OakIC1sokact3Piq.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma ex-acompanhante irreverente começa a trabalhar no restaurante de uma cidadezinha do litoral e alegra a todos que cruzam o seu caminho.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 11m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Luther: O Cair da Noite [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/DG31xaaWrzfkX2k</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eN6R6mb3ntHwA3y3MhSwpP78ljN.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Um terrível serial killer está aterrorizando Londres, enquanto o brilhante, mas desgraçado, detetive John Luther está atrás das grades.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Crime, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 9m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Luther: O Cair da Noite [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/QKgMz4pDP6T0111</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eN6R6mb3ntHwA3y3MhSwpP78ljN.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Um terrível serial killer está aterrorizando Londres, enquanto o brilhante, mas desgraçado, detetive John Luther está atrás das grades.[/COLOR]
+[COLOR lime]»»[/COLOR][B][COLOR red] Dublado [/COLOR][/B][COLOR lime]««[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Crime, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 9m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Em Todas as Partes [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/okmerrbQQmFdmP</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg</thumbnail>
