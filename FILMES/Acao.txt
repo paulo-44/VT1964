@@ -4,7 +4,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/9aqCXaokmigFwT3Td8O2edBq2A2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bYyBj04oivgKfNq6fE4ByH1rr0S.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Nas florestas do sul do Chile, Sayen, uma jovem mapuche, sai em busca dos mercenários que assassinaram sua avó. Usando seu treinamento, ela consegue sobreviver e virar o jogo contra esses intrusos.[/COLOR]
-[COLOR lime]»»[/COLOR][B][COLOR red] Dublado [/COLOR][/B][COLOR lime]««[/COLOR]
 [COLOR lime]Género:[/COLOR][COLOR white] Thriller, Ação[/COLOR]
 [COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
 [COLOR lime]Duração:[/COLOR][COLOR white] 1h 34m[/COLOR]
@@ -19,7 +18,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/9aqCXaokmigFwT3Td8O2edBq2A2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/bYyBj04oivgKfNq6fE4ByH1rr0S.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Nas florestas do sul do Chile, Sayen, uma jovem mapuche, sai em busca dos mercenários que assassinaram sua avó. Usando seu treinamento, ela consegue sobreviver e virar o jogo contra esses intrusos.[/COLOR]
-[COLOR lime]»»[/COLOR][B][COLOR red] Dublado [/COLOR][/B][COLOR lime]««[/COLOR]
 [COLOR lime]Género:[/COLOR][COLOR white] Thriller, Ação[/COLOR]
 [COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
 [COLOR lime]Duração:[/COLOR][COLOR white] 1h 34m[/COLOR]
