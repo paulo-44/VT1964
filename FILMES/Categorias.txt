@@ -6,7 +6,7 @@
 	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Ação | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/NjLk1CG8/acao.png</thumbnail>
-		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/Filmes/Acao.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Acao.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
 		<info>
 	
@@ -17,7 +17,18 @@
 <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Aventura | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
-		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/Filmes/Aventura.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Aventura.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+	
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Comédia | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Comedia.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
 		<info>
 	
@@ -28,7 +39,51 @@
 <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Crime | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
-		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/Filmes/Crime.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Crime.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+	
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Documentário | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Documentario.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+	
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Drama | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Drama.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+	
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Família | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Familia.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+	
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Fantasia | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Fantasia.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
 		<info>
 	
@@ -39,7 +94,29 @@
 <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Ficção científica | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
-		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/Filmes/Ficcao.cientifica.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Ficcao.cientifica.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+	
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Mistério | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Misterio.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+	
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Romance | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Romance.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
 		<info>
 	
@@ -50,7 +127,7 @@
 <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Terror | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
-		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/Filmes/Terror.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Terror.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
 		<info>
 	
@@ -61,7 +138,7 @@
 <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Thriller | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
-		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/Filmes/Thriller.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Thriller.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
 		<info>
 	
