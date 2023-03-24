@@ -4,12 +4,11 @@
 
 
  <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] The Mandalorian | [/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] The Mandalorian | [/COLOR][COLOR lime]DUBLADO/LEGENDADO[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/1xO2UnWyxoyTrdvVDXW276LaHQc.jpg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Mandalorian/Temporadas.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/1q4fsKSUJf7HIRpViK4uoKnTAPr.jpg</fanart>
 		<info>			
-[COLOR lime]»»[/COLOR][COLOR white] DUBLADO/LEGENDADO [/COLOR]
 [COLOR lime]»»[/COLOR][COLOR gold] 3ª Temporada [/COLOR]
 [COLOR lime]»»[/COLOR][COLOR gold] 2ª Temporada [/COLOR]
 [COLOR lime]»»[/COLOR][COLOR gold] 1ª Temporada [/COLOR]
