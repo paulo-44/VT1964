@@ -90,13 +90,13 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[B][COLOR white] O Mandaloriano (S02E078)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<title>[B][COLOR white] O Mandaloriano (S02E08)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ygD1zjp4y4H1MRr</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/b8cs9DzhxRQLQ7TvfLihYbAC6fg.jpg</thumbnail>
 <fanart>https://artworks.thetvdb.com/banners/v4/series/361753/backgrounds/63f162936e3ea.jpg</fanart>
 <info>
 
-[COLOR lime]S02E078[/COLOR]
+[COLOR lime]S02E08[/COLOR]
 </info>
 
 </item>
