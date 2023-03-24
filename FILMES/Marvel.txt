@@ -1,0 +1,26 @@
+<item>
+<title>[B][COLOR white] Pantera Negra: Wakanda para Sempre [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/dvQqrlQe87IkWpM</link>
+<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/31110/posters/636245be89636.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/v4/movie/31110/backgrounds/635f049846860.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje, lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa. Enquanto os wakandanos se esforçam para abraçar seu próximo capítulo, os heróis devem se unir com a ajuda de War Dog Nakia e Everett Ross e forjar um novo caminho para o reino de Wakanda.[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 42m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Pantera Negra: Wakanda para Sempre [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/8dlyv8vel3cMve</link>
+<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/31110/posters/636245be89636.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/v4/movie/31110/backgrounds/635f049846860.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje, lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa. Enquanto os wakandanos se esforçam para abraçar seu próximo capítulo, os heróis devem se unir com a ajuda de War Dog Nakia e Everett Ross e forjar um novo caminho para o reino de Wakanda.[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 42m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
