@@ -48,6 +48,17 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 <channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Dc | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Dc.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+	
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Documentário | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Documentario.txt</externallink>
