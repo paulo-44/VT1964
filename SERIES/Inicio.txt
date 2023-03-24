@@ -6,7 +6,7 @@
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] The Mandalorian | [/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/1xO2UnWyxoyTrdvVDXW276LaHQc.jpg</thumbnail>
-		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/SERIES/The.Mandalorian/Temporadas.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Mandalorian/Temporadas.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/1q4fsKSUJf7HIRpViK4uoKnTAPr.jpg</fanart>
 		<info>			
 [COLOR lime]»»[/COLOR][COLOR white] DUBLADO/LEGENDADO [/COLOR]
