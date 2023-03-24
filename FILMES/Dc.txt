@@ -1,0 +1,26 @@
+<item>
+<title>[B][COLOR white] A Profecia do Mal [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/yrJB9Ow632HkZ9</link>
+<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/33190/posters/63af4f548bb68.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/v4/movie/33190/backgrounds/638d320b0549f.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Quase 5.000 anos depois de ter sido concedido com os poderes onipotentes dos deuses egípcios - e de ter sido preso, - Adão Negro se ergue de seu túmulo, pronto para trazer sua justiça ao mundo moderno.[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 5m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] A Profecia do Mal [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/mDVz8waMXzsVzD</link>
+<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/33190/posters/63af4f548bb68.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/v4/movie/33190/backgrounds/638d320b0549f.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Quase 5.000 anos depois de ter sido concedido com os poderes onipotentes dos deuses egípcios - e de ter sido preso, - Adão Negro se ergue de seu túmulo, pronto para trazer sua justiça ao mundo moderno.[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 5m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
