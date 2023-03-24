@@ -1,0 +1,85 @@
+<item>
+<title>[B][COLOR white] Procura-se Gonker [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/xeP9LVmzDdIkal0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ziAL5224J9QHA0S0exarpkz4eUN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kLPIfUrMrjApjOxtqBUWI1MItOd.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Quando o amado cãozinho de uma família se perde na floresta, seus donos partem em uma incrível jornada para salvá-lo.[/COLOR]
+[COLOR lime]»»[/COLOR][B][COLOR red] Dublado [/COLOR][/B][COLOR lime]««[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Família, Aventura, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 35m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Procura-se Gonker [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Jb3Y09mwMkTj3wm</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ziAL5224J9QHA0S0exarpkz4eUN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kLPIfUrMrjApjOxtqBUWI1MItOd.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Quando o amado cãozinho de uma família se perde na floresta, seus donos partem em uma incrível jornada para salvá-lo.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Família, Aventura, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 35m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Top Gun: Maverick [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/JpR0q6J49zCjmrL</link>
+<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/16721/posters/628136f172fe4.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/v4/movie/16721/backgrounds/63ac6b4a1ddb4.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete "Maverick" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 11m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Top Gun: Maverick [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/rbM1q9D3y7HbD3r</link>
+<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/16721/posters/628136f172fe4.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/v4/movie/16721/backgrounds/63ac6b4a1ddb4.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete "Maverick" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 11m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Mar em Fúria [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/RAoDJzGkJquxjy</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9R0CYorOmNfp17hnvO5zioT70D6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cmOWlfDvBSMyLaeZ85M87GmkH8v.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Pessoas corajosas arriscam suas vidas colocando seus barcos de pesca e navios de resgate contra as forças da natureza. Seus piores temores se tornam realidade no Halloween de 1991, quando são confrontados pela maior tempestade da história.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2000) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 10m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Mar em Fúria [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Yy3z2Kkaq4Fv9XQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9R0CYorOmNfp17hnvO5zioT70D6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cmOWlfDvBSMyLaeZ85M87GmkH8v.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Pessoas corajosas arriscam suas vidas colocando seus barcos de pesca e navios de resgate contra as forças da natureza. Seus piores temores se tornam realidade no Halloween de 1991, quando são confrontados pela maior tempestade da história.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2000) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 10m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

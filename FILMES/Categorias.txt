@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+	
+	<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Ação | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/NjLk1CG8/acao.png</thumbnail>
+		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/Filmes/Acao.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+	
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Aventura | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
+		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/Filmes/Aventura.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+	
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Crime | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
+		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/Filmes/Crime.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+	
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Ficção científica | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
+		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/Filmes/Ficcao.cientifica.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+	
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Terror | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
+		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/Filmes/Terror.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+	
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Thriller | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
+		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/Filmes/Thriller.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+	
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+
+	
+	
+</channels>

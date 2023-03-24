@@ -1,0 +1,142 @@
+<item>
+<title>[B][COLOR white] Fantasma e CIA [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/PJK77xp4VKS0wLO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8tGZbqePTre2AnpMeC1nqAHhLhZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6VX3TrYBtnMOHp3v44lIWWnEp7N.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Depois que Kevin encontra um fantasma chamado Ernest assombrando sua nova casa, ele se torna uma sensação da mídia social da noite para o dia. Mas quando Kevin e Ernest partem para investigar o mistério do passado deste último, eles se tornam alvos da CIA.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Fantasia, Família, Comédia, Aventura[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 7m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Fantasma e CIA [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Ao2vppqopocXoAA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8tGZbqePTre2AnpMeC1nqAHhLhZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6VX3TrYBtnMOHp3v44lIWWnEp7N.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Depois que Kevin encontra um fantasma chamado Ernest assombrando sua nova casa, ele se torna uma sensação da mídia social da noite para o dia. Mas quando Kevin e Ernest partem para investigar o mistério do passado deste último, eles se tornam alvos da CIA.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Fantasia, Família, Comédia, Aventura[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 7m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Procura-se Gonker [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/xeP9LVmzDdIkal0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ziAL5224J9QHA0S0exarpkz4eUN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kLPIfUrMrjApjOxtqBUWI1MItOd.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Quando o amado cãozinho de uma família se perde na floresta, seus donos partem em uma incrível jornada para salvá-lo.[/COLOR]
+[COLOR lime]»»[/COLOR][B][COLOR red] Dublado [/COLOR][/B][COLOR lime]««[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Família, Aventura, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 35m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Procura-se Gonker [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Jb3Y09mwMkTj3wm</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ziAL5224J9QHA0S0exarpkz4eUN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kLPIfUrMrjApjOxtqBUWI1MItOd.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Quando o amado cãozinho de uma família se perde na floresta, seus donos partem em uma incrível jornada para salvá-lo.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Família, Aventura, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 35m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] 10 Dias de um Homem Bom [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/8Zkllak46btoB78</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eQnY9isD2u7jdSkyfy8qjdMgQnT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72Cz99QcfnlcyUy7PePQZISVxxr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Sadık (Nejat Isler) é um homem de grande integridade e força vital, além disso, sempre esteve muito empenhado em ajudar o próximo, por isso, começou a trabalhar como advogado.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Mistério, Thriller, Crime[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 4m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] 10 Dias de um Homem Bom [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/gveDR1WM8OHqrky</link>
+<subtitle>https://subs.warezcdn.net/224426-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/eQnY9isD2u7jdSkyfy8qjdMgQnT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72Cz99QcfnlcyUy7PePQZISVxxr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Sadık (Nejat Isler) é um homem de grande integridade e força vital, além disso, sempre esteve muito empenhado em ajudar o próximo, por isso, começou a trabalhar como advogado.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Mistério, Thriller, Crime[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 4m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Alerta Máximo [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ZXKebXWvaViqJ1z</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9Rq14Eyrf7Tu1xk0Pl7VcNbNh1n.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]O piloto Brodie Torrance salva seus passageiros de um raio pousando em uma ilha. Os moradores rebeldes e perigosos do local fazem a tripulação refém e Torrance procura ajuda de um passageiro acusado de assassinato.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 47m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Alerta Máximo [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendao[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/d721BJqQMWHkJWw</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9Rq14Eyrf7Tu1xk0Pl7VcNbNh1n.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]O piloto Brodie Torrance salva seus passageiros de um raio pousando em uma ilha. Os moradores rebeldes e perigosos do local fazem a tripulação refém e Torrance procura ajuda de um passageiro acusado de assassinato.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 47m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Duro de Atuar [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/qJGKZmrdVbizG4G</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hcuZ68ymJgohTerR8Oo1mb76SJv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t2k1pK0PCFcxhaXMHHSl9mHDytr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Kevin Hart, fazendo uma versão de si mesmo, vai encarar o desafio da sua vida para se tornar um herói de ação. E só com a ajuda de John Travolta, Nathalie Emmanuel e Josh Hartnett que ele poderá alcançar o sucesso.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Comédia, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 24m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Duro de Atuar [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/6QYgKMgW10tegA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hcuZ68ymJgohTerR8Oo1mb76SJv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t2k1pK0PCFcxhaXMHHSl9mHDytr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Kevin Hart, fazendo uma versão de si mesmo, vai encarar o desafio da sua vida para se tornar um herói de ação. E só com a ajuda de John Travolta, Nathalie Emmanuel e Josh Hartnett que ele poderá alcançar o sucesso.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Comédia, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 24m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

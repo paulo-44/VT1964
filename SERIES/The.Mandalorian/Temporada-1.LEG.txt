@@ -1,0 +1,13 @@
+<item>
+<title>[B][COLOR white] O Mandaloriano (S01E01)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/GvQvQG3Y9Mfowo</link>
+<thumbnail>https://artworks.thetvdb.com/banners/series/361753/seasons/806365/posters/5f9d8d0395fea.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/v4/series/361753/backgrounds/63f162936e3ea.jpg</fanart>
+<info>
+
+[COLOR lime]S01E01[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

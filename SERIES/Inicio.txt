@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+
+ <channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] The Mandalorian | [/COLOR][/B]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/1xO2UnWyxoyTrdvVDXW276LaHQc.jpg</thumbnail>
+		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/SERIES/The.Mandalorian/Temporadas.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/1q4fsKSUJf7HIRpViK4uoKnTAPr.jpg</fanart>
+		<info>			
+[COLOR lime]»»[/COLOR][COLOR white] DUBLADO/LEGENDADO [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 3ª Temporada [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 2ª Temporada [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 1ª Temporada [/COLOR]
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+	
+  <channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] The Mandalorian | [/COLOR][COLOR gold]1ª/2ª/3ª Temporada[/COLOR][/B]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/1xO2UnWyxoyTrdvVDXW276LaHQc.jpg</thumbnail>
+		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/SERIES/The.Mandalorian/Temporadas.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/1q4fsKSUJf7HIRpViK4uoKnTAPr.jpg</fanart>
+		<info>			
+[COLOR lime]»»[/COLOR][COLOR white] DUBLADO/LEGENDADO [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 3ª Temporada [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 2ª Temporada [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 1ª Temporada [/COLOR]
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------	
+       
+
+	
+	
+	
+</channels>

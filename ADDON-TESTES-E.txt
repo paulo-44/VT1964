@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+
+
+	
+	<channel>
+		<name>[B][COLOR orange]●≡ [/COLOR] [COLOR white] LANÇAMENTOS | [COLOR gold]7[/COLOR][COLOR lime]Plus.BR[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/jd279wVt/lan-amentos.png</thumbnail>
+		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/2023.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+
+
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+	<channel>
+		<name>[B][COLOR orange]●≡ [/COLOR] [COLOR white] FILMES CATEGORIAS | [COLOR gold]7[/COLOR][COLOR lime]Plus.BR[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/rwvx58Pc/filmes.png</thumbnail>
+		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/Filmes/Categorias.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+
+</info>
+	</channel>
+		
+-----------------------------------------------------------------------------------------------------------------------------
+	<channel>
+		<name>[B][COLOR orange]●≡ [/COLOR] [COLOR white] SERIES | [COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/RFv3TqQr/series.png</thumbnail>
+		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/SERIES/Inicio.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+
+</info>
+	</channel>		
+	
+-----------------------------------------------------------------------------------------------------------------------------
+	<channel>
+		<name>[B][COLOR orange]●≡ [/COLOR] [COLOR white] ANIMAÇÃO | [COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/g25q4yrC/animacao.png</thumbnail>
+		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/ANIMACAO/Animacao.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+
+</info>
+	</channel>		
+	
+-----------------------------------------------------------------------------------------------------------------------------
+	<channel>
+		<name>[B][COLOR orange]●≡ [/COLOR] [COLOR white] ANIMES | [COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/g25q4yrC/animacao.png</thumbnail>
+		<externallink>http://a7plusneotv.ephialtes.feralhosting.com/7Plus.BR-TESTES/ANIMES/Inicio.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+
+</info>
+	</channel>		
+	
+-----------------------------------------------------------------------------------------------------------------------------		
+
+	
+</channels>

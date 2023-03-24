@@ -1,0 +1,141 @@
+
+<item>
+<title>[B][COLOR white] 10 Dias de um Homem Bom [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/8Zkllak46btoB78</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eQnY9isD2u7jdSkyfy8qjdMgQnT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72Cz99QcfnlcyUy7PePQZISVxxr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Sadık (Nejat Isler) é um homem de grande integridade e força vital, além disso, sempre esteve muito empenhado em ajudar o próximo, por isso, começou a trabalhar como advogado.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Mistério, Thriller, Crime[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 4m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] 10 Dias de um Homem Bom [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/gveDR1WM8OHqrky</link>
+<subtitle>https://subs.warezcdn.net/224426-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/eQnY9isD2u7jdSkyfy8qjdMgQnT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72Cz99QcfnlcyUy7PePQZISVxxr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Sadık (Nejat Isler) é um homem de grande integridade e força vital, além disso, sempre esteve muito empenhado em ajudar o próximo, por isso, começou a trabalhar como advogado.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Mistério, Thriller, Crime[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 4m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<item>
+<title>[B][COLOR white] Alerta Máximo [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ZXKebXWvaViqJ1z</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9Rq14Eyrf7Tu1xk0Pl7VcNbNh1n.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]O piloto Brodie Torrance salva seus passageiros de um raio pousando em uma ilha. Os moradores rebeldes e perigosos do local fazem a tripulação refém e Torrance procura ajuda de um passageiro acusado de assassinato.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 47m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Alerta Máximo [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendao[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/d721BJqQMWHkJWw</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9Rq14Eyrf7Tu1xk0Pl7VcNbNh1n.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]O piloto Brodie Torrance salva seus passageiros de um raio pousando em uma ilha. Os moradores rebeldes e perigosos do local fazem a tripulação refém e Torrance procura ajuda de um passageiro acusado de assassinato.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 47m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Duro de Atuar [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/qJGKZmrdVbizG4G</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hcuZ68ymJgohTerR8Oo1mb76SJv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t2k1pK0PCFcxhaXMHHSl9mHDytr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Kevin Hart, fazendo uma versão de si mesmo, vai encarar o desafio da sua vida para se tornar um herói de ação. E só com a ajuda de John Travolta, Nathalie Emmanuel e Josh Hartnett que ele poderá alcançar o sucesso.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Comédia, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 24m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Duro de Atuar [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/6QYgKMgW10tegA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hcuZ68ymJgohTerR8Oo1mb76SJv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t2k1pK0PCFcxhaXMHHSl9mHDytr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Kevin Hart, fazendo uma versão de si mesmo, vai encarar o desafio da sua vida para se tornar um herói de ação. E só com a ajuda de John Travolta, Nathalie Emmanuel e Josh Hartnett que ele poderá alcançar o sucesso.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Comédia, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 24m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Mar em Fúria [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/RAoDJzGkJquxjy</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9R0CYorOmNfp17hnvO5zioT70D6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cmOWlfDvBSMyLaeZ85M87GmkH8v.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Pessoas corajosas arriscam suas vidas colocando seus barcos de pesca e navios de resgate contra as forças da natureza. Seus piores temores se tornam realidade no Halloween de 1991, quando são confrontados pela maior tempestade da história.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2000) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 10m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Mar em Fúria [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Yy3z2Kkaq4Fv9XQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9R0CYorOmNfp17hnvO5zioT70D6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cmOWlfDvBSMyLaeZ85M87GmkH8v.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Pessoas corajosas arriscam suas vidas colocando seus barcos de pesca e navios de resgate contra as forças da natureza. Seus piores temores se tornam realidade no Halloween de 1991, quando são confrontados pela maior tempestade da história.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2000) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 10m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Jardineiro [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/JJbQw0xoD9Ujjol</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rhJYhUm7YMGEfUaWzfAeK2M4tYO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wZ80bO4DCymq5MhdtfQHLz2RVKb.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma família rica e problemática se reúne em uma mansão pitoresca para as férias, sem suspeitar que o sanguinário e sádico Volker e sua tripulação permanecem nos portões, prontos para atacar, roubar e mutilar ao anoitecer.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2021) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 29m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Jardineiro [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/2BAB9VQ7AahQLg</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rhJYhUm7YMGEfUaWzfAeK2M4tYO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wZ80bO4DCymq5MhdtfQHLz2RVKb.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma família rica e problemática se reúne em uma mansão pitoresca para as férias, sem suspeitar que o sanguinário e sádico Volker e sua tripulação permanecem nos portões, prontos para atacar, roubar e mutilar ao anoitecer.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2021) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 29m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

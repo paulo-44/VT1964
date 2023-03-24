@@ -1,0 +1,58 @@
+<item>
+<title>[B][COLOR white] 10 Dias de um Homem Bom [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/8Zkllak46btoB78</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eQnY9isD2u7jdSkyfy8qjdMgQnT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72Cz99QcfnlcyUy7PePQZISVxxr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Sadık (Nejat Isler) é um homem de grande integridade e força vital, além disso, sempre esteve muito empenhado em ajudar o próximo, por isso, começou a trabalhar como advogado.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Mistério, Thriller, Crime[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 4m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] 10 Dias de um Homem Bom [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/gveDR1WM8OHqrky</link>
+<subtitle>https://subs.warezcdn.net/224426-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/eQnY9isD2u7jdSkyfy8qjdMgQnT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72Cz99QcfnlcyUy7PePQZISVxxr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Sadık (Nejat Isler) é um homem de grande integridade e força vital, além disso, sempre esteve muito empenhado em ajudar o próximo, por isso, começou a trabalhar como advogado.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Mistério, Thriller, Crime[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 4m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Inimigos de Sangue [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/3k7qVgejMBidkJe</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/b5n8VuzaAywM1fIR3ECj3dvoO7B.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/movies/7592/backgrounds/7592.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]O criminoso Jacob Sternwood (Strong) é forçado a voltar a Londres após seu filho se envolver em um assalto que deu errado, dando ao detetive Max Lewinsky (McAvoy) uma última chance de capturá-lo.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Crime[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2013) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 39m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Inimigos de Sangue [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/yMZdRZk6ges1r2v</link>
+<subtitle>https://cdn.pobre.tv/subs/tt1684233.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/b5n8VuzaAywM1fIR3ECj3dvoO7B.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/movies/7592/backgrounds/7592.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]O criminoso Jacob Sternwood (Strong) é forçado a voltar a Londres após seu filho se envolver em um assalto que deu errado, dando ao detetive Max Lewinsky (McAvoy) uma última chance de capturá-lo.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Crime[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2013) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 39m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

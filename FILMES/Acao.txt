@@ -1,0 +1,197 @@
+
+<item>
+<title>[B][COLOR white] Alerta Máximo [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ZXKebXWvaViqJ1z</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9Rq14Eyrf7Tu1xk0Pl7VcNbNh1n.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]O piloto Brodie Torrance salva seus passageiros de um raio pousando em uma ilha. Os moradores rebeldes e perigosos do local fazem a tripulação refém e Torrance procura ajuda de um passageiro acusado de assassinato.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 47m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Alerta Máximo [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendao[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/d721BJqQMWHkJWw</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zr50kb04fTFcGfZTKFzbKTmQSiZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9Rq14Eyrf7Tu1xk0Pl7VcNbNh1n.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]O piloto Brodie Torrance salva seus passageiros de um raio pousando em uma ilha. Os moradores rebeldes e perigosos do local fazem a tripulação refém e Torrance procura ajuda de um passageiro acusado de assassinato.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 47m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<item>
+<title>[B][COLOR white] Duro de Atuar [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/qJGKZmrdVbizG4G</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hcuZ68ymJgohTerR8Oo1mb76SJv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t2k1pK0PCFcxhaXMHHSl9mHDytr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Kevin Hart, fazendo uma versão de si mesmo, vai encarar o desafio da sua vida para se tornar um herói de ação. E só com a ajuda de John Travolta, Nathalie Emmanuel e Josh Hartnett que ele poderá alcançar o sucesso.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Comédia, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 24m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Duro de Atuar [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/6QYgKMgW10tegA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hcuZ68ymJgohTerR8Oo1mb76SJv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t2k1pK0PCFcxhaXMHHSl9mHDytr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Kevin Hart, fazendo uma versão de si mesmo, vai encarar o desafio da sua vida para se tornar um herói de ação. E só com a ajuda de John Travolta, Nathalie Emmanuel e Josh Hartnett que ele poderá alcançar o sucesso.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Comédia, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 24m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Mar em Fúria [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/RAoDJzGkJquxjy</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9R0CYorOmNfp17hnvO5zioT70D6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cmOWlfDvBSMyLaeZ85M87GmkH8v.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Pessoas corajosas arriscam suas vidas colocando seus barcos de pesca e navios de resgate contra as forças da natureza. Seus piores temores se tornam realidade no Halloween de 1991, quando são confrontados pela maior tempestade da história.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2000) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 10m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Mar em Fúria [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Yy3z2Kkaq4Fv9XQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9R0CYorOmNfp17hnvO5zioT70D6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cmOWlfDvBSMyLaeZ85M87GmkH8v.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Pessoas corajosas arriscam suas vidas colocando seus barcos de pesca e navios de resgate contra as forças da natureza. Seus piores temores se tornam realidade no Halloween de 1991, quando são confrontados pela maior tempestade da história.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2000) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 10m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Inimigos de Sangue [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/3k7qVgejMBidkJe</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/b5n8VuzaAywM1fIR3ECj3dvoO7B.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/movies/7592/backgrounds/7592.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]O criminoso Jacob Sternwood (Strong) é forçado a voltar a Londres após seu filho se envolver em um assalto que deu errado, dando ao detetive Max Lewinsky (McAvoy) uma última chance de capturá-lo.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Crime[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2013) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 39m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Inimigos de Sangue [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/yMZdRZk6ges1r2v</link>
+<subtitle>https://cdn.pobre.tv/subs/tt1684233.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/b5n8VuzaAywM1fIR3ECj3dvoO7B.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/movies/7592/backgrounds/7592.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]O criminoso Jacob Sternwood (Strong) é forçado a voltar a Londres após seu filho se envolver em um assalto que deu errado, dando ao detetive Max Lewinsky (McAvoy) uma última chance de capturá-lo.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Crime[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2013) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 39m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Jardineiro [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/JJbQw0xoD9Ujjol</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rhJYhUm7YMGEfUaWzfAeK2M4tYO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wZ80bO4DCymq5MhdtfQHLz2RVKb.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma família rica e problemática se reúne em uma mansão pitoresca para as férias, sem suspeitar que o sanguinário e sádico Volker e sua tripulação permanecem nos portões, prontos para atacar, roubar e mutilar ao anoitecer.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2021) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 29m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Jardineiro [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/2BAB9VQ7AahQLg</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rhJYhUm7YMGEfUaWzfAeK2M4tYO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wZ80bO4DCymq5MhdtfQHLz2RVKb.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma família rica e problemática se reúne em uma mansão pitoresca para as férias, sem suspeitar que o sanguinário e sádico Volker e sua tripulação permanecem nos portões, prontos para atacar, roubar e mutilar ao anoitecer.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2021) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 29m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Pantera Negra: Wakanda para Sempre [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/dvQqrlQe87IkWpM</link>
+<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/31110/posters/636245be89636.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/v4/movie/31110/backgrounds/635f049846860.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje, lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa. Enquanto os wakandanos se esforçam para abraçar seu próximo capítulo, os heróis devem se unir com a ajuda de War Dog Nakia e Everett Ross e forjar um novo caminho para o reino de Wakanda.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Ficção científica[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 42m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Pantera Negra: Wakanda para Sempre [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/8dlyv8vel3cMve</link>
+<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/31110/posters/636245be89636.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/v4/movie/31110/backgrounds/635f049846860.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje, lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa. Enquanto os wakandanos se esforçam para abraçar seu próximo capítulo, os heróis devem se unir com a ajuda de War Dog Nakia e Everett Ross e forjar um novo caminho para o reino de Wakanda.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Ficção científica[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 42m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Top Gun: Maverick [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/JpR0q6J49zCjmrL</link>
+<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/16721/posters/628136f172fe4.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/v4/movie/16721/backgrounds/63ac6b4a1ddb4.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete "Maverick" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 11m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Top Gun: Maverick [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/rbM1q9D3y7HbD3r</link>
+<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/16721/posters/628136f172fe4.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/v4/movie/16721/backgrounds/63ac6b4a1ddb4.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete "Maverick" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 11m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

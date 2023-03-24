@@ -1,0 +1,29 @@
+<item>
+<title>[B][COLOR white] 10 Dias de um Homem Bom [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/8Zkllak46btoB78</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eQnY9isD2u7jdSkyfy8qjdMgQnT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72Cz99QcfnlcyUy7PePQZISVxxr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Sadık (Nejat Isler) é um homem de grande integridade e força vital, além disso, sempre esteve muito empenhado em ajudar o próximo, por isso, começou a trabalhar como advogado.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Mistério, Thriller, Crime[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 4m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] 10 Dias de um Homem Bom [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/gveDR1WM8OHqrky</link>
+<subtitle>https://subs.warezcdn.net/224426-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/eQnY9isD2u7jdSkyfy8qjdMgQnT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/72Cz99QcfnlcyUy7PePQZISVxxr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Sadık (Nejat Isler) é um homem de grande integridade e força vital, além disso, sempre esteve muito empenhado em ajudar o próximo, por isso, começou a trabalhar como advogado.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Mistério, Thriller, Crime[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 4m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
