@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] Drácula - O Príncipe das Trevas [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/6WY0Vllyvbu9yGl</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xHhBLyMIwoy0B6EVsB7ms3gZGBJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9fJ8mWMLotf10CyfwiSIFydPhsz.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Drácula, o príncipe da Valáquia, se volta para o lado das trevas após o assassinato de sua amada esposa. Muitos anos depois ele conhece Alina, e a considera a reencarnação de seu amor perdido e a sequestra. Os companheiros de Alina, liderados pelo famoso caçador de vampiros Van Helsing, partem em sua perseguição.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Fantasia, Terror[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2013) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 40m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Drácula - O Príncipe das Trevas [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/A3GYD7VaJqSZle</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xHhBLyMIwoy0B6EVsB7ms3gZGBJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9fJ8mWMLotf10CyfwiSIFydPhsz.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Drácula, o príncipe da Valáquia, se volta para o lado das trevas após o assassinato de sua amada esposa. Muitos anos depois ele conhece Alina, e a considera a reencarnação de seu amor perdido e a sequestra. Os companheiros de Alina, liderados pelo famoso caçador de vampiros Van Helsing, partem em sua perseguição.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Fantasia, Terror[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2013) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 40m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] A Profecia do Mal [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/eK7p4ZVKrAc2BQ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg</thumbnail>
