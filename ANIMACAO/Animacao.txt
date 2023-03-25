@@ -1,4 +1,60 @@
 <item>
+<title>[B][COLOR white] Boogey Um Monstro Adorável [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ZjgYMAAy76UqJQx</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mghRagZrG8ZGVmmc72o09k98COR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4GCchOswwH2j5hNtzTBjH54z2NW.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Na festa de 16 anos da princesa Barbara, um bandido aproveita a distração para se apossar do trono. Mas ele não quer governar sozinho e planeja se casar com ela. Barbara foge e faz amigos inusitados na floresta.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 38m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Dragon Ball Super: Super Hero [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/6wvxoQMVZJSLLr</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pUNVd61pqLzYLVDl5fFbN9xUPAq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uR0FopHrAjDlG5q6PZB07a1JOva.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Com suas capas balançando, Gamma 1 e Gamma 2 podem ser vistos fazendo algumas poses incríveis! Além disso, há alguns novos personagens originais que teremos que esperar para descobrir mais, não importa o quão difícil possa ser![/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 39m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Uma Noite no Museu: O Retorno de Kahmunrah [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/WPd3p76Y18Sb4Xm</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7M19SPS4iv5rP73fuUB1VF1eano.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6rax7iv5yQtldc3ApEvrheJf8uw.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Nick Daley segue os passos do pai como guarda noturno no Museu Americano de História Natural, e já conhece a antiga placa do museu que dá vida a tudo quando o sol se põe.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 20m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] As Aventuras de Tadeo e a Tábua de Esmeralda [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Zj9D7lvWlmtqpZp</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9KADuZT3KwmCYIrmarPuGyGTriw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tUBN1paMQ1tmVA5Sjy1ZjPWVsiF.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Tadeo adoraria ser reconhecido pelos colegas arqueólogos, mas acaba sempre por arranjar confusão! Tadeo volta a fazer das suas ao destruir inadvertidamente um raro sarcófago e libertar um feitiço que põe em perigo as vidas dos seus amigos.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 29m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] O Rei Leão [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/XzVaYbJJz3cD4Xa</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8aIvm8OaJISOpVTt7rMIh7X35G5.jpg</thumbnail>
