@@ -103,6 +103,18 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 <channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Faroeste | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Faroeste.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+	
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Ficção científica | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Ficcao.cientifica.txt</externallink>
