@@ -1,4 +1,33 @@
 <item>
+<title>[B][COLOR white] Morbius [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/DlAxzR703atG0q</link>
+<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/34898/posters/61ad1ba5559a8.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/v4/movie/34898/backgrounds/626270e48ec8a.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Na tentativa de se curar de uma rara doença sanguínea, o cientista Michael Morbius acaba infectando a si mesmo com um tipo de vampirismo.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Fantasia[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 5m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Morbius [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/apJpoRBV2XtxyMP</link>
+<subtitle>https://subs.warezcdn.com/197338-PTB.srt</subtitle>
+<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/34898/posters/61ad1ba5559a8.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/v4/movie/34898/backgrounds/626270e48ec8a.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Na tentativa de se curar de uma rara doença sanguínea, o cientista Michael Morbius acaba infectando a si mesmo com um tipo de vampirismo.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Fantasia[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 5m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Pantera Negra: Wakanda para Sempre [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/dvQqrlQe87IkWpM</link>
 <thumbnail>https://artworks.thetvdb.com/banners/v4/movie/31110/posters/636245be89636.jpg</thumbnail>
