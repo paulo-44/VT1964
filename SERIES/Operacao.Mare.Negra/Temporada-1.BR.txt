@@ -1,0 +1,52 @@
+<item>
+<title>[B][COLOR white] Operação Maré Negra (S01E01)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/9lmfu5crci2m.html</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/13C2yjnFIIZwQzkf3WvPP0mnoPC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fXs8FCiVqJsmLENvaKl9r3RYUNz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E01[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Operação Maré Negra (S01E02)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/e93whv6nwgtj.html</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/13C2yjnFIIZwQzkf3WvPP0mnoPC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fXs8FCiVqJsmLENvaKl9r3RYUNz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E02[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Operação Maré Negra (S01E03)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/m8qkqcy4mqka.html</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/13C2yjnFIIZwQzkf3WvPP0mnoPC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fXs8FCiVqJsmLENvaKl9r3RYUNz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E03[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Operação Maré Negra (S01E04)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/xw0h31wa4352.html</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/13C2yjnFIIZwQzkf3WvPP0mnoPC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fXs8FCiVqJsmLENvaKl9r3RYUNz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E04[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

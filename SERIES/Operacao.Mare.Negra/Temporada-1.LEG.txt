@@ -1,0 +1,65 @@
+<item>
+<title>[B][COLOR white] Operação Maré Negra (S01E01)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/6w7m4uj02d8y.html</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/13C2yjnFIIZwQzkf3WvPP0mnoPC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fXs8FCiVqJsmLENvaKl9r3RYUNz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E01[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Operação Maré Negra (S01E02)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/740iymzfi8fy.html</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/13C2yjnFIIZwQzkf3WvPP0mnoPC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fXs8FCiVqJsmLENvaKl9r3RYUNz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E02[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Operação Maré Negra (S01E02)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/740iymzfi8fy.html</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/13C2yjnFIIZwQzkf3WvPP0mnoPC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fXs8FCiVqJsmLENvaKl9r3RYUNz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E02[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Operação Maré Negra (S01E03)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/l71ita4d5iid.html</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/13C2yjnFIIZwQzkf3WvPP0mnoPC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fXs8FCiVqJsmLENvaKl9r3RYUNz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E03[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Operação Maré Negra (S01E04)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/qnsn2nbhdq9f.html</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/13C2yjnFIIZwQzkf3WvPP0mnoPC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fXs8FCiVqJsmLENvaKl9r3RYUNz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E04[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
