@@ -5,9 +5,9 @@
 
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] The Last of Us | [/COLOR][COLOR lime]Dublado/[/COLOR][COLOR gold]Legendado[/COLOR][/B]</name>
-		<thumbnail>https://www.themoviedb.org/t/p/original/1xO2UnWyxoyTrdvVDXW276LaHQc.jpg</thumbnail>
+		<thumbnail>https://www.themoviedb.org/t/p/original/sADB9n2KwhQNsRLfzeuTj8BsqeB.jpg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Last.of.Us/Temporadas.txt</externallink>
-		<fanart>https://www.themoviedb.org/t/p/original/1q4fsKSUJf7HIRpViK4uoKnTAPr.jpg</fanart>
+		<fanart>https://www.themoviedb.org/t/p/original/uJ16DD1dj4CQLPNCWIoiOF3l8np.jpg</fanart>
 		<info>			
 
 [COLOR lime]»»[/COLOR][COLOR gold] 1ª Temporada [/COLOR]
