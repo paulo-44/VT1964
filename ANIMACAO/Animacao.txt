@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] LUPIN III vs. CAT’S EYE [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/jgR14w2pM3szVP8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/orxglUUdagY4HNUrS4Zvrcdk7u5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sVa8AA4EpUsSV1Jjj52S8fF77pF.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Hitomi, Rui e Ai são irmãs e ladras. Elas roubam um quadro de um museu ao mesmo tempo em que Lupin III aparece para roubar outro quadro.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 32m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Legion of Super-Heroes [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/RALdmYgMzZCdlWy</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8M6bA5t2q5u1nWDTEIXuGDwvboW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jhi3K0rN46SSu9wEu6zYVCOeVtH.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Kara, devastada pela perda de Krypton, luta para se ajustar à sua nova vida na Terra. Seu primo, Superman, a orienta e sugere que ela deixa o espaço para participar da Academia da Legião no século 31, onde faz novos amigos e um novo inimigo: Brainiac 5.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 20m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Estranho Mundo [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/zKWPQMg7AYcYavW</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uAlwqJbFqMRWXUA45E1aw1Pacun.jpg</thumbnail>
