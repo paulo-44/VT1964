@@ -1,4 +1,33 @@
 <item>
+<title>[B][COLOR white] Samaritano [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/7PDVlDWWM8SAOO9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/z0de9eo5QznG9KEijDvROHrYSfo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hYZ4a0JvPETdfgJJ9ZzyFufq8KQ.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]25 anos após uma batalha insana, todos acreditavam que o super-herói Samaritano estava morto. Mas agora um garotinho começa uma investigação para procurar o paradeiro do super-herói e a sua principal pista é Joe, um trabalhador que parece comum, mas esconde sua verdadeira identidade heróica.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Drama, Fantasia, Ficção científica[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 39m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Samaritano [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/J9j91je4D4TjByw</link>
+<subtitle>https://subs.warezcdn.com/217888-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/z0de9eo5QznG9KEijDvROHrYSfo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hYZ4a0JvPETdfgJJ9ZzyFufq8KQ.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]25 anos após uma batalha insana, todos acreditavam que o super-herói Samaritano estava morto. Mas agora um garotinho começa uma investigação para procurar o paradeiro do super-herói e a sua principal pista é Joe, um trabalhador que parece comum, mas esconde sua verdadeira identidade heróica.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Drama, Fantasia, Ficção científica[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 39m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] O Último Refúgio [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/K7xrKDL3BaH01Az</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gOb4hPx4hw0g2TkofJNkM3YIDZ4.jpg</thumbnail>
