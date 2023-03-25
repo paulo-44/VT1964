@@ -1,4 +1,18 @@
 <item>
+<title>[B][COLOR white] teste [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/9lmfu5crci2m.html</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mghRagZrG8ZGVmmc72o09k98COR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4GCchOswwH2j5hNtzTBjH54z2NW.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Na festa de 16 anos da princesa Barbara, um bandido aproveita a distração para se apossar do trono. Mas ele não quer governar sozinho e planeja se casar com ela. Barbara foge e faz amigos inusitados na floresta.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 38m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Boogey Um Monstro Adorável [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ZjgYMAAy76UqJQx</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mghRagZrG8ZGVmmc72o09k98COR.jpg</thumbnail>
