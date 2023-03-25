@@ -4,6 +4,21 @@
 
 
  <channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Operação Maré Negra | [/COLOR][COLOR lime]Dublado/[/COLOR][COLOR gold]Legendado[/COLOR][/B]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/13C2yjnFIIZwQzkf3WvPP0mnoPC.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/Operacao.Mare.Negra/Temporadas.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/fXs8FCiVqJsmLENvaKl9r3RYUNz.jpg</fanart>
+		<info>			
+
+[COLOR lime]»»[/COLOR][COLOR gold] 1ª Temporada [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 2ª Temporada [/COLOR]
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+ <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] The Last of Us | [/COLOR][COLOR lime]Dublado/[/COLOR][COLOR gold]Legendado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/sADB9n2KwhQNsRLfzeuTj8BsqeB.jpg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Last.of.Us/Temporadas.txt</externallink>
