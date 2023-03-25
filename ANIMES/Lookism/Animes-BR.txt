@@ -1,17 +1,4 @@
 <item>
-<title>[B][COLOR white] teste (S01E01)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/qd0r0zjscwm1.html</link>
-<thumbnail>https://artworks.thetvdb.com/banners/v4/series/425285/posters/6394b5089dcdd.jpg</thumbnail>
-<fanart>https://artworks.thetvdb.com/banners/v4/series/425285/backgrounds/63d1cc15df5a0.jpg</fanart>
-<info>
-
-[COLOR lime]S01E01[/COLOR]
-</info>
-
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
 <title>[B][COLOR white] Lookism (S01E01)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.co/e/j9n6n9kga78g4ll</link>
 <thumbnail>https://artworks.thetvdb.com/banners/v4/series/425285/posters/6394b5089dcdd.jpg</thumbnail>
