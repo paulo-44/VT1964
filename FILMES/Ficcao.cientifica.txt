@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] O Último Refúgio [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/K7xrKDL3BaH01Az</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gOb4hPx4hw0g2TkofJNkM3YIDZ4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s56FLOb4hit0vvIjpAVFU29IvF4.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Tov Matheson é um veterano de guerra com transtorno de estresse pós-traumático que percebe que o fim do mundo está chegando. Depois de se relacionar com um duvidoso Messias, ele deixa sua vida normal para iniciar a construção de um abrigo subterrâneo e treina-se, de forma extrema, à custa de tudo em sua vida. Quando ele também acredita no Messias, algo extraordinário acontece.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Drama, Ficção científica, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2018) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 41m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Último Refúgio [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/gdZGLlLZzdS3Lr</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gOb4hPx4hw0g2TkofJNkM3YIDZ4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s56FLOb4hit0vvIjpAVFU29IvF4.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Tov Matheson é um veterano de guerra com transtorno de estresse pós-traumático que percebe que o fim do mundo está chegando. Depois de se relacionar com um duvidoso Messias, ele deixa sua vida normal para iniciar a construção de um abrigo subterrâneo e treina-se, de forma extrema, à custa de tudo em sua vida. Quando ele também acredita no Messias, algo extraordinário acontece.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Drama, Ficção científica, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2018) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 41m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Pantera Negra: Wakanda para Sempre [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/dvQqrlQe87IkWpM</link>
 <thumbnail>https://artworks.thetvdb.com/banners/v4/movie/31110/posters/636245be89636.jpg</thumbnail>

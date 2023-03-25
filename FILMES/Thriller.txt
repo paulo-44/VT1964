@@ -1,4 +1,46 @@
 <item>
+<title>[B][COLOR white] O Último Refúgio [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/K7xrKDL3BaH01Az</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gOb4hPx4hw0g2TkofJNkM3YIDZ4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s56FLOb4hit0vvIjpAVFU29IvF4.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Tov Matheson é um veterano de guerra com transtorno de estresse pós-traumático que percebe que o fim do mundo está chegando. Depois de se relacionar com um duvidoso Messias, ele deixa sua vida normal para iniciar a construção de um abrigo subterrâneo e treina-se, de forma extrema, à custa de tudo em sua vida. Quando ele também acredita no Messias, algo extraordinário acontece.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Drama, Ficção científica, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2018) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 41m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] O Último Refúgio [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/gdZGLlLZzdS3Lr</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gOb4hPx4hw0g2TkofJNkM3YIDZ4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s56FLOb4hit0vvIjpAVFU29IvF4.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Tov Matheson é um veterano de guerra com transtorno de estresse pós-traumático que percebe que o fim do mundo está chegando. Depois de se relacionar com um duvidoso Messias, ele deixa sua vida normal para iniciar a construção de um abrigo subterrâneo e treina-se, de forma extrema, à custa de tudo em sua vida. Quando ele também acredita no Messias, algo extraordinário acontece.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Drama, Ficção científica, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2018) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 41m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] The Weapon [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/rk1PaY073ZfbbXk</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/slQYCDzCMM8SBh9Xa3aPeM2fekA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/i7nnmCTnjK50vNqbMfVtmoVULWJ.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Dallas é uma máquina de matar de um homem só que está trabalhando para um chefe da máfia de Las Vegas e não vai parar até que a justiça seja feita.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 25m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] A Profecia do Mal [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/eK7p4ZVKrAc2BQ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg</thumbnail>
