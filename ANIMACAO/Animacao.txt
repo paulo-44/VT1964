@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] O Rei Leão [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/XzVaYbJJz3cD4Xa</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8aIvm8OaJISOpVTt7rMIh7X35G5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yDaMQbBfyGzGWKxUsPMxzWVuJlY.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Mufasa, o Rei Leão, e a rainha Sarabi apresentam ao reino o herdeiro do trono, Simba. O recém-nascido recebe a bênção do sábio babuíno Rafiki, mas ao crescer é envolvido nas artimanhas de seu tio Scar, o invejoso e maquiavélico irmão de Mufasa, que planeja livrar-se do sobrinho e herdar o trono.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (1994) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 29m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Kubo e as Cordas Mágicas [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/or0PazPGkpUJrle</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ewcOCkuuKAKULGUnbBVaO1htt0D.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/2nGKhDksmoDdkllXm5D5gy2urCg.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Kubo vive uma normal e tranquila vida em uma pequena vila no Japão com sua mãe. Até que um espírito vingativo do passado muda completamente sua vida, ao fazer com que todos os tipos de deuses e monstros o persigam. Agora, para sobreviver, Kubo terá de encontrar uma armadura mágica que foi usada pelo seu falecido pai, um lendário guerreiro samurai.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2016) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 42m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] LUPIN III vs. CAT’S EYE [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/jgR14w2pM3szVP8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/orxglUUdagY4HNUrS4Zvrcdk7u5.jpg</thumbnail>
