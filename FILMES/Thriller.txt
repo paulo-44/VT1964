@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] Dead for a Dollar [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/g9Wl0wLDKXhqdox</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rJv7YTJWl3CvgMfYRyIO2M4kEzk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/15BnuDQ8pYRmLqPZKAk5vIhUu9J.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]O filme segue um famoso caçador de recompensas que encontra seu inimigo jurado, um jogador profissional e fora da lei que ele havia enviado para a prisão anos antes.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Faroeste, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 54m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Dead for a Dollar [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/DllvB4x6oGuk9PZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rJv7YTJWl3CvgMfYRyIO2M4kEzk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/15BnuDQ8pYRmLqPZKAk5vIhUu9J.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]O filme segue um famoso caçador de recompensas que encontra seu inimigo jurado, um jogador profissional e fora da lei que ele havia enviado para a prisão anos antes.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Faroeste, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 54m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] O Último Refúgio [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/K7xrKDL3BaH01Az</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gOb4hPx4hw0g2TkofJNkM3YIDZ4.jpg</thumbnail>
