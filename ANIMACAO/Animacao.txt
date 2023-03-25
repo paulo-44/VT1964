@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR white] Boogey Um Monstro Adorável [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<title>[B][COLOR white] Boogey Um Monstro Adorável [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ZjgYMAAy76UqJQx</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mghRagZrG8ZGVmmc72o09k98COR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4GCchOswwH2j5hNtzTBjH54z2NW.jpg</fanart>
