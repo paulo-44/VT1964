@@ -4,9 +4,9 @@
 
 
 <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] O Dono de Kingstown | S02 [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] O Dono de Kingstown | S01 [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/4tM2YazgdAaViRFjpQ52XN0lCEv.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Last.of.Us/Temporada-1.BR.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/O.Dono.de.Kingstown/Temporada-1.LEG.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/gQxaF79LUTtopdYHsuS8lUr9rvF.jpg</fanart>
 		<info>
 [COLOR lime]Sinopse:[/COLOR] [COLOR white]Os irmãos Mitch e Mike McLusky controlam Kingstown, lar de várias prisões, enquanto atuam como elos de ligação entre os prisioneiros e a comunidade. Quando um jovem guarda, Sam, é escalado para entregar uma carta para um prisioneiro, Mike se esforça para tirá-lo do gancho.[/COLOR]			
@@ -22,7 +22,7 @@
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] O Dono de Kingstown | S01 [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/4tM2YazgdAaViRFjpQ52XN0lCEv.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Last.of.Us/Temporada-1.BR.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/O.Dono.de.Kingstown/Temporada-1.BR.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/gQxaF79LUTtopdYHsuS8lUr9rvF.jpg</fanart>
 		<info>
 [COLOR lime]Sinopse:[/COLOR] [COLOR white]Os irmãos Mitch e Mike McLusky controlam Kingstown, lar de várias prisões, enquanto atuam como elos de ligação entre os prisioneiros e a comunidade. Quando um jovem guarda, Sam, é escalado para entregar uma carta para um prisioneiro, Mike se esforça para tirá-lo do gancho.[/COLOR]			
@@ -35,36 +35,5 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
 
- <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] The Last of Us | S01 [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
-		<thumbnail>https://www.themoviedb.org/t/p/original/sADB9n2KwhQNsRLfzeuTj8BsqeB.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Last.of.Us/Temporada-1.BR.txt</externallink>
-		<fanart>https://www.themoviedb.org/t/p/original/uJ16DD1dj4CQLPNCWIoiOF3l8np.jpg</fanart>
-		<info>
-[COLOR lime]Sinopse:[/COLOR] [COLOR white]Vinte anos após a queda da civilização, Joel é contratado pra tirar Ellie de uma zona de quarentena perigosa. O que começa como um pequeno trabalho, logo se transforma em uma jornada brutal pela sobrevivência.[/COLOR]			
-[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Drama[/COLOR]
-[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 60m[/COLOR]
-</info>
-	</channel>
 
------------------------------------------------------------------------------------------------------------------------------	
- <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] The Last of Us | S01 [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</name>
-		<thumbnail>https://www.themoviedb.org/t/p/original/sADB9n2KwhQNsRLfzeuTj8BsqeB.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Last.of.Us/Temporada-1.LEG.txt</externallink>
-		<fanart>https://www.themoviedb.org/t/p/original/uJ16DD1dj4CQLPNCWIoiOF3l8np.jpg</fanart>
-		<info>
-[COLOR lime]Sinopse:[/COLOR] [COLOR white]Vinte anos após a queda da civilização, Joel é contratado pra tirar Ellie de uma zona de quarentena perigosa. O que começa como um pequeno trabalho, logo se transforma em uma jornada brutal pela sobrevivência.[/COLOR]			
-[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Drama[/COLOR]
-[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 60m[/COLOR]
-</info>
-	</channel>
-
------------------------------------------------------------------------------------------------------------------------------       
-
-	
-	
-	
 </channels>
