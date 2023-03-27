@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] Céu Vermelho-Sangue [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/We9KAY9R9MTqeJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zacyfceQWlgA1PbL7PCs8bRTPsI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ptCYQFZgC13KwZJNke8zxepZwu8.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Quando um grupo de terroristas sequestra um voo transatlântico, uma mulher com uma doença misteriosa é forçada a revelar o seu segredo tenebroso para proteger o filho.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Terror, Thriller, Ação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 39m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Céu Vermelho-Sangue [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/k2zPQavQqasOKZ1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zacyfceQWlgA1PbL7PCs8bRTPsI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ptCYQFZgC13KwZJNke8zxepZwu8.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Quando um grupo de terroristas sequestra um voo transatlântico, uma mulher com uma doença misteriosa é forçada a revelar o seu segredo tenebroso para proteger o filho.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Terror, Thriller, Ação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 39m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Drácula - O Príncipe das Trevas [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/6WY0Vllyvbu9yGl</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xHhBLyMIwoy0B6EVsB7ms3gZGBJ.jpg</thumbnail>
