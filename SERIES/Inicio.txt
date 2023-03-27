@@ -6,7 +6,7 @@
 <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] O Dono de Kingstown | [/COLOR][COLOR lime]Dublado/[/COLOR][COLOR gold]Legendado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/4tM2YazgdAaViRFjpQ52XN0lCEv.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/Operacao.Mare.Negra/Temporadas.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/O.Dono.de.Kingstown/Temporadas.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/gQxaF79LUTtopdYHsuS8lUr9rvF.jpg</fanart>
 		<info>			
 
