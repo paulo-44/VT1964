@@ -1,8 +1,8 @@
 <item>
 <title>[B][COLOR white] Godzilla vs. Kong [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/yjjKGAr7A3U1bRb</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/z0de9eo5QznG9KEijDvROHrYSfo.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/hYZ4a0JvPETdfgJJ9ZzyFufq8KQ.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/51tAtnATqN9VizZDnCN0IdCQpXF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/inJjDhCjfhh3RtrJWBmmDqeuSYC.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Em uma época em que os monstros andam na Terra, a luta da humanidade por seu futuro coloca Godzilla e Kong em rota de colisão que verá as duas forças mais poderosas da natureza no planeta se confrontarem em uma batalha espetacular para as idades.[/COLOR]
 [COLOR lime]Género:[/COLOR][COLOR white] Ação, Ficção científica[/COLOR]
 [COLOR lime]Ano:[/COLOR][COLOR white] (2021) [/COLOR]
@@ -15,8 +15,8 @@
 <item>
 <title>[B][COLOR white] Godzilla vs. Kong [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/YV73kr8PzjhBXx</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/z0de9eo5QznG9KEijDvROHrYSfo.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/hYZ4a0JvPETdfgJJ9ZzyFufq8KQ.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/51tAtnATqN9VizZDnCN0IdCQpXF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/inJjDhCjfhh3RtrJWBmmDqeuSYC.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Em uma época em que os monstros andam na Terra, a luta da humanidade por seu futuro coloca Godzilla e Kong em rota de colisão que verá as duas forças mais poderosas da natureza no planeta se confrontarem em uma batalha espetacular para as idades.[/COLOR]
 [COLOR lime]Género:[/COLOR][COLOR white] Ação, Ficção científica[/COLOR]
 [COLOR lime]Ano:[/COLOR][COLOR white] (2021) [/COLOR]
