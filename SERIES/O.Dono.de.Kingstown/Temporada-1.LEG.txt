@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR white] O Dono de Kingstown (S01E01)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<title>[B][COLOR white] O Dono de Kingstown (S01E01)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/1jp1DPWgvvcemWq</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4tM2YazgdAaViRFjpQ52XN0lCEv.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/gQxaF79LUTtopdYHsuS8lUr9rvF.jpg</fanart>

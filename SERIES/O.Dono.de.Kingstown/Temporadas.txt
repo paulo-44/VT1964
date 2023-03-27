@@ -4,6 +4,21 @@
 
 
 <channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] O Dono de Kingstown | S01 [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/4tM2YazgdAaViRFjpQ52XN0lCEv.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/O.Dono.de.Kingstown/Temporada-1.BR.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/gQxaF79LUTtopdYHsuS8lUr9rvF.jpg</fanart>
+		<info>
+[COLOR lime]Sinopse:[/COLOR] [COLOR white]Os irmãos Mitch e Mike McLusky controlam Kingstown, lar de várias prisões, enquanto atuam como elos de ligação entre os prisioneiros e a comunidade. Quando um jovem guarda, Sam, é escalado para entregar uma carta para um prisioneiro, Mike se esforça para tirá-lo do gancho.[/COLOR]			
+[COLOR lime]Género:[/COLOR][COLOR white] Crime, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2021) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 50m[/COLOR]
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] O Dono de Kingstown | S01 [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/4tM2YazgdAaViRFjpQ52XN0lCEv.jpg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/O.Dono.de.Kingstown/Temporada-1.LEG.txt</externallink>
@@ -19,20 +34,6 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
 
- <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] O Dono de Kingstown | S01 [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
-		<thumbnail>https://www.themoviedb.org/t/p/original/4tM2YazgdAaViRFjpQ52XN0lCEv.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/O.Dono.de.Kingstown/Temporada-1.BR.txt</externallink>
-		<fanart>https://www.themoviedb.org/t/p/original/gQxaF79LUTtopdYHsuS8lUr9rvF.jpg</fanart>
-		<info>
-[COLOR lime]Sinopse:[/COLOR] [COLOR white]Os irmãos Mitch e Mike McLusky controlam Kingstown, lar de várias prisões, enquanto atuam como elos de ligação entre os prisioneiros e a comunidade. Quando um jovem guarda, Sam, é escalado para entregar uma carta para um prisioneiro, Mike se esforça para tirá-lo do gancho.[/COLOR]			
-[COLOR lime]Género:[/COLOR][COLOR white] Crime, Drama[/COLOR]
-[COLOR lime]Ano:[/COLOR][COLOR white] (2021) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 50m[/COLOR]
-</info>
-	</channel>
-
------------------------------------------------------------------------------------------------------------------------------
 
 
 
