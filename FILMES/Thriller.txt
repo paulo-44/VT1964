@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] Roubo pelos Ares [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/e4YD9dpymASYMaZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9wbjshzUHdfFhvdqHoNraGXhpLY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vBmmJYv5asJpdJZsyPPc4MMpfBe.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma comissária de bordo e o namorado precisam fazer um roubo para pagar uma dívida, mas o plano pode ir pelos ares depois que o avião é sequestrado.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Crime, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 50m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Roubo pelos Ares [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/qldagwPZGgczxdq</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9wbjshzUHdfFhvdqHoNraGXhpLY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vBmmJYv5asJpdJZsyPPc4MMpfBe.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]25 anos após uma batalha insana, todos acreditavam que o super-herói Samaritano estava morto. Mas agora um garotinho começa uma investigação para procurar o paradeiro do super-herói e a sua principal pista é Joe, um trabalhador que parece comum, mas esconde sua verdadeira identidade heróica.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Crime, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 50m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Céu Vermelho-Sangue [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/We9KAY9R9MTqeJ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zacyfceQWlgA1PbL7PCs8bRTPsI.jpg</thumbnail>
