@@ -1,4 +1,33 @@
 <item>
+<title>[B][COLOR white] Esquema de Risco: Operação Fortune [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/QeX1R0dvpMf0jRG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fLxXvMcpsK8fGKguP3wZ7Urb2ao.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7TdVWAO7vV9j1OLDq1hQJS3pb4U.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]O agente secreto Orson Fortune e seus companheiros recrutam uma das maiores estrelas de Hollywood para ajudá-los em uma missão importante - e arriscada. Quando a venda de uma nova tecnologia de armamento mortal ameaça perturbar a ordem mundial, todos os recursos se mostram necessários para combater esse inimigo.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Thriller, Comédia[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 54m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Esquema de Risco: Operação Fortune [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/XdR0B4AQ0ecDDoA</link>
+<subtitle>https://subs.warezcdn.net/224520-PT.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/fLxXvMcpsK8fGKguP3wZ7Urb2ao.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7TdVWAO7vV9j1OLDq1hQJS3pb4U.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]O agente secreto Orson Fortune e seus companheiros recrutam uma das maiores estrelas de Hollywood para ajudá-los em uma missão importante - e arriscada. Quando a venda de uma nova tecnologia de armamento mortal ameaça perturbar a ordem mundial, todos os recursos se mostram necessários para combater esse inimigo.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Thriller, Comédia[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 54m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Godzilla vs. Kong [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/yjjKGAr7A3U1bRb</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/51tAtnATqN9VizZDnCN0IdCQpXF.jpg</thumbnail>
