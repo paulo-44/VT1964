@@ -7,7 +7,7 @@
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Ringo. Glória e Morte | [/COLOR][COLOR lime]Dublado/[/COLOR][COLOR gold]Legendado[/COLOR][/B]</name>
 		<thumbnail>https://image.tmdb.org/t/p/original/hiYl3F7R67qh2bIHsoinTKX5lze.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Last.of.Us/Temporadas.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/Ringo.Gl%C3%B3ria.e.Morte/Temporadas.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/qGfygSzVY0ygxTc7ldBMzSRPaTn.jpg</fanart>
 		<info>			
 
