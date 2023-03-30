@@ -1,0 +1,91 @@
+<item>
+<title>[B][COLOR white] Ringo. Glória e Morte (S01E01)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/mkJx8BVmDbfb44r</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hiYl3F7R67qh2bIHsoinTKX5lze.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qGfygSzVY0ygxTc7ldBMzSRPaTn.jpg</fanart>
+<info>
+
+[COLOR lime]S01E01[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Ringo. Glória e Morte (S01E02)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ollZzk3yKmHjkJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hiYl3F7R67qh2bIHsoinTKX5lze.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qGfygSzVY0ygxTc7ldBMzSRPaTn.jpg</fanart>
+<info>
+
+[COLOR lime]S01E02[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Ringo. Glória e Morte (S01E03)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/qll8joQ1p1cz88q</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hiYl3F7R67qh2bIHsoinTKX5lze.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qGfygSzVY0ygxTc7ldBMzSRPaTn.jpg</fanart>
+<info>
+
+[COLOR lime]S01E03[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Ringo. Glória e Morte (S01E04)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/KgWZLmz3M4U0m1w</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hiYl3F7R67qh2bIHsoinTKX5lze.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qGfygSzVY0ygxTc7ldBMzSRPaTn.jpg</fanart>
+<info>
+
+[COLOR lime]S01E04[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Ringo. Glória e Morte (S01E05)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/gjyzQgdl9QUqqeR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hiYl3F7R67qh2bIHsoinTKX5lze.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qGfygSzVY0ygxTc7ldBMzSRPaTn.jpg</fanart>
+<info>
+
+[COLOR lime]S01E05[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Ringo. Glória e Morte (S01E06)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/RLp2O4jLeMi71Y</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hiYl3F7R67qh2bIHsoinTKX5lze.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qGfygSzVY0ygxTc7ldBMzSRPaTn.jpg</fanart>
+<info>
+
+[COLOR lime]S01E06[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Ringo. Glória e Morte (S01E07)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/8d3yqG67vbHomDP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hiYl3F7R67qh2bIHsoinTKX5lze.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qGfygSzVY0ygxTc7ldBMzSRPaTn.jpg</fanart>
+<info>
+
+[COLOR lime]S01E07[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
