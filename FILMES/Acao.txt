@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] Justiça em Família [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/DQ7yqXJxbGHkKOg</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cygRJp2OQKsiGbJxKq5TbvzW9QR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nprqOIEfiMMQx16lgKeLf3rmPrR.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Um viúvo arrasado (Jason Momoa) promete levar à Justiça as pessoas responsáveis pela morte da esposa. Ao mesmo tempo, ele precisa proteger a filha (Isabela Merced), a única família que lhe resta.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2021) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 50m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Justiça em Família [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/lWZRxJjjYVSmAj</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cygRJp2OQKsiGbJxKq5TbvzW9QR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nprqOIEfiMMQx16lgKeLf3rmPrR.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Um viúvo arrasado (Jason Momoa) promete levar à Justiça as pessoas responsáveis pela morte da esposa. Ao mesmo tempo, ele precisa proteger a filha (Isabela Merced), a única família que lhe resta.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2021) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 50m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Vício Perfeito [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/L2bPYJlQk3UR1Qv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1bFE8TlLU7r3IwwGHN7au8xPIds.jpg</thumbnail>
