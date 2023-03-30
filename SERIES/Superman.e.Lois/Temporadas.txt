@@ -20,7 +20,7 @@
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Superman e Lois | S02 [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/Superman.e.Lois/Temporada-1.LEG.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/Superman.e.Lois/Temporada-2.LEG.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/ngDo5MKVl3oGTe2s3HRPtGJa5Iz.jpg</fanart>
 		<info>
 [COLOR lime]Sinopse:[/COLOR] [COLOR white]Chrissy Beppo, com a autorização do Departamento de Defesa, tem uma mensagem para o povo de Smallville, não apenas a fusão dos planetas é real, ela está acontecendo.[/COLOR]			
