@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] Fátima - A História de um Milagre [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/OYxdMw9r2Rh9KW</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uhOvDIvkSrqkdFk8Bn6f8UNuntK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jrsB8tChsAFTQilhsS8fxNTuear.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]A História de um Milagre, em meio a Primeira Guerra Mundial, três crianças de Portugal Jacinta, Francisco Marto e Lucia de Jesus dos Santos testemunham seis visões da Virgem Maria entre os meses de maio e outubro de 1917. Após contar para adultos céticos, a igreja católica romana válida a visão das crianças, transformando a cidade de Fátima um dos principais lugares de peregrinação.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Família[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2020) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 53m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Fátima - A História de um Milagre [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/aqMz3d1GALcxgMK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uhOvDIvkSrqkdFk8Bn6f8UNuntK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jrsB8tChsAFTQilhsS8fxNTuear.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]A História de um Milagre, em meio a Primeira Guerra Mundial, três crianças de Portugal Jacinta, Francisco Marto e Lucia de Jesus dos Santos testemunham seis visões da Virgem Maria entre os meses de maio e outubro de 1917. Após contar para adultos céticos, a igreja católica romana válida a visão das crianças, transformando a cidade de Fátima um dos principais lugares de peregrinação.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Família[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2020) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 53m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Fantasma e CIA [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/PJK77xp4VKS0wLO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8tGZbqePTre2AnpMeC1nqAHhLhZ.jpg</thumbnail>
