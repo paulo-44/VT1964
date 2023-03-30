@@ -1,6 +1,6 @@
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E01)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/wa9ip2v6vymb.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/1DW8vdb9RrheROr</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -13,7 +13,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E02)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/qffqkk97oqwi.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/dqMp3Y0M4afkYWD</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -26,7 +26,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E03)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/aza9lk12t58g.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/eLz4Wyy1Y3SYqor</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -39,7 +39,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E04)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/91vggklucyfl.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/l4DLjJrV6yi78Ow</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -52,7 +52,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E05)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/9xop1bk2qc5n.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/XqWbgVV0ddCzYL</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -65,7 +65,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E06)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/9ealqmr9eg6z.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/gRqgbjzda8Tq1k7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -78,7 +78,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E07)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/t4jv86sdb3f5.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/dKL7Zwa1k3SbMy</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -91,7 +91,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E08)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/s8kggzq9v9sm.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/oxmVXKqX1wsJaVx</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -104,7 +104,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E09)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/n9s5b4wzkcvq.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/QdbmYqePo0f0PoD</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -117,7 +117,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E10)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/hwg2wd4voir1.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/wPy9rkGm18TG81</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -130,7 +130,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E11)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/n723u1t7l1g4.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/gjb228Do2GcgjZ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -143,7 +143,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E12)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/7nsfqs6dhy8r.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/O1R2oO8R1KFZlWm</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -156,7 +156,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E13)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/zxwo4c4ykt1h.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ygPBlGa9QpFevA</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -169,7 +169,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E14)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/074brblqexk7.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/o1DOPD0myocO94</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -182,7 +182,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E15)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/uhz6uczm1roy.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/6KeoMRk6m0t97ko</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
