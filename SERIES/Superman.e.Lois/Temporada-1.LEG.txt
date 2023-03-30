@@ -1,6 +1,7 @@
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E01)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/9uzuus4yivc5.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/8BzMQQpPkRiooeV</link>
+<subtitle>https://cdn.pobre.tv/subs/Superman.and.Lois.S01E01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -13,7 +14,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E02)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/j1npiohh11tq.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/39d69jy06eudwr9</link>
+<subtitle>https://cdn.pobre.tv/subs/Superman.and.Lois.S01E02.1080p.WEB-DL.DD5.1.H264-NTb.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -26,7 +28,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E03)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/p88jp669fb82.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/RBKBWw1JW7Udd0k</link>
+<subtitle>https://cdn.pobre.tv/subs/Superman.and.Lois.S01E03.The.Perks.of.Not.Being.a.Wallflower.1080p.AMZN.WEBRip.DDP5.1.x264-NTb.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -39,7 +42,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E04)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/vxeqp65p8540.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/pzGXmoPayKtrQzY</link>
+<subtitle>https://cdn.pobre.tv/subs/Superman.and.Lois.S01E04.Haywire.1080p.AMZN.WEBRip.DDP5.1.x264-NTb.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -52,7 +56,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E05)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/53wqxn8o2v1r.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/eAROrWBX2WSoGQ</link>
+<subtitle>https://cdn.pobre.tv/subs/Superman.and.Lois.S01E05.The.Best.of.Smallville.1080p.AMZN.WEBRip.DDP5.1.x264-NTb.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -65,7 +70,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E06)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/2y48b6sjvg2w.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/DMdVRy4xB1iwKK</link>
+<subtitle>https://cdn.pobre.tv/subs/Superman.and.Lois.S01E06.Broken.Trust.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -78,7 +84,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E07)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/notyucfc6pjs.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/J9wYqao68xFjqWK</link>
+<subtitle>https://cdn.pobre.tv/subs/Superman.and.Lois.S01E07..1080p.AMZN.WEBRip.DDP5.1.x264-NTb.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -91,7 +98,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E08)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/ti0gacl1r5i8.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/wG3Xz7LA1pHPMD</link>
+<subtitle>https://cdn.pobre.tv/subs/Superman.And.Lois.S01E08.1080p.WEB.h264-GOSSIP.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -104,7 +112,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E09)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/4wzgt0ay93x6.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ao2kO437BVi0Y7</link>
+<subtitle>https://cdn.pobre.tv/subs/Superman.And.Lois.S01E09.1080p.WEB.h264-GOSSIP.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -117,7 +126,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E010)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/44qc9yiziige.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/RWov1zL3rvtdleQ</link>
+<subtitle>https://cdn.pobre.tv/subs/Superman.and.Lois.S01E10.1080p.WEB.H264-PLZPROPER.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -130,7 +140,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E11)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/c2y75kg4x19p.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/wOyWDMa8k0tJ3oY</link>
+<subtitle>https://cdn.pobre.tv/subs/Superman.And.Lois.S01E11.1080p.WEB.h264-GOSSIP.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -143,7 +154,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E12)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/raezl95h3jx0.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/xMdDwbme6vUkejA</link>
+<subtitle>https://cdn.pobre.tv/subs/Superman.and.Lois.S01E12.1080p.WEB.H264-PLZPROPER.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -156,7 +168,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E13)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/r2hkg62s7jrx.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/dOWJ16l7ePSkpOA</link>
+<subtitle>https://cdn.pobre.tv/subs/Superman.and.Lois.S01E13.1080p.AMZN.WEBRip.DDP5.1.x264-NTb.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -169,7 +182,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E14)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/6zb1raipfn26.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/DWXYkbOW0AFkOdJ</link>
+<subtitle>https://cdn.pobre.tv/subs/Superman.and.Lois.S01E14.The.Eradicator.1080p.AMZN.WEBRip.DDP5.1.x264-NTb.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
@@ -182,7 +196,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Superman e Lois (S01E15)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://watchsb.com/e/nzr2zi6vn9ha.html</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/6Kpp16z0agUvDB</link>
+<subtitle>https://cdn.pobre.tv/subs/Superman.and.Lois.S01E15.1080p.WEB.H264-CAKE.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 <info>
