@@ -3,6 +3,19 @@
 <channels>
 
 
+ <channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Superman e Lois | [/COLOR][COLOR lime]Dublado/[/COLOR][COLOR gold]Legendado[/COLOR][/B]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/tCwssBE4IzRR6EL2rlCc2v8mhNn.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/Superman.e.Lois/Temporadas.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/7zXrYu33GCLP6qXRd1Q44n8VMJ5.jpg</fanart>
+		<info>
+[COLOR lime]»»[/COLOR][COLOR gold] 3ª Temporada [/COLOR]			
+[COLOR lime]»»[/COLOR][COLOR gold] 2ª Temporada [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 1ª Temporada [/COLOR]
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
 
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Ringo. Glória e Morte | [/COLOR][COLOR lime]Dublado/[/COLOR][COLOR gold]Legendado[/COLOR][/B]</name>
