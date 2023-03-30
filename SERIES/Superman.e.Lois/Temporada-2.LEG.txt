@@ -1,0 +1,210 @@
+<item>
+<title>[B][COLOR white] Superman e Lois (S01E01)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Gew9KGJdAZu1rz8</link>
+<subtitle>https://cdn.pobre.tv/subs/7-superman-and-lois-S2E1.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ngDo5MKVl3oGTe2s3HRPtGJa5Iz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E01[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Superman e Lois (S01E02)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/OV4jVrByZbsZ0p2</link>
+<subtitle>https://cdn.pobre.tv/subs/59-superman-and-lois-S2E2.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ngDo5MKVl3oGTe2s3HRPtGJa5Iz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E02[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Superman e Lois (S01E03)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Q0r6202eqLSykm</link>
+<subtitle>https://cdn.pobre.tv/subs/78-superman-and-lois-S2E3.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ngDo5MKVl3oGTe2s3HRPtGJa5Iz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E03[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Superman e Lois (S01E04)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/rAxmM2bleyCbLJw</link>
+<subtitle>https://cdn.pobre.tv/subs/85-superman-and-lois-S2E4.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ngDo5MKVl3oGTe2s3HRPtGJa5Iz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E04[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Superman e Lois (S01E05)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/myMK2ymXJbUGRG</link>
+<subtitle>https://cdn.pobre.tv/subs/88-superman-and-lois-S2E5.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ngDo5MKVl3oGTe2s3HRPtGJa5Iz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E05[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Superman e Lois (S01E06)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/P96zY9Q3xwCL1J</link>
+<subtitle>https://cdn.pobre.tv/subs/0-superman-and-lois-S2E6.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ngDo5MKVl3oGTe2s3HRPtGJa5Iz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E06[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Superman e Lois (S01E07)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/e4YKxAXebvCYzZR</link>
+<subtitle>https://cdn.pobre.tv/subs/44-superman-and-lois-S2E7.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ngDo5MKVl3oGTe2s3HRPtGJa5Iz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E07[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Superman e Lois (S01E08)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/wYzl6Yvyq9uGp2</link>
+<subtitle>https://cdn.pobre.tv/subs/97-superman-and-lois-S2E8.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ngDo5MKVl3oGTe2s3HRPtGJa5Iz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E08[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Superman e Lois (S01E09)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ZrO1vk6yMjhq6lK</link>
+<subtitle>https://cdn.pobre.tv/subs/10-superman-and-lois-S2E9.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ngDo5MKVl3oGTe2s3HRPtGJa5Iz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E09[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Superman e Lois (S01E10)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/P6JkY7R2m8T0m4M</link>
+<subtitle>https://cdn.pobre.tv/subs/35-superman-and-lois-S2E10.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ngDo5MKVl3oGTe2s3HRPtGJa5Iz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E10[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Superman e Lois (S01E11)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/PG0Yow2aW0TRWa</link>
+<subtitle>https://cdn.pobre.tv/subs/78-superman-and-lois-S2E11.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ngDo5MKVl3oGTe2s3HRPtGJa5Iz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E11[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Superman e Lois (S01E12)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ZX9xg4pbp6fqX6L</link>
+<subtitle>https://cdn.pobre.tv/subs/96-superman-and-lois-S2E12.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ngDo5MKVl3oGTe2s3HRPtGJa5Iz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E12[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Superman e Lois (S01E13)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/MP8oYpXbbrUmaxr</link>
+<subtitle>https://cdn.pobre.tv/subs/78-superman-and-lois-S2E13.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ngDo5MKVl3oGTe2s3HRPtGJa5Iz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E13[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Superman e Lois (S01E14)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/zL6JLrOX7AtYjez</link>
+<subtitle>https://cdn.pobre.tv/subs/7-superman-and-lois-S2E14.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ngDo5MKVl3oGTe2s3HRPtGJa5Iz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E14[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Superman e Lois (S01E14)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Yge99LO4zPsvXOJ</link>
+<subtitle>https://cdn.pobre.tv/subs/43-superman-and-lois-S2E15.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ngDo5MKVl3oGTe2s3HRPtGJa5Iz.jpg</fanart>
+<info>
+
+[COLOR lime]S01E15[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
