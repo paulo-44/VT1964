@@ -4,29 +4,29 @@
 
 
  <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] The Last of Us | S01 [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
-		<thumbnail>https://www.themoviedb.org/t/p/original/sADB9n2KwhQNsRLfzeuTj8BsqeB.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Last.of.Us/Temporada-1.BR.txt</externallink>
-		<fanart>https://www.themoviedb.org/t/p/original/uJ16DD1dj4CQLPNCWIoiOF3l8np.jpg</fanart>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Ringo. Glória e Morte | S01 [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
+		<thumbnail>https://image.tmdb.org/t/p/original/hiYl3F7R67qh2bIHsoinTKX5lze.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/Ringo.Gl%C3%B3ria.e.Morte/Temporada-1.BR.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/qGfygSzVY0ygxTc7ldBMzSRPaTn.jpg</fanart>
 		<info>
-[COLOR lime]Sinopse:[/COLOR] [COLOR white]Vinte anos após a queda da civilização, Joel é contratado pra tirar Ellie de uma zona de quarentena perigosa. O que começa como um pequeno trabalho, logo se transforma em uma jornada brutal pela sobrevivência.[/COLOR]			
-[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Drama[/COLOR]
+[COLOR lime]Sinopse:[/COLOR] [COLOR white]Após uma série de contratos maus, o maior pugilista de pesos-pesados da Argentina, Oscar "Ringo" Bonavena, chega a Nevada, em 1976, em busca de recomeçar a sua carreira. Inadvertidamente, Ringo tropeça no mundo criminoso de Joe Conforte, que lhe promete um futuro brilhante.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama[/COLOR]
 [COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 60m[/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] m[/COLOR]
 </info>
 	</channel>
 
 -----------------------------------------------------------------------------------------------------------------------------	
  <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] The Last of Us | S01 [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</name>
-		<thumbnail>https://www.themoviedb.org/t/p/original/sADB9n2KwhQNsRLfzeuTj8BsqeB.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Last.of.Us/Temporada-1.LEG.txt</externallink>
-		<fanart>https://www.themoviedb.org/t/p/original/uJ16DD1dj4CQLPNCWIoiOF3l8np.jpg</fanart>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Ringo. Glória e Morte | S01 [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</name>
+		<thumbnail>https://image.tmdb.org/t/p/original/hiYl3F7R67qh2bIHsoinTKX5lze.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/Ringo.Gl%C3%B3ria.e.Morte/Temporada-1.LEG.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/qGfygSzVY0ygxTc7ldBMzSRPaTn.jpg</fanart>
 		<info>
-[COLOR lime]Sinopse:[/COLOR] [COLOR white]Vinte anos após a queda da civilização, Joel é contratado pra tirar Ellie de uma zona de quarentena perigosa. O que começa como um pequeno trabalho, logo se transforma em uma jornada brutal pela sobrevivência.[/COLOR]			
-[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Drama[/COLOR]
+[COLOR lime]Sinopse:[/COLOR] [COLOR white]Após uma série de contratos maus, o maior pugilista de pesos-pesados da Argentina, Oscar "Ringo" Bonavena, chega a Nevada, em 1976, em busca de recomeçar a sua carreira. Inadvertidamente, Ringo tropeça no mundo criminoso de Joe Conforte, que lhe promete um futuro brilhante.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama[/COLOR]
 [COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 60m[/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] m[/COLOR]
 </info>
 	</channel>
 
