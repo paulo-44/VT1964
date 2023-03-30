@@ -13,14 +13,14 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[B][COLOR white] Superman e Lois (S01E02)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<title>[B][COLOR white] Superman e Lois (S02E01)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/OV4jVrByZbsZ0p2</link>
 <subtitle>https://cdn.pobre.tv/subs/59-superman-and-lois-S2E2.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ngDo5MKVl3oGTe2s3HRPtGJa5Iz.jpg</fanart>
 <info>
 
-[COLOR lime]S01E02[/COLOR]
+[COLOR lime]S02E01[/COLOR]
 </info>
 
 </item>
