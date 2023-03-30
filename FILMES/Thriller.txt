@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] Olhos Famintos: Renascimento [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/3WGgyz09qecdgko</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/37xwMszfSsl1PVjaFXvKeB0nETa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uok4WE1sao8KAgvA1VqzJIy7Gun.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Forçada a embarcar numa viagem até um festival de horror na Louisana com seu namorado, Laine começa a experienciar visões perturbadores associadas ao passado da cidade, em particular a uma lenda urbana local conhecida como o Creeper.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Mistério, Terror, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 28m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Olhos Famintos: Renascimento [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/p1dXv3gOP3Cr6K6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/37xwMszfSsl1PVjaFXvKeB0nETa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jpipejVjqn7ifln05xeq9zpvprf.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Forçada a embarcar numa viagem até um festival de horror na Louisana com seu namorado, Laine começa a experienciar visões perturbadores associadas ao passado da cidade, em particular a uma lenda urbana local conhecida como o Creeper.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Mistério, Terror, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 28m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Fé nas Alturas [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ezzypzo0yvCYPr0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iBKkwzr8n2iAQVL0gYjBVdhcUc5.jpg</thumbnail>
