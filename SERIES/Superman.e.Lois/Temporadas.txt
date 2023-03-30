@@ -6,7 +6,7 @@
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Superman e Lois | S01 [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Last.of.Us/Temporada-1.BR.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/Superman.e.Lois/Temporada-1.BR.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 		<info>
 [COLOR lime]Sinopse:[/COLOR] [COLOR white]O pior pesadelo do Super-Homem ganha vida e Lois confronta Leslie Larr. Enquanto isso, Lana, Kyle e Sarah concordam em ficar para ajudar o General Lane.[/COLOR]			
@@ -20,7 +20,7 @@
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Superman e Lois | S01 [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Last.of.Us/Temporada-1.LEG.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/Superman.e.Lois/Temporada-1.LEG.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg</fanart>
 		<info>
 [COLOR lime]Sinopse:[/COLOR] [COLOR white]O pior pesadelo do Super-Homem ganha vida e Lois confronta Leslie Larr. Enquanto isso, Lana, Kyle e Sarah concordam em ficar para ajudar o General Lane.[/COLOR]			
