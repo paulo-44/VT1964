@@ -4,29 +4,28 @@
 
 
  <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] The Last of Us | S01 [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
-		<thumbnail>https://www.themoviedb.org/t/p/original/sADB9n2KwhQNsRLfzeuTj8BsqeB.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Last.of.Us/Temporada-1.BR.txt</externallink>
-		<fanart>https://www.themoviedb.org/t/p/original/uJ16DD1dj4CQLPNCWIoiOF3l8np.jpg</fanart>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção Harry Potter | S01 [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/2CTBoD2ToqlyH375VfMSBIyQGhR.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Harry.Potter/Temporada-1.BR.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/xN6SBJVG8jqqKQrgxthn3J2m49S.jpg</fanart>
 		<info>
-[COLOR lime]Sinopse:[/COLOR] [COLOR white]Vinte anos após a queda da civilização, Joel é contratado pra tirar Ellie de uma zona de quarentena perigosa. O que começa como um pequeno trabalho, logo se transforma em uma jornada brutal pela sobrevivência.[/COLOR]			
-[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Drama[/COLOR]
-[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 60m[/COLOR]
+[COLOR lime]Sinopse:[/COLOR] [COLOR white]Os filmes de fantasia da série "Harry Potter" são baseados nos sete livros da escritora britânica J. K. Rowling, que retratam as aventuras de um rapaz inglês, órfão, magro, franzino e óculos de armação plástica escura, tendo uma coruja como animal de estimação.[/COLOR]			
+[COLOR lime]Género:[/COLOR][COLOR white] Adventure, Fantasy, Mystery, Family[/COLOR]
+[COLOR lime]Número de Filmes:[/COLOR][COLOR white] (8) [/COLOR]
+
 </info>
 	</channel>
 
 -----------------------------------------------------------------------------------------------------------------------------	
  <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] The Last of Us | S01 [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</name>
-		<thumbnail>https://www.themoviedb.org/t/p/original/sADB9n2KwhQNsRLfzeuTj8BsqeB.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Last.of.Us/Temporada-1.LEG.txt</externallink>
-		<fanart>https://www.themoviedb.org/t/p/original/uJ16DD1dj4CQLPNCWIoiOF3l8np.jpg</fanart>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção Harry Potter | S01 [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/2CTBoD2ToqlyH375VfMSBIyQGhR.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Harry.Potter/Temporada-1.LEG.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/xN6SBJVG8jqqKQrgxthn3J2m49S.jpg</fanart>
 		<info>
-[COLOR lime]Sinopse:[/COLOR] [COLOR white]Vinte anos após a queda da civilização, Joel é contratado pra tirar Ellie de uma zona de quarentena perigosa. O que começa como um pequeno trabalho, logo se transforma em uma jornada brutal pela sobrevivência.[/COLOR]			
-[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Drama[/COLOR]
-[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 60m[/COLOR]
+[COLOR lime]Sinopse:[/COLOR] [COLOR white]Os filmes de fantasia da série "Harry Potter" são baseados nos sete livros da escritora britânica J. K. Rowling, que retratam as aventuras de um rapaz inglês, órfão, magro, franzino e óculos de armação plástica escura, tendo uma coruja como animal de estimação.[/COLOR]			
+[COLOR lime]Género:[/COLOR][COLOR white] Adventure, Fantasy, Mystery, Family[/COLOR]
+[COLOR lime]Número de Filmes:[/COLOR][COLOR white] (8) [/COLOR]
 </info>
 	</channel>
 
