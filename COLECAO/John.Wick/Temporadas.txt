@@ -3,6 +3,36 @@
 <channels>
 
 
+
+ <channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção John Wick | [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/uGhPxTrmT5yASzZrR1oz1ft9UWr.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/John.Wick/Temporada-1.BR.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/5y8jLQSlkxPxhSXuSnZrYaRmROn.jpg</fanart>
+		<info>
+[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma série de filmes de ação e suspense neo-noir sobre um ex-assassino, Jonathan 'John' Wick, que sai da aposentadoria buscando vingança pelo roubo de seu carro antigo e pela morte de seu cachorrinho.[/COLOR]			
+[COLOR lime]Género:[/COLOR][COLOR white] Action, Thriller, Crime[/COLOR]
+[COLOR lime]Número de Filmes:[/COLOR][COLOR white] (4) [/COLOR]
+
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------	
+ <channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção John Wick | [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/uGhPxTrmT5yASzZrR1oz1ft9UWr.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/John.Wick/Temporada-1.LEG.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/5y8jLQSlkxPxhSXuSnZrYaRmROn.jpg</fanart>
+		<info>
+[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma série de filmes de ação e suspense neo-noir sobre um ex-assassino, Jonathan 'John' Wick, que sai da aposentadoria buscando vingança pelo roubo de seu carro antigo e pela morte de seu cachorrinho.[/COLOR]			
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Action, Thriller, Crime[/COLOR]
+[COLOR lime]Número de Filmes:[/COLOR][COLOR white] (4) [/COLOR]
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção Jack Reacher | [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/qtafXiYDUMKxzsssU41qWey5oiT.jpg</thumbnail>
