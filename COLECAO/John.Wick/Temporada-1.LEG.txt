@@ -1,0 +1,40 @@
+<item>
+<title>[B][COLOR white] John Wick 3 (2019) [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/DPJOpeX8d3ik0Vb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ejODG5DtqCVJm85XVt2BOxMrHxF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vXJZEQ0MqVpJLMfVLG8RhcjFAw.jpg</fanart>
+<info>
+
+[COLOR lime]2019[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] John Wick 2 (2017) [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://vanfem.com/v/k06zra3xd21076g</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/huR3i1oxVkipuAJVF2UVVxV9alC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fRLftkwv8jm3DLxXOf2NbngHjPB.jpg</fanart>
+<info>
+
+[COLOR lime]2017[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] John Wick (2014) [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://vanfem.com/v/2l-5yt2mg61xx6p</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w48YZ9nkKp2f0NRbEvaMThbZbPh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7dzngS8pLkGJpyeskCFcjPO9qLF.jpg</fanart>
+<info>
+
+[COLOR lime]2014[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
