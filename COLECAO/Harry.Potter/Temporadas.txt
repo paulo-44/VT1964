@@ -4,7 +4,7 @@
 
 
  <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção Harry Potter | S01 [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção Harry Potter | [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/2CTBoD2ToqlyH375VfMSBIyQGhR.jpg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Harry.Potter/Temporada-1.BR.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/xN6SBJVG8jqqKQrgxthn3J2m49S.jpg</fanart>
@@ -18,7 +18,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------	
  <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção Harry Potter | S01 [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção Harry Potter | [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/2CTBoD2ToqlyH375VfMSBIyQGhR.jpg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Harry.Potter/Temporada-1.LEG.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/xN6SBJVG8jqqKQrgxthn3J2m49S.jpg</fanart>
