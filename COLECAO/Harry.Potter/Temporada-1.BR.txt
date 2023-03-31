@@ -1,11 +1,102 @@
 <item>
-<title>[B][COLOR white] The Last of Us (S01E01)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Mymb2ZvG8bfBk8</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sADB9n2KwhQNsRLfzeuTj8BsqeB.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/uJ16DD1dj4CQLPNCWIoiOF3l8np.jpg</fanart>
+<title>[B][COLOR white] Harry Potter e a Pedra Filosofal (2001)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/mYPz1g61X9sbJpr</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wxcWYBDiEZ9h5cy7Y5jRIS5gyU3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t3LicFpYHeYpwqm7L5wDpd22hL5.jpg</fanart>
 <info>
 
-[COLOR lime]S01E01[/COLOR]
+[COLOR lime]2001[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Harry Potter e a Câmara Secreta (2002)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/eaeQxWdZD4CY3Y7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3drbAlwqVPtyyeplxFqQH1UWzDO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1stUIsjawROZxjiCMtqqXqgfZWC.jpg</fanart>
+<info>
+
+[COLOR lime]2002[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Harry Potter e o Prisioneiro de Azkaban (2004)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/WP1ak4DO9ktgAw</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ecVLpZcREOwXnnAwUIGlUwYoMuA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/obKmfNexgL4ZP5cAmzdL4KbHHYX.jpg</fanart>
+<info>
+
+[COLOR lime]2004[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Harry Potter e o Cálice de Fogo (2005)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/yMBBb69a3Di19QX</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sLISYmX2XGThcOpZAroP7TGkWky.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8f9dnOtpArDrOMEylpSN9Sc6fuz.jpg</fanart>
+<info>
+
+[COLOR lime]2005[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Harry Potter e a Ordem da Fênix (2007)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/rkq73aDLM2hbpOy</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yDxdeBLVqBymYgx9LTNOMCvPqhl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg</fanart>
+<info>
+
+[COLOR lime]2007[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Harry Potter e o Enigma do Príncipe (2009)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/P3QzJ4QrZ4F02OZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ezFuqhW29h9FOlYkBMzoAs9CUkr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/urDWNffjwmNi5IQaezw9GwqkUXa.jpg</fanart>
+<info>
+
+[COLOR lime]2009[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Harry Potter e as Relíquias da Morte - Parte 1 (2010)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/9p2Xeq1107taMwl</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ezFuqhW29h9FOlYkBMzoAs9CUkr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/urDWNffjwmNi5IQaezw9GwqkUXa.jpg</fanart>
+<info>
+
+[COLOR lime]2010[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Harry Potter e as Relíquias da Morte - Parte 2 (2011)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/A4W4y6w4XXhXK0y</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dRDcDVsO5G71cGhFn6dDfQ56neI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n5A7brJCjejceZmHyujwUTVgQNC.jpg</fanart>
+<info>
+
+[COLOR lime]2011[/COLOR]
 </info>
 
 </item>
