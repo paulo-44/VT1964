@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+
+ <channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção Jack Reacher | [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/qtafXiYDUMKxzsssU41qWey5oiT.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Harry.Potter/Temporada-1.BR.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/vViRXFnSyGJ2fzMbcc5sqTKswcd.jpg</fanart>
+		<info>
+[COLOR lime]Sinopse:[/COLOR] [COLOR white]A série de filmes de ação e thriller baseados em romances do autor Lee Child baseados em Jack Reacher. Reacher viaja pelos Estados Unidos a fazer trabalhos estranhos e a investigar situações suspeitas e muitas vezes perigosas.[/COLOR]			
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Action, Thriller, Crime[/COLOR]
+[COLOR lime]Número de Filmes:[/COLOR][COLOR white] (2) [/COLOR]
+
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------	
+ <channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção Jack Reacher | [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/qtafXiYDUMKxzsssU41qWey5oiT.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Harry.Potter/Temporada-1.LEG.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/vViRXFnSyGJ2fzMbcc5sqTKswcd.jpg</fanart>
+		<info>
+[COLOR lime]Sinopse:[/COLOR] [COLOR white]A série de filmes de ação e thriller baseados em romances do autor Lee Child baseados em Jack Reacher. Reacher viaja pelos Estados Unidos a fazer trabalhos estranhos e a investigar situações suspeitas e muitas vezes perigosas.[/COLOR]			
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Action, Thriller, Crime[/COLOR]
+[COLOR lime]Número de Filmes:[/COLOR][COLOR white] (2) [/COLOR]
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------       
+
+	
+	
+	
+</channels>
