@@ -2,6 +2,21 @@
 
 <channels>
 
+<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção John Wick | [/COLOR][COLOR lime]Dublado/[/COLOR][COLOR gold]Legendado[/COLOR][/B]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/qtafXiYDUMKxzsssU41qWey5oiT.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/John.Wick/Temporadas.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/vViRXFnSyGJ2fzMbcc5sqTKswcd.jpg</fanart>
+		<info>
+[COLOR lime]»»[/COLOR][COLOR gold] 2023 [/COLOR]			
+[COLOR lime]»»[/COLOR][COLOR gold] 2019 [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 2017 [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 2014 [/COLOR]
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+
 
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção Jack Reacher | [/COLOR][COLOR lime]Dublado/[/COLOR][COLOR gold]Legendado[/COLOR][/B]</name>
