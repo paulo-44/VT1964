@@ -1,6 +1,6 @@
 <item>
 <title>[B][COLOR white] Harry Potter e a Pedra Filosofal (2001)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/mYPz1g61X9sbJpr</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/JKGyzXJDmKUjB18</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wxcWYBDiEZ9h5cy7Y5jRIS5gyU3.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/t3LicFpYHeYpwqm7L5wDpd22hL5.jpg</fanart>
 <info>
@@ -13,7 +13,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Harry Potter e a Câmara Secreta (2002)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/eaeQxWdZD4CY3Y7</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/A3bDbwqaOZcXPOB</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3drbAlwqVPtyyeplxFqQH1UWzDO.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1stUIsjawROZxjiCMtqqXqgfZWC.jpg</fanart>
 <info>
@@ -26,7 +26,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Harry Potter e o Prisioneiro de Azkaban (2004)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/WP1ak4DO9ktgAw</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/lWpVDvRgWXi7Gdv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ecVLpZcREOwXnnAwUIGlUwYoMuA.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/obKmfNexgL4ZP5cAmzdL4KbHHYX.jpg</fanart>
 <info>
