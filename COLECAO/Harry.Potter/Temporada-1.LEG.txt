@@ -1,0 +1,111 @@
+<item>
+<title>[B][COLOR white] Harry Potter e a Pedra Filosofal (2001)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/1BAOKmxy34CeoPy</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wxcWYBDiEZ9h5cy7Y5jRIS5gyU3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t3LicFpYHeYpwqm7L5wDpd22hL5.jpg</fanart>
+<info>
+
+[COLOR lime]2001[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Harry Potter e a Câmara Secreta (2002)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/WG3RR2pZadfbj78</link>
+<subtitle>https://cdn.pobre.tv/subs/Harry.Potter.and.the.Chamber.of.Secrets.2002.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/3drbAlwqVPtyyeplxFqQH1UWzDO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1stUIsjawROZxjiCMtqqXqgfZWC.jpg</fanart>
+<info>
+
+[COLOR lime]2002[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Harry Potter e o Prisioneiro de Azkaban (2004)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/zXMMY46GjXcY6KR</link>
+<subtitle>https://cdn.pobre.tv/subs/tt0304141.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/ecVLpZcREOwXnnAwUIGlUwYoMuA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/obKmfNexgL4ZP5cAmzdL4KbHHYX.jpg</fanart>
+<info>
+
+[COLOR lime]2004[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Harry Potter e o Cálice de Fogo (2005)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Rg3ly00yRduZ8a</link>
+<subtitle>https://cdn.pobre.tv/subs/tt0330373.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/sLISYmX2XGThcOpZAroP7TGkWky.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8f9dnOtpArDrOMEylpSN9Sc6fuz.jpg</fanart>
+<info>
+
+[COLOR lime]2005[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Harry Potter e a Ordem da Fênix (2007)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Zy20zaVVBAUqDYM</link>
+<subtitle>https://cdn.pobre.tv/subs/tt0373889.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/yDxdeBLVqBymYgx9LTNOMCvPqhl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg</fanart>
+<info>
+
+[COLOR lime]2007[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Harry Potter e o Enigma do Príncipe (2009)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Pkg3blkw60sLm4</link>
+<subtitle>https://cdn.pobre.tv/subs/tt0417741.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/ezFuqhW29h9FOlYkBMzoAs9CUkr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/urDWNffjwmNi5IQaezw9GwqkUXa.jpg</fanart>
+<info>
+
+[COLOR lime]2009[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Harry Potter e as Relíquias da Morte - Parte 1 (2010)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/jYDPJv7y2rTzRPA</link>
+<subtitle>https://cdn.pobre.tv/subs/tt0926084.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/ezFuqhW29h9FOlYkBMzoAs9CUkr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/urDWNffjwmNi5IQaezw9GwqkUXa.jpg</fanart>
+<info>
+
+[COLOR lime]2010[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Harry Potter e as Relíquias da Morte - Parte 2 (2011)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/JWravLKo8aSjKMR</link>
+<subtitle>https://cdn.pobre.tv/subs/tt1201607.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/dRDcDVsO5G71cGhFn6dDfQ56neI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n5A7brJCjejceZmHyujwUTVgQNC.jpg</fanart>
+<info>
+
+[COLOR lime]2011[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

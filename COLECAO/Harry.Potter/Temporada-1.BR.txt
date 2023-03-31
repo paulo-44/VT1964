@@ -1,0 +1,13 @@
+<item>
+<title>[B][COLOR white] The Last of Us (S01E01)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Mymb2ZvG8bfBk8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sADB9n2KwhQNsRLfzeuTj8BsqeB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uJ16DD1dj4CQLPNCWIoiOF3l8np.jpg</fanart>
+<info>
+
+[COLOR lime]S01E01[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
