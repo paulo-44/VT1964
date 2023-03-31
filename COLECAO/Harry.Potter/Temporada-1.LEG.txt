@@ -85,8 +85,8 @@
 <title>[B][COLOR white] Harry Potter e as Relíquias da Morte - Parte 1 (2010)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/jYDPJv7y2rTzRPA</link>
 <subtitle>https://cdn.pobre.tv/subs/tt0926084.srt</subtitle>
-<thumbnail>https://www.themoviedb.org/t/p/original/ezFuqhW29h9FOlYkBMzoAs9CUkr.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/urDWNffjwmNi5IQaezw9GwqkUXa.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/t4Jrp2sONevPZcIQIfcF3kzVRqo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vcrgU0KaNj5mKUCIQSUdiQwTE9y.jpg</fanart>
 <info>
 
 [COLOR lime]2010[/COLOR]
@@ -100,7 +100,7 @@
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/JWravLKo8aSjKMR</link>
 <subtitle>https://cdn.pobre.tv/subs/tt1201607.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/dRDcDVsO5G71cGhFn6dDfQ56neI.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/n5A7brJCjejceZmHyujwUTVgQNC.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/cbcpDn6XJaIGoOil1bKuskU8ds4.jpg</fanart>
 <info>
 
 [COLOR lime]2011[/COLOR]

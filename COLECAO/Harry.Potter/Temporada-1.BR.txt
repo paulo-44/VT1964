@@ -79,8 +79,8 @@
 <item>
 <title>[B][COLOR white] Harry Potter e as Relíquias da Morte - Parte 1 (2010)[/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/VYkpe2xGkOuKByM</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ezFuqhW29h9FOlYkBMzoAs9CUkr.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/urDWNffjwmNi5IQaezw9GwqkUXa.jpg</fanart>
+<thumbnail>https://www.themoviedb.org/t/p/original/t4Jrp2sONevPZcIQIfcF3kzVRqo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vcrgU0KaNj5mKUCIQSUdiQwTE9y.jpg</fanart>
 <info>
 
 [COLOR lime]2010[/COLOR]
