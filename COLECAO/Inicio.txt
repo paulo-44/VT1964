@@ -4,62 +4,24 @@
 
 
  <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Superman e Lois | [/COLOR][COLOR lime]Dublado/[/COLOR][COLOR gold]Legendado[/COLOR][/B]</name>
-		<thumbnail>https://www.themoviedb.org/t/p/original/tCwssBE4IzRR6EL2rlCc2v8mhNn.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/Superman.e.Lois/Temporadas.txt</externallink>
-		<fanart>https://www.themoviedb.org/t/p/original/7zXrYu33GCLP6qXRd1Q44n8VMJ5.jpg</fanart>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção Harry Potter | [/COLOR][COLOR lime]Dublado/[/COLOR][COLOR gold]Legendado[/COLOR][/B]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/2CTBoD2ToqlyH375VfMSBIyQGhR.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Harry.Potter/Temporadas.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/xN6SBJVG8jqqKQrgxthn3J2m49S.jpg</fanart>
 		<info>
-[COLOR lime]»»[/COLOR][COLOR gold] 3ª Temporada [/COLOR]			
-[COLOR lime]»»[/COLOR][COLOR gold] 2ª Temporada [/COLOR]
-[COLOR lime]»»[/COLOR][COLOR gold] 1ª Temporada [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 2001 [/COLOR]			
+[COLOR lime]»»[/COLOR][COLOR gold] 2002 [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 2004 [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 2005 [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 2007 [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 2009 [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 2010 [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 2011 [/COLOR]
 </info>
 	</channel>
 
 -----------------------------------------------------------------------------------------------------------------------------
 
- <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Ringo. Glória e Morte | [/COLOR][COLOR lime]Dublado/[/COLOR][COLOR gold]Legendado[/COLOR][/B]</name>
-		<thumbnail>https://image.tmdb.org/t/p/original/hiYl3F7R67qh2bIHsoinTKX5lze.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/Ringo.Gl%C3%B3ria.e.Morte/Temporadas.txt</externallink>
-		<fanart>https://www.themoviedb.org/t/p/original/qGfygSzVY0ygxTc7ldBMzSRPaTn.jpg</fanart>
-		<info>			
-
-[COLOR lime]»»[/COLOR][COLOR gold] 1ª Temporada [/COLOR]
-</info>
-	</channel>
-
------------------------------------------------------------------------------------------------------------------------------
-
-
- <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] The Last of Us | [/COLOR][COLOR lime]Dublado/[/COLOR][COLOR gold]Legendado[/COLOR][/B]</name>
-		<thumbnail>https://www.themoviedb.org/t/p/original/sADB9n2KwhQNsRLfzeuTj8BsqeB.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Last.of.Us/Temporadas.txt</externallink>
-		<fanart>https://www.themoviedb.org/t/p/original/uJ16DD1dj4CQLPNCWIoiOF3l8np.jpg</fanart>
-		<info>			
-
-[COLOR lime]»»[/COLOR][COLOR gold] 1ª Temporada [/COLOR]
-</info>
-	</channel>
-
------------------------------------------------------------------------------------------------------------------------------
-
-
- <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] The Mandalorian | [/COLOR][COLOR lime]Dublado/[/COLOR][COLOR gold]Legendado[/COLOR][/B]</name>
-		<thumbnail>https://www.themoviedb.org/t/p/original/1xO2UnWyxoyTrdvVDXW276LaHQc.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Mandalorian/Temporadas.txt</externallink>
-		<fanart>https://www.themoviedb.org/t/p/original/1q4fsKSUJf7HIRpViK4uoKnTAPr.jpg</fanart>
-		<info>			
-[COLOR lime]»»[/COLOR][COLOR gold] 3ª Temporada [/COLOR]
-[COLOR lime]»»[/COLOR][COLOR gold] 2ª Temporada [/COLOR]
-[COLOR lime]»»[/COLOR][COLOR gold] 1ª Temporada [/COLOR]
-</info>
-	</channel>
-
------------------------------------------------------------------------------------------------------------------------------
-
-	
-		
+ 
 	
 </channels>
