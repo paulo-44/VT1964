@@ -3,10 +3,22 @@
 <channels>
 
 
+	<channel>
+		<name>[B][COLOR orange]●≡ [/COLOR] [COLOR white] PLUTO TV | [COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/jd279wVt/lan-amentos.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/PLUTO.TV/Canais.txt</externallink>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<info>
+
+
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 	
 	<channel>
-		<name>[B][COLOR orange]●≡ [/COLOR] [COLOR white] LANÇAMENTOS | [COLOR gold]7[/COLOR][COLOR lime]Plus.BR[/COLOR][/B]</name>
+		<name>[B][COLOR orange]●≡ [/COLOR] [COLOR white] LANÇAMENTOS | [COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/jd279wVt/lan-amentos.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/Lancamentos.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
