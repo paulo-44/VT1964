@@ -1,18 +1,4 @@
 <item>
-<title>[B][COLOR white] Jack Reacher: O Último Tiro (2012) [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/288VRPag2ofZOd8</link>
-<subtitle>https://cdn.pobre.tv/subs/tt0790724.srt</subtitle>
-<thumbnail>https://www.themoviedb.org/t/p/original/14Wj4HZOdPmN2DXNbXXvJH2DwIf.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/5QEtCBM6aXHftr7sgFxxUUl9Ej8.jpg</fanart>
-<info>
-
-[COLOR lime]20012[/COLOR]
-</info>
-
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
 <title>[B][COLOR white] Jack Reacher: Sem Retorno (2016) [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/vzovlma0omFD2W</link>
 <subtitle>https://cdn.pobre.tv/subs/tt3393786.srt</subtitle>
@@ -26,3 +12,18 @@
 </item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Jack Reacher: O Último Tiro (2012) [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/288VRPag2ofZOd8</link>
+<subtitle>https://cdn.pobre.tv/subs/tt0790724.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/14Wj4HZOdPmN2DXNbXXvJH2DwIf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5QEtCBM6aXHftr7sgFxxUUl9Ej8.jpg</fanart>
+<info>
+
+[COLOR lime]20012[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+

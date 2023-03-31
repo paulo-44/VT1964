@@ -1,17 +1,4 @@
 <item>
-<title>[B][COLOR white] Jack Reacher: O Último Tiro (2012) [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/wa5xmbl3eyu0</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/14Wj4HZOdPmN2DXNbXXvJH2DwIf.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/5QEtCBM6aXHftr7sgFxxUUl9Ej8.jpg</fanart>
-<info>
-
-[COLOR lime]2012[/COLOR]
-</info>
-
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
 <title>[B][COLOR white] Jack Reacher: Sem Retorno (2016) [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/5v0gavbhmj4w</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4cnLIFdmZbxPTajcXAyOL3mMCKr.jpg</thumbnail>
@@ -24,3 +11,17 @@
 </item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Jack Reacher: O Último Tiro (2012) [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/wa5xmbl3eyu0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/14Wj4HZOdPmN2DXNbXXvJH2DwIf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5QEtCBM6aXHftr7sgFxxUUl9Ej8.jpg</fanart>
+<info>
+
+[COLOR lime]2012[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
