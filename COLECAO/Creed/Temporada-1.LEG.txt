@@ -1,0 +1,43 @@
+<item>
+<title>[B][COLOR white] Creed III (2023) [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/jYOx6lXX7XtzO2W</link>
+<subtitle>https://subs.warezcdn.net/225390-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/wDugyjvDQsuwm9j9hkmK4whCOti.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5i6SjyDbDWqyun8klUuCxrlFbyw.jpg</fanart>
+<info>
+
+[COLOR lime]2023[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Creed II (2018) [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/YO0aO69MdeTBDa</link>
+<subtitle>https://subs.warezcdn.net/9778-PT.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9il7qNbeYnPMYlutsVYDsj4hRyb.jpg</fanart>
+<info>
+
+[COLOR lime]2018[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Creed: Nascido para Lutar (2015) [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/2Wvy9XxaXeHZYLl</link>
+<subtitle>https://subs.warezcdn.net/12210-PT.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/53VTzu0nhbNYmIbqdDbFqobsLHt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jM8du0mIQ0r9WsS9x3bPnUkb3Bw.jpg</fanart>
+<info>
+
+[COLOR lime]2015[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
