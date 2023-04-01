@@ -7,7 +7,7 @@
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção Creed | [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/yKGbhXSv8yiZHv1SHzz25kcMudh.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/John.Wick/Temporada-1.BR.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Creed/Temporada-1.BR.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/2hscwDISGOGGcHgn2ttogcnlWvl.jpg</fanart>
 		<info>
 [COLOR lime]Sinopse:[/COLOR] [COLOR white]O ex-campeão mundial dos pesos pesados ​​Rocky Balboa serve como treinador e mentor do filho de Apollo Creed, Adonis. Esses filmes são spin-offs e sequências da série de filmes Rocky.[/COLOR]			
@@ -21,7 +21,7 @@
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção Creed | [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/yKGbhXSv8yiZHv1SHzz25kcMudh.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/John.Wick/Temporada-1.LEG.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Creed/Temporada-1.LEG.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/2hscwDISGOGGcHgn2ttogcnlWvl.jpg</fanart>
 		<info>
 [COLOR lime]Sinopse:[/COLOR] [COLOR white]O ex-campeão mundial dos pesos pesados ​​Rocky Balboa serve como treinador e mentor do filho de Apollo Creed, Adonis. Esses filmes são spin-offs e sequências da série de filmes Rocky.[/COLOR]			
