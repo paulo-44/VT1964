@@ -1,6 +1,6 @@
 <item>
 <title>[B][COLOR white] Teen Wolf: O Filme [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/XgXmg6ZvelSD7va</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ZwYABP3zwbI7Zo</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/e4M1YCKc07PeBoUs7ST2QgCiZFB.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/96SADhPnkXnVN3KaRKsDeBovLcm.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Um terrível mal surgiu na cidade de Beacon Hills. Os lobos estão uivando mais uma vez pedindo o retorno de Banshees, Werecoyotes, Hellhounds, Kitsunes e todos os outros metamorfos da noite.[/COLOR]
