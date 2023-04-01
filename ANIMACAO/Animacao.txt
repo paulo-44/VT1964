@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] Mortal Kombat Legends: Cegueira Glacial [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Kk8qZWp8k0i0Vj9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pJvZHaduX9GeASdZ16hc8O9JCWz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jh4DHVhI43xb3nsMq5euYGrPWcV.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Determinado a assumir Earthrealm, Kano ataca violentamente cidade após cidade com a ajuda de três mercenários de sangue frio do Black Dragon.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 21m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Liga da Justiça Vs. Jovens Titãs [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/8XpbLbg22PhoqKy</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yxXh1UyREFEulBNyTBpv0AxlGs5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lvpU9E3wB4nXBwm2APXek7HTjza.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Robin é forçado a trabalhar com os Jovens Titãs após comprometer uma missão da Liga da Justiça. Mas o vilão Trigon passa a controlar todos os membros da Liga, fazendo com que as duas equipes se enfrentem.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2016) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 19m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Gato de Botas 2: O Último Pedido [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/aYYMYD9M9vTMVO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/i0tScFVNCcgDzz9AgjYd3LDXGTO.jpg</thumbnail>
