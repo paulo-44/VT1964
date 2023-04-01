@@ -662,7 +662,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Procura-se Gonker [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/xeP9LVmzDdIkal0</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/oZvAkgjlWpuJoDx</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ziAL5224J9QHA0S0exarpkz4eUN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kLPIfUrMrjApjOxtqBUWI1MItOd.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Quando o amado cãozinho de uma família se perde na floresta, seus donos partem em uma incrível jornada para salvá-lo.[/COLOR]
