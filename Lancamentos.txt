@@ -1,4 +1,33 @@
 <item>
+<title>[B][COLOR white] Avatar: O Caminho da Água (HDRip v2) [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/rJjW0vYJ1JsYeb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mbYQLLluS651W89jO7MOZcLSCUw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ovM06PdF3M8wvKb06i4sjW3xoww.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Família[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 3h 12m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Avatar: O Caminho da Água [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/jvDB4ZYl7mfqdJ</link>
+<subtitle>https://cdn.pobre.tv/subs/3-avatar-o-caminho-da-agua-tt1630029.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/mbYQLLluS651W89jO7MOZcLSCUw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ovM06PdF3M8wvKb06i4sjW3xoww.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Família[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 3h 12m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Creed III [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/rDeAwygxgki8zy</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oVFBNoMhmO0gcLVkb6nLjixm80x.jpg</thumbnail>
