@@ -15,7 +15,7 @@
 <item>
 <title>[B][COLOR white] Eternos [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/J3yW4LOyWeUj33Z</link>
-<subtitle>https://subs.warezcdn.net/148583-PTB.sr</subtitle>
+<subtitle>https://subs.warezcdn.net/148583-PTB.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/vvDk3CLqeBrYfxVJwYEn9lWOYGI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Após os eventos de "Vingadores: Ultimato", os Eternos, uma raça alienígena imortal criada pelos Celestiais que vivem em segredo na Terra há mais de 7000 anos, se reúnem após uma tragédia inesperada para proteger a humanidade de seus colegas malignos: os Deviantes.[/COLOR]
