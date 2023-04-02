@@ -1,0 +1,26 @@
+<item>
+<title>[B][COLOR white] As Tartarugas Ninja: Fora das Sombras (2016) [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/29W2K2QDoGtZdoR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/28CV4RE4BayVZnbw7FdXbcvzSQb.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/41objfan7PDTBG5MFXQl4ownQzJ.jpg</fanart>
+<info>
+
+[COLOR lime]2016[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Tartarugas Ninja: Heróis Mutantes (2014) [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/9Oax8k9XbJHadzr</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/udkk1VQY9wgarV7xZ9qcraa7Qsd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8medRQxmGjoNWRqXMlpYyDYPOdT.jpg</fanart>
+<info>
+
+[COLOR lime]2014[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
