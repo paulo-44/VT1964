@@ -7,7 +7,7 @@
 		<name>[B][COLOR orange]●≡ [/COLOR] [COLOR white] PLUTO TV | [COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/vH2y6tPg/PLUTOTV.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/PLUTO.TV/Canais.txt</externallink>
-		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<fanart>https://i.postimg.cc/3xSX2JN1/fanart.jpg</fanart>
 		<info>
 
 
@@ -19,9 +19,9 @@
 	
 	<channel>
 		<name>[B][COLOR orange]●≡ [/COLOR] [COLOR white] LANÇAMENTOS | [COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
-		<thumbnail>https://i.postimg.cc/jd279wVt/lan-amentos.png</thumbnail>
+		<thumbnail>https://i.postimg.cc/Qt5cLQbY/LANCAMENTO.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/Lancamentos.txt</externallink>
-		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<fanart>https://i.postimg.cc/3xSX2JN1/fanart.jpg</fanart>
 		<info>
 
 
@@ -34,7 +34,7 @@
 		<name>[B][COLOR orange]●≡ [/COLOR] [COLOR white] FILMES CATEGORIAS | [COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/rwvx58Pc/filmes.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Categorias.txt</externallink>
-		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<fanart>https://i.postimg.cc/3xSX2JN1/fanart.jpg</fanart>
 		<info>
 
 </info>
@@ -45,7 +45,7 @@
 		<name>[B][COLOR orange]●≡ [/COLOR] [COLOR white] SERIES | [COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/RFv3TqQr/series.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/Inicio.txt</externallink>
-		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<fanart>https://i.postimg.cc/3xSX2JN1/fanart.jpg</fanart>
 		<info>
 
 </info>
@@ -56,7 +56,7 @@
 		<name>[B][COLOR orange]●≡ [/COLOR] [COLOR white] ANIMAÇÃO | [COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/g25q4yrC/animacao.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/ANIMACAO/Inicio.txt</externallink>
-		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<fanart>https://i.postimg.cc/3xSX2JN1/fanart.jpg</fanart>
 		<info>
 
 </info>
@@ -67,7 +67,7 @@
 		<name>[B][COLOR orange]●≡ [/COLOR] [COLOR white] FILMES COLETÂNEA | [COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/zvXgq3Vw/filmescoletanea.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Inicio.txt</externallink>
-		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
+		<fanart>https://i.postimg.cc/3xSX2JN1/fanart.jpg</fanart>
 		<info>
 
 </info>
