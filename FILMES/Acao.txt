@@ -1,4 +1,33 @@
 <item>
+<title>[B][COLOR white] Kill Boksoon [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/1A8WzdOOoOteara</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uC3qqSlXli8WRJroahhjIWNXu0q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tYcmm8XtzRdcT6kliCbHuWwLCwB.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]No trabalho, assassina renomada. Em casa, mãe solo de uma adolescente. Para ela, o desafio não é matar. Duro mesmo é a maternidade...[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 17m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Kill Boksoon [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/xbMay1kAJxHkgJR</link>
+<subtitle>https://subs.warezcdn.com/225351-PT.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/uC3qqSlXli8WRJroahhjIWNXu0q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/tYcmm8XtzRdcT6kliCbHuWwLCwB.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]No trabalho, assassina renomada. Em casa, mãe solo de uma adolescente. Para ela, o desafio não é matar. Duro mesmo é a maternidade...[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 17m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Resgate [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/kKglMLpjaXiykr</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5DS1Xh1dxfrR1H0sqATPxkwWFzi.jpg</thumbnail>
