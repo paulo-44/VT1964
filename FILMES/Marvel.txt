@@ -82,3 +82,29 @@
 </item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Pantera Negra [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/6R0YqmLLdQC9ArZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9D40jv8pi9uKnrVDPiN3JYYad72.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g48QjOQSy6PUMGPoKm8BZYyLEAw.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Após a morte do Rei T'Chaka (John Kani), o príncipe T'Challa (Chadwick Boseman) retorna a Wakanda para a cerimônia de coroação. Nela são reunidas as cinco tribos que compõem o reino, sendo que uma delas, os Jabari, não apoia o atual governo.[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2018) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 14m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Pantera Negra [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/AqXyzZzQ1BIXdxp</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9D40jv8pi9uKnrVDPiN3JYYad72.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/g48QjOQSy6PUMGPoKm8BZYyLEAw.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Após a morte do Rei T'Chaka (John Kani), o príncipe T'Challa (Chadwick Boseman) retorna a Wakanda para a cerimônia de coroação. Nela são reunidas as cinco tribos que compõem o reino, sendo que uma delas, os Jabari, não apoia o atual governo.[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2018) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 14m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
