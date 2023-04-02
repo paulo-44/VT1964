@@ -4,6 +4,21 @@
 
 
 <channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção Top Gun | [/COLOR][COLOR lime]Dublado/[/COLOR][COLOR gold]Legendado[/COLOR][/B]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/rL9DzQxkVF3BWQsdRukiJ7vrMQi.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Top.Gun/Temporadas.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/eNupRRVv0a4dkVTxOMvG7LhNBaq.jpg</fanart>
+		<info>
+[COLOR lime]»»[/COLOR][COLOR gold] 2016 [/COLOR]			
+[COLOR lime]»»[/COLOR][COLOR gold] 2014 [/COLOR]
+
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção As Tartarugas Ninjas | [/COLOR][COLOR lime]Dublado/[/COLOR][COLOR gold]Legendado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/i3DywIl37k83YXWreQGIcWNF7kL.jpg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Tartarugas.Ninja/Temporadas.txt</externallink>
