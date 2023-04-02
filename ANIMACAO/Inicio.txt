@@ -16,7 +16,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------	
  <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] ANIMAÇÃO  | [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado-PT[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] ANIMAÇÃO | [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado-PT[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/rL9DzQxkVF3BWQsdRukiJ7vrMQi.jpg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/ANIMACAO/Animacao-PT.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/eNupRRVv0a4dkVTxOMvG7LhNBaq.jpg</fanart>
