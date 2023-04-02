@@ -4,6 +4,21 @@
 
 
 <channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção Regresso ao Futuro | [/COLOR][COLOR lime]Dublado/[/COLOR][COLOR gold]Legendado[/COLOR][/B]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/kKgWyUT9tjyptuUvrGUb57adGv9.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Regresso.ao.Futuro/Temporadas.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/c9C9Pg2QctyjZHRmS0P8rZg1OTA.jpg</fanart>
+		<info>
+[COLOR lime]»»[/COLOR][COLOR gold] 2016 [/COLOR]			
+[COLOR lime]»»[/COLOR][COLOR gold] 2014 [/COLOR]
+
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção Top Gun | [/COLOR][COLOR lime]Dublado/[/COLOR][COLOR gold]Legendado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/rL9DzQxkVF3BWQsdRukiJ7vrMQi.jpg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Top.Gun/Temporadas.txt</externallink>
