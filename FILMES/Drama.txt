@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] Tempestade [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/DkyZBDlM13fk7Yw</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7sFsHSFqz9gvxyWjkQY4iJo0xQR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1H12ux6fWz0HrRkIL5i9zww6xtC.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Quando seu avião cai em uma remota montanha coberta de neve, Jane e Paul têm que lutar por suas vidas como os únicos sobreviventes restantes. Juntos, eles embarcam em uma jornada angustiante para fora do deserto.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Aventura, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 48m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Tempestade [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/r3mxDqz81gtG2o</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7sFsHSFqz9gvxyWjkQY4iJo0xQR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1H12ux6fWz0HrRkIL5i9zww6xtC.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Quando seu avião cai em uma remota montanha coberta de neve, Jane e Paul têm que lutar por suas vidas como os únicos sobreviventes restantes. Juntos, eles embarcam em uma jornada angustiante para fora do deserto.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Aventura, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 48m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Resgate [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/kKglMLpjaXiykr</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5DS1Xh1dxfrR1H0sqATPxkwWFzi.jpg</thumbnail>
