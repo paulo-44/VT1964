@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] Volte Sempre! [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/jqAqpYZGYrsz9M1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ugb03YpXlsORMyZg8WGswqHiTNO.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Um apresentador de rádio aposentado embala mantimentos para ganhar dinheiro para ir à festa de aniversário de seu ex-empregador, onde espera se reunir com o amor de sua vida.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Comédia, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 32m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Volte Sempre! [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/V7LbOZAqmeHKWlZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ugb03YpXlsORMyZg8WGswqHiTNO.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Um apresentador de rádio aposentado embala mantimentos para ganhar dinheiro para ir à festa de aniversário de seu ex-empregador, onde espera se reunir com o amor de sua vida.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Comédia, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 32m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Tempestade [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/DkyZBDlM13fk7Yw</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7sFsHSFqz9gvxyWjkQY4iJo0xQR.jpg</thumbnail>
