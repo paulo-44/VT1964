@@ -1,0 +1,43 @@
+<item>
+<title>[B][COLOR white] Regresso ao Futuro III (1990) [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/drP0oLBRQaSkkXv</link>
+<subtitle>https://subs.warezcdn.com/107-PT.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/yjSqXqdpaa6ECsiIQxW44ye0qAc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vKp3NvqBkcjHkCHSGi6EbcP7g4J.jpg</fanart>
+<info>
+
+[COLOR lime]1990[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Regresso ao Futuro II (1986) [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/qg666QWRwrsz96Z</link>
+<subtitle>https://subs.warezcdn.com/106-PT.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/dAAnK6EUBDUpM9H5EBfYV3GmtC1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iGkZLNllCJH9QqKIAIkg5NSy8I6.jpg</fanart>
+<info>
+
+[COLOR lime]1986[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Regresso ao Futuro (1985) [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/096Ao0Lqqxi0Wp</link>
+<subtitle>https://subs.warezcdn.com/105-PT.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/i996T0lI1fGtFEowiH3V6eZthL0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg</fanart>
+<info>
+
+[COLOR lime]1985[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<subtitle></subtitle>
