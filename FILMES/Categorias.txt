@@ -116,7 +116,7 @@
 
 <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Ficção científica | [/COLOR][COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
-		<thumbnail>https://i.postimg.cc/FK3cZ2MS/ficcao.png</thumbnail>
+		<thumbnail>https://i.postimg.cc/tRWN8jvR/FICCAO.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Ficcao.cientifica.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
 		<info>
