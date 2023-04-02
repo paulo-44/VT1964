@@ -19,7 +19,7 @@
 	
 	<channel>
 		<name>[B][COLOR orange]●≡ [/COLOR] [COLOR white] LANÇAMENTOS | [COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
-		<thumbnail>https://i.postimg.cc/jd279wVt/lan-amentos.png</thumbnail>
+		<thumbnail>https://i.postimg.cc/N055H07Y/LANCAMENTOS.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/Lancamentos.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
 		<info>
