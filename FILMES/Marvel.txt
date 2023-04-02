@@ -1,4 +1,33 @@
 <item>
+<title>[B][COLOR white] Shazam! [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/YWKQWYKK8Zcv8JA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/b5jbUHQ7DRHYbbKFR40d2kyr2zV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zORJw1HJ632rjdz0cUSjWlEiSyy.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Billy Batson (Asher Angel) tem apenas 14 anos de idade, mas recebeu de um antigo mago o dom de se transformar num super-herói adulto chamado Shazam (Zachary Levi). Ao gritar a palavra SHAZAM!, o adolescente se transforma nessa sua poderosa versão adulta para se divertir e testar suas habilidades.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Fantasia[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2019) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 12m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Shazam! [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/OVXrkreYlYuk90</link>
+<subtitle>https://cdn.pobre.tv/subs/Shazam!.2019.BDRip.x264-iFT.pt-pt.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/b5jbUHQ7DRHYbbKFR40d2kyr2zV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zORJw1HJ632rjdz0cUSjWlEiSyy.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Billy Batson (Asher Angel) tem apenas 14 anos de idade, mas recebeu de um antigo mago o dom de se transformar num super-herói adulto chamado Shazam (Zachary Levi). Ao gritar a palavra SHAZAM!, o adolescente se transforma nessa sua poderosa versão adulta para se divertir e testar suas habilidades.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Fantasia[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2019) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 12m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Morbius [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/DlAxzR703atG0q</link>
 <thumbnail>https://artworks.thetvdb.com/banners/v4/movie/34898/posters/61ad1ba5559a8.jpg</thumbnail>
