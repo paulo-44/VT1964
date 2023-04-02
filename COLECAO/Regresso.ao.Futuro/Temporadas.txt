@@ -7,7 +7,7 @@
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção Regresso ao Futuro | [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/kKgWyUT9tjyptuUvrGUb57adGv9.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Top.Gun/Temporada-1.BR.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Regresso.ao.Futuro/Temporada-1.BR.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/c9C9Pg2QctyjZHRmS0P8rZg1OTA.jpg</fanart>
 		<info>
 [COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma série de filmes de comédia e ficção científica americana que segue as aventuras de um estudante do ensino médio, Marty McFly, e um cientista excêntrico, Dr. Emmett L. Brown, enquanto usam uma máquina do tempo DeLorean para viajar no tempo para diferentes períodos da história de Hill Valley. Califórnia.[/COLOR]			
@@ -21,7 +21,7 @@
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Coleção Regresso ao Futuro | [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/kKgWyUT9tjyptuUvrGUb57adGv9.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Top.Gun/Temporada-1.LEG.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Regresso.ao.Futuro/Temporada-1.LEG.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/c9C9Pg2QctyjZHRmS0P8rZg1OTA.jpg</fanart>
 		<info>
 [COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma série de filmes de comédia e ficção científica americana que segue as aventuras de um estudante do ensino médio, Marty McFly, e um cientista excêntrico, Dr. Emmett L. Brown, enquanto usam uma máquina do tempo DeLorean para viajar no tempo para diferentes períodos da história de Hill Valley. Califórnia.[/COLOR]			
