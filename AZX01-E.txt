@@ -5,7 +5,7 @@
 
 	<channel>
 		<name>[B][COLOR orange]●≡ [/COLOR] [COLOR white] PLUTO TV | [COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
-		<thumbnail>https://i.postimg.cc/jd279wVt/lan-amentos.png</thumbnail>
+		<thumbnail>https://i.postimg.cc/vH2y6tPg/PLUTOTV.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/PLUTO.TV/Canais.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
 		<info>
@@ -19,7 +19,7 @@
 	
 	<channel>
 		<name>[B][COLOR orange]●≡ [/COLOR] [COLOR white] LANÇAMENTOS | [COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
-		<thumbnail>https://i.postimg.cc/N055H07Y/LANCAMENTOS.png</thumbnail>
+		<thumbnail>https://i.postimg.cc/jd279wVt/lan-amentos.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/Lancamentos.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
 		<info>
@@ -65,7 +65,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channel>
 		<name>[B][COLOR orange]●≡ [/COLOR] [COLOR white] FILMES COLETÂNEA | [COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
-		<thumbnail>https://i.postimg.cc/g25q4yrC/animacao.png</thumbnail>
+		<thumbnail>https://i.postimg.cc/zvXgq3Vw/filmescoletanea.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Inicio.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
 		<info>
