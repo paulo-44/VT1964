@@ -9,8 +9,9 @@
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/COLECAO/Regresso.ao.Futuro/Temporadas.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/c9C9Pg2QctyjZHRmS0P8rZg1OTA.jpg</fanart>
 		<info>
-[COLOR lime]»»[/COLOR][COLOR gold] 2016 [/COLOR]			
-[COLOR lime]»»[/COLOR][COLOR gold] 2014 [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 1990 [/COLOR]
+[COLOR lime]»»[/COLOR][COLOR gold] 1989 [/COLOR]			
+[COLOR lime]»»[/COLOR][COLOR gold] 1985 [/COLOR]
 
 </info>
 	</channel>
