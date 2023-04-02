@@ -1,27 +1,54 @@
 <item>
-<title>[B][COLOR white] Kill Boksoon [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/1A8WzdOOoOteara</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/uC3qqSlXli8WRJroahhjIWNXu0q.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tYcmm8XtzRdcT6kliCbHuWwLCwB.jpg</fanart>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]No trabalho, assassina renomada. Em casa, mãe solo de uma adolescente. Para ela, o desafio não é matar. Duro mesmo é a maternidade...[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Thriller[/COLOR]
+<title>[B][COLOR white] Volte Sempre! [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/jqAqpYZGYrsz9M1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ugb03YpXlsORMyZg8WGswqHiTNO.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Um apresentador de rádio aposentado embala mantimentos para ganhar dinheiro para ir à festa de aniversário de seu ex-empregador, onde espera se reunir com o amor de sua vida.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Comédia, Drama[/COLOR]
 [COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 2h 17m[/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 32m[/COLOR]
 </info>
 
 </item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
-<title>[B][COLOR white] Kill Boksoon [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/xbMay1kAJxHkgJR</link>
-<subtitle>https://subs.warezcdn.com/225351-PT.srt</subtitle>
-<thumbnail>https://www.themoviedb.org/t/p/original/uC3qqSlXli8WRJroahhjIWNXu0q.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tYcmm8XtzRdcT6kliCbHuWwLCwB.jpg</fanart>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]No trabalho, assassina renomada. Em casa, mãe solo de uma adolescente. Para ela, o desafio não é matar. Duro mesmo é a maternidade...[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Thriller[/COLOR]
+<title>[B][COLOR white] Volte Sempre! [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/V7LbOZAqmeHKWlZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ugb03YpXlsORMyZg8WGswqHiTNO.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Um apresentador de rádio aposentado embala mantimentos para ganhar dinheiro para ir à festa de aniversário de seu ex-empregador, onde espera se reunir com o amor de sua vida.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Comédia, Drama[/COLOR]
 [COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 2h 17m[/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 32m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Tempestade [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/DkyZBDlM13fk7Yw</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7sFsHSFqz9gvxyWjkQY4iJo0xQR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1H12ux6fWz0HrRkIL5i9zww6xtC.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Quando seu avião cai em uma remota montanha coberta de neve, Jane e Paul têm que lutar por suas vidas como os únicos sobreviventes restantes. Juntos, eles embarcam em uma jornada angustiante para fora do deserto.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Aventura, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 48m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Tempestade [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/r3mxDqz81gtG2o</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7sFsHSFqz9gvxyWjkQY4iJo0xQR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1H12ux6fWz0HrRkIL5i9zww6xtC.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Quando seu avião cai em uma remota montanha coberta de neve, Jane e Paul têm que lutar por suas vidas como os únicos sobreviventes restantes. Juntos, eles embarcam em uma jornada angustiante para fora do deserto.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Aventura, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 48m[/COLOR]
 </info>
 
 </item>
