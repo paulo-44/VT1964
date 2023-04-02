@@ -4,7 +4,7 @@
 
 	
 	<channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Ação | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Ação | [/COLOR][COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/NjLk1CG8/acao.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Acao.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
@@ -15,7 +15,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Aventura | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Aventura | [/COLOR][COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/d0yRf7yL/aventura.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Aventura.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
@@ -26,7 +26,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Comédia | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Comédia | [/COLOR][COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/sXPYVtKz/comedia.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Comedia.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
@@ -37,7 +37,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Crime | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Crime | [/COLOR][COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/XqVwXQDC/crime.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Crime.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
@@ -48,7 +48,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Dc | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Dc | [/COLOR][COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/05BQzV31/dc.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Dc.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
@@ -59,7 +59,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Documentário | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Documentário | [/COLOR][COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/tJ2F6WLm/documentario.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Documentario.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
@@ -70,7 +70,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Drama | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Drama | [/COLOR][COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/660rFxyL/drama.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Drama.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
@@ -81,7 +81,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Família | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Família | [/COLOR][COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/jdSHb3fV/familia.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Familia.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
@@ -92,7 +92,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Fantasia | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Fantasia | [/COLOR][COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/vH2WH774/fantasia.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Fantasia.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
@@ -103,7 +103,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Faroeste | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Faroeste | [/COLOR][COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/L8qjqqvN/faroeste.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Faroeste.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
@@ -115,7 +115,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
 <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Ficção científica | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Ficção científica | [/COLOR][COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/FK3cZ2MS/ficcao.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Ficcao.cientifica.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
@@ -126,7 +126,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Marvel | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Marvel | [/COLOR][COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/2yM8g5vS/marvel.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Marvel.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
@@ -137,7 +137,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Mistério | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Mistério | [/COLOR][COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/28tZfkmv/misterio.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Misterio.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
@@ -148,7 +148,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Romance | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Romance | [/COLOR][COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/YS6GgQFf/romanse.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Romance.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
@@ -159,7 +159,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Terror | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Terror | [/COLOR][COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/0jQbL3Bc/terror.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Terror.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
@@ -170,7 +170,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Thriller | [/COLOR][COLOR gold]7[/COLOR][COLOR lime]Plus[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Thriller | [/COLOR][COLOR gold]Cine[/COLOR][COLOR lime]Storia[/COLOR][/B]</name>
 		<thumbnail>https://i.postimg.cc/KjHRFfXF/thriller.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Thriller.txt</externallink>
 		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
