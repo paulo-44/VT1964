@@ -6,9 +6,9 @@
 
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] ANIMAÇÃO | [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado-BR[/COLOR][/B]</name>
-		<thumbnail>https://www.themoviedb.org/t/p/original/rL9DzQxkVF3BWQsdRukiJ7vrMQi.jpg</thumbnail>
+		<thumbnail>https://i.postimg.cc/s2qGjTD9/ANIMACAO-BR.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/ANIMACAO/Animacao-BR.txt</externallink>
-		<fanart>https://www.themoviedb.org/t/p/original/eNupRRVv0a4dkVTxOMvG7LhNBaq.jpg</fanart>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
 		<info>
 
 </info>
@@ -16,10 +16,10 @@
 
 -----------------------------------------------------------------------------------------------------------------------------	
  <channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] ANIMAÇÃO | [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado-PT[/COLOR][/B]</name>
-		<thumbnail>https://www.themoviedb.org/t/p/original/rL9DzQxkVF3BWQsdRukiJ7vrMQi.jpg</thumbnail>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] ANIMAÇÃO  | [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado-PT[/COLOR][/B]</name>
+		<thumbnail>https://i.postimg.cc/gJhXn3x9/ANIMACAO-PT.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/ANIMACAO/Animacao-PT.txt</externallink>
-		<fanart>https://www.themoviedb.org/t/p/original/eNupRRVv0a4dkVTxOMvG7LhNBaq.jpg</fanart>
+		<fanart>https://i.postimg.cc/Hk5VDb6D/fanart.jpg</fanart>
 		<info>
 		
 </info>
