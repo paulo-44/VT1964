@@ -1,4 +1,36 @@
 <item>
+<title>[B][COLOR white] Capitão América: Guerra Civil [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/eLjw4xded0UYb3M$nome=[B][COLOR yellow]SERVIDOR STTP - RESOLVER PLAYER[/COLOR][/B]</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.to/e/4n3q6qeluq39z36$nome=[B][COLOR yellow]SERVIDOR MXDP - RESOLVER PLAYER[/COLOR][/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8IoDJYGMoo4nEkjGADW2TtZRoWF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kvRT3GwcnqGHzPjXIVrVPhUix7Z.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]O ataque de Ultron fez com que os políticos buscassem algum meio de controlar os super-heróis, já que seus atos afetam toda a humanidade. Tal decisão coloca o Capitão América em rota de colisão com Tony Stark, o Homem de Ferro.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Aventura, Ação, Ficção científica[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2016) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 17m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Capitão América: Guerra Civil [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/r8mr3KkPPbtbqQA$nome=[B][COLOR yellow]SERVIDOR STTP - RESOLVER PLAYER[/COLOR][/B]</link>
+<subtitle>https://subs.warezcdn.com/143593-PTB.srt</subtitle>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.to/e/md0g3vqza7mnm$nome=[B][COLOR yellow]SERVIDOR MXDP - RESOLVER PLAYER[/COLOR][/B]</link>
+<subtitle>https://subs.warezcdn.com/143593-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/8IoDJYGMoo4nEkjGADW2TtZRoWF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kvRT3GwcnqGHzPjXIVrVPhUix7Z.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]O ataque de Ultron fez com que os políticos buscassem algum meio de controlar os super-heróis, já que seus atos afetam toda a humanidade. Tal decisão coloca o Capitão América em rota de colisão com Tony Stark, o Homem de Ferro.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Aventura, Ação, Ficção científica[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2016) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 17m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Eternos [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Oo4R2yGGBQtZO40</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vvDk3CLqeBrYfxVJwYEn9lWOYGI.jpg</thumbnail>
