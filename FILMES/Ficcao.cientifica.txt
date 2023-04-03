@@ -1,4 +1,33 @@
 <item>
+<title>[B][COLOR white] Moonfall - Ameaça Lunar [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/jk84q12l4yS2AV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ACl5NQBHeEvypdVlaaE868bwFs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4LIH1xQsR7iKVuTyjVKKJ7bHViu.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma força misteriosa tira a Lua da sua órbita em torno da Terra e envia-a numa rota de colisão capaz de aniquilar a vida como a conhecemos. Semanas antes do impacto, e com o mundo à beira de aniquilação, Jo Fowler, executiva e ex-astronauta da NASA está convencida que tem a chave para nos salvar a todos –mas apenas um astronauta do seu passado, Brian Harper, e o teórico conspiracionista, K. C. Houseman, acreditam nela.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ficção científica[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 00m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Moonfall - Ameaça Lunar [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Q3QMloVvjZT0l7G</link>
+<subtitle>https://subs.warezcdn.com/159008-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/ACl5NQBHeEvypdVlaaE868bwFs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4LIH1xQsR7iKVuTyjVKKJ7bHViu.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma força misteriosa tira a Lua da sua órbita em torno da Terra e envia-a numa rota de colisão capaz de aniquilar a vida como a conhecemos. Semanas antes do impacto, e com o mundo à beira de aniquilação, Jo Fowler, executiva e ex-astronauta da NASA está convencida que tem a chave para nos salvar a todos –mas apenas um astronauta do seu passado, Brian Harper, e o teórico conspiracionista, K. C. Houseman, acreditam nela.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ficção científica[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 00m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Godzilla vs. Kong [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/yjjKGAr7A3U1bRb</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/51tAtnATqN9VizZDnCN0IdCQpXF.jpg</thumbnail>
