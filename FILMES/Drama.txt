@@ -1,4 +1,17 @@
 <item>
+<title>[B][COLOR white] Tinnitus [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Zw0MVY2VGdIKLY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sWVCBeQDiQTxmwjuKSuui2Vzjdc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vSlggcfYSRzIVobkGkUlzAVywqm.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Marina é uma ex-atleta de saltos ornamentais que sofre de um terrível zumbido no ouvido, afetando sua estabilidade física e emocional. Afastada de competições profissionais desde um acidente nas últimas Olimpíadas, ela decide voltar ao esporte em busca de uma medalha nos próximos jogos.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Romance, Terror[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 45m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<item>
 <title>[B][COLOR white] Volte Sempre! [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/jqAqpYZGYrsz9M1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg</thumbnail>
