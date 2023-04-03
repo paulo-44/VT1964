@@ -28,6 +28,64 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
+<title>[B][COLOR white] Capitão América - O Soldado Invernal [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/oDgVoeo0MGuJ6ge</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nGA8dCXXVPPRaEjcbEyweUhHCAY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1RWLMyC9KcFfcaoViMiJGSSZzzr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Depois dos acontecimentos cataclísmicos em Nova Iorque com Os Vingadores, Steve Rogers, o Capitão América, vive em Washington, D.C. e tenta ajustar-se ao mundo. Mas quando um colega da S.H.I.E.L.D. está sob ataque, vê-se envolvido numa teia de intrigas que ameaçam colocar o mundo inteiro em risco.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Aventura, Ação, Ficção científica[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2014) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 16m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Capitão América - O Soldado Invernal [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Alp3rLQQO2FXPOz</link>
+<subtitle>https://subs.warezcdn.com/149270-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/nGA8dCXXVPPRaEjcbEyweUhHCAY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1RWLMyC9KcFfcaoViMiJGSSZzzr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Depois dos acontecimentos cataclísmicos em Nova Iorque com Os Vingadores, Steve Rogers, o Capitão América, vive em Washington, D.C. e tenta ajustar-se ao mundo. Mas quando um colega da S.H.I.E.L.D. está sob ataque, vê-se envolvido numa teia de intrigas que ameaçam colocar o mundo inteiro em risco.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Aventura, Ação, Ficção científica[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2014) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 16m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Capitão América: O Primeiro Vingador [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/XjZj38kLALIDer8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f976JQnjMhCTa1yLXz7UH1pV4DG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wpI4He62QfRK4F7njzqi0162pKC.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Após ser considerado inapto para o serviço militar, Steve Rogers voluntaria-se para um projeto de investigação altamente secreto que o transforma no Capitão América, um super-herói dedicado a defender os ideais da América e a liderar a luta pela liberdade como a derradeira arma contra o mal.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Aventura, Ação, Ficção científica[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2011) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 4m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Capitão América: O Primeiro Vingador [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/kWBBYAeAXZfO2MD</link>
+<subtitle>https://subs.warezcdn.com/149271-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/f976JQnjMhCTa1yLXz7UH1pV4DG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wpI4He62QfRK4F7njzqi0162pKC.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Após ser considerado inapto para o serviço militar, Steve Rogers voluntaria-se para um projeto de investigação altamente secreto que o transforma no Capitão América, um super-herói dedicado a defender os ideais da América e a liderar a luta pela liberdade como a derradeira arma contra o mal..[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Aventura, Ação, Ficção científica[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2011) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 4m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Eternos [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Oo4R2yGGBQtZO40</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vvDk3CLqeBrYfxVJwYEn9lWOYGI.jpg</thumbnail>
