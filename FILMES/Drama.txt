@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] A Menina Que Acredita em Milagres [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/bVwGk0X1DJIxAJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jhVnf6QmiRujRx2cYIZOnI8cPZ9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wwKTCPDgaq5nWs76Oitq9flUYvN.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Quando Sara ouve um pregador dizer que a fé pode mover montanhas, ela começa a orar. De repente, as pessoas em sua cidade são misteriosamente curadas! Mas a fama logo cobra seu preço - a família de Sara pode salvá-la antes que seja tarde demais?[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Família, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2021) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 40m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] A Menina Que Acredita em Milagres [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/0d37tdqd9nvp</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jhVnf6QmiRujRx2cYIZOnI8cPZ9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wwKTCPDgaq5nWs76Oitq9flUYvN.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]UQuando Sara ouve um pregador dizer que a fé pode mover montanhas, ela começa a orar. De repente, as pessoas em sua cidade são misteriosamente curadas! Mas a fama logo cobra seu preço - a família de Sara pode salvá-la antes que seja tarde demais?[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Família, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2021) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 40m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Ataque ao Poder [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/wDlDKjdvkxIJbaR</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hXLScIERphkTsMGdfKKvF4p4SPB.jpg</thumbnail>
