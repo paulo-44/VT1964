@@ -1,4 +1,33 @@
 <item>
+<title>[B][COLOR white] Ataque ao Poder [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/wDlDKjdvkxIJbaR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hXLScIERphkTsMGdfKKvF4p4SPB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n8DlVaRiKSXGemlYJRfQVvf2fqq.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]ohn Cale, polícia do Capitólio, acaba de ver recusado o seu emprego de sonho nos Serviços Secretos de Proteção ao Presidente James Sawyer). Para não deixar a sua filha decepcionada com esta notícia, John leva-a a visitar a Casa Branca, mas o local é tomado por um grupo paramilitar fortemente armado.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2013) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 11m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Ataque ao Poder [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ywyGm6Z8PLI1VQx</link>
+<subtitle>https://subs.warezcdn.com/779-PT.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/hXLScIERphkTsMGdfKKvF4p4SPB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/n8DlVaRiKSXGemlYJRfQVvf2fqq.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]ohn Cale, polícia do Capitólio, acaba de ver recusado o seu emprego de sonho nos Serviços Secretos de Proteção ao Presidente James Sawyer). Para não deixar a sua filha decepcionada com esta notícia, John leva-a a visitar a Casa Branca, mas o local é tomado por um grupo paramilitar fortemente armado.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2013) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 11m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Tempestade [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/DkyZBDlM13fk7Yw</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7sFsHSFqz9gvxyWjkQY4iJo0xQR.jpg</thumbnail>
