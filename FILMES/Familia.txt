@@ -1,4 +1,33 @@
 <item>
+<title>[B][COLOR white] Um Amor Para Recordar [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/B4lqGawqwksyxBG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1xE7AMpeW4P7fKOmKUef1m5kHqC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uRdJx2p950EobLYuf7Oz39Wk7jd.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Landon Carter é um popular finalista do liceu, conhecido pela sua irreverência e rebeldia. No entanto, depois de um acidente que deixa um colega paralizado, Landon é obrigado a prestar trabalho comunitário e entrar no clube de drama da sua escola.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Romance[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2002) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 41m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Um Amor Para Recordar [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/DZaOMQ7w4quGXO</link>
+<subtitle>https://subs.warezcdn.com/11232-PT.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/1xE7AMpeW4P7fKOmKUef1m5kHqC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uRdJx2p950EobLYuf7Oz39Wk7jd.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Landon Carter é um popular finalista do liceu, conhecido pela sua irreverência e rebeldia. No entanto, depois de um acidente que deixa um colega paralizado, Landon é obrigado a prestar trabalho comunitário e entrar no clube de drama da sua escola.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Romance[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2002) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 41m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] A Menina Que Acredita em Milagres [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/bVwGk0X1DJIxAJ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jhVnf6QmiRujRx2cYIZOnI8cPZ9.jpg</thumbnail>
