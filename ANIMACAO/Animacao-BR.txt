@@ -1,4 +1,18 @@
 <item>
+<title>[B][COLOR white] Dragon Ball Super: Broly [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado-BR[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/74mjZelLqqtxD7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jDPW52j5xNnDoIQBvMhaXLHvlcR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6OTRuxpwUUGbmCX3MKP25dOmo59.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Esta é a história de um novo Saiyajin. A Terra está em paz depois do fim do Torneio do Poder. Goku não quer nada além de treinar, já que agora compreende quantas pessoas fortes existem nos universos que ele ainda não conheceu. Então, um dia, um Saiyajin desconhecido chamado Broly aparece diante de Goku e Vegeta[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2018) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 41m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Mortal Kombat Legends: Cegueira Glacial [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado-BR[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Kk8qZWp8k0i0Vj9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pJvZHaduX9GeASdZ16hc8O9JCWz.jpg</thumbnail>
