@@ -5,9 +5,9 @@
 
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Rabbit Hole | S01 [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
-		<thumbnail>https://www.themoviedb.org/t/p/original/sADB9n2KwhQNsRLfzeuTj8BsqeB.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Last.of.Us/Temporada-1.BR.txt</externallink>
-		<fanart>https://www.themoviedb.org/t/p/original/uJ16DD1dj4CQLPNCWIoiOF3l8np.jpg</fanart>
+		<thumbnail>https://www.themoviedb.org/t/p/original/tOT5MoFgCupdTpiukseIopYPN5H.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/Rabbit.Hole/Temporada-1.BR.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/1raTkuT7RpiwVSfUy8uZCZxg8YN.jpg</fanart>
 		<info>
 [COLOR lime]Sinopse:[/COLOR] [COLOR white]O agente espião James Weir se vê no meio de uma batalha pela preservação da democracia em um mundo confrontado com desinformação, manipulação comportamental, estado de vigilância, controle de interesses e poderes extraordinários.[/COLOR]			
 [COLOR lime]Género:[/COLOR][COLOR white] Drama[/COLOR]
@@ -19,9 +19,9 @@
 -----------------------------------------------------------------------------------------------------------------------------	
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] Rabbit Hole | S01 [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</name>
-		<thumbnail>https://www.themoviedb.org/t/p/original/sADB9n2KwhQNsRLfzeuTj8BsqeB.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Last.of.Us/Temporada-1.LEG.txt</externallink>
-		<fanart>https://www.themoviedb.org/t/p/original/uJ16DD1dj4CQLPNCWIoiOF3l8np.jpg</fanart>
+		<thumbnail>https://www.themoviedb.org/t/p/original/tOT5MoFgCupdTpiukseIopYPN5H.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/Rabbit.Hole/Temporada-1.LEG.txt</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/1raTkuT7RpiwVSfUy8uZCZxg8YN.jpg</fanart>
 		<info>
 [COLOR lime]Sinopse:[/COLOR] [COLOR white]O agente espião James Weir se vê no meio de uma batalha pela preservação da democracia em um mundo confrontado com desinformação, manipulação comportamental, estado de vigilância, controle de interesses e poderes extraordinários.[/COLOR]			
 [COLOR lime]Género:[/COLOR][COLOR white] Drama[/COLOR]
