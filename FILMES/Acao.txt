@@ -1,4 +1,33 @@
 <item>
+<title>[B][COLOR white] RRR: Revolta, Rebelião, Revolução [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/xqOwM2r27vskOWq</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tjpiEnZBUAA8pdNPRKa5vP2Zpqw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Um conto de dois revolucionários lendários e sua jornada para longe de casa. Após sua jornada, eles voltam para casa para começar a lutar contra os colonialistas britânicos na década de 1920.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 3h 3m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] RRR: Revolta, Rebelião, Revolução [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/YVgowdkX3rTv8JD</link>
+<subtitle>https://subs.warezcdn.com/219061-PT.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/tjpiEnZBUAA8pdNPRKa5vP2Zpqw.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Um conto de dois revolucionários lendários e sua jornada para longe de casa. Após sua jornada, eles voltam para casa para começar a lutar contra os colonialistas britânicos na década de 1920.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 3h 3m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Ataque ao Poder [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/wDlDKjdvkxIJbaR</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hXLScIERphkTsMGdfKKvF4p4SPB.jpg</thumbnail>
