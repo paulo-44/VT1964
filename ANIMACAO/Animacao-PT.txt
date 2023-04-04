@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] Os Croods [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado-PT[/COLOR][/B]</title>
+<link>http://tugakids22.ga/0481499.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8wMyH1odZkVrM3uLcPRInGgx53S.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bNgqt819qpHcszjCzLCG5y16ldF.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Comédia e aventura pré-histórica que acompanha a primeira família do mundo na viagem das suas vidas logo que foi destruída a caverna que os protegia de todos os perigos.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2013) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 38m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Monstros: A Universidade [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado-PT[/COLOR][/B]</title>
+<link>http://tugakids22.ga/1453405.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gRNSCtyFGspt1iVKWzQZ9sJiTYW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hmAOMwVeJfdWXgK1Ikyl2eYkE99.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Desde que o universitário Mike Wazowski era um pequeno monstro, que sonhava em ser Assustador e sabe melhor do que ninguém que os melhores Assustadores vêm da Universidade dos Monstros (MU). Mas durante o seu primeiro semestre na MU, os planos de Mike veem-se subitamente alterados quando conhece o grandalhão James P. Sullivan, "Sulley", um Assustador com um talento natural. [/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2013) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 44m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Gru - O Maldisposto 2 [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado-PT[/COLOR][/B]</title>
 <link>http://tugakids22.ga/1690953.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg</thumbnail>
