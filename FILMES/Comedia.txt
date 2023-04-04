@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] Um Pacto de Amizade [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/9p7RVQrB4wcaGXA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f1NEx4lohw47WSuNqQife0GxWLv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aHKzw9AXrISbWpkVCyn4SV3PrY0.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]É época do baile de formatura e o último ano do ensino médio para Mandy. Ela e seu melhor amigo e companheiro, Ben, estão cercados por convites para o baile.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Comédia, Romance[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 38m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Um Pacto de Amizade [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/W3wjbo2ydzTQ1J</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f1NEx4lohw47WSuNqQife0GxWLv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aHKzw9AXrISbWpkVCyn4SV3PrY0.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]É época do baile de formatura e o último ano do ensino médio para Mandy. Ela e seu melhor amigo e companheiro, Ben, estão cercados por convites para o baile.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Comédia, Romance[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 38m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Volte Sempre! [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/jqAqpYZGYrsz9M1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dKM5MnEgPSwDXaAyZhN4NtpJy9B.jpg</thumbnail>
