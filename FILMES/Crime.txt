@@ -1,4 +1,18 @@
 <item>
+<title>[B][COLOR white] Out of Exile [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/6xWrQGaX4rT9RGx</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jgF5XaXnJmOgMxulhy2k1f9LNNc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wPNI1fd18z5TKBOK9Mv9Rfjb0j0.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Depois de um roubo malsucedido de um carro blindado, um ladrão recentemente em liberdade condicional tenta equilibrar sua vida e consertar uma família problemática enquanto um determinado agente do FBI persegue ele e sua equipe.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Crime, Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 47m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Roubo pelos Ares [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/e4YD9dpymASYMaZ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9wbjshzUHdfFhvdqHoNraGXhpLY.jpg</thumbnail>
