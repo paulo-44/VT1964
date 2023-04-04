@@ -6,7 +6,7 @@
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] La Brea | S01 [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/t6rzMbwNnw6ObRBYds02vrkDuS9.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Last.of.Us/Temporada-1.BR.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/La.Brea/Temporada-1.BR.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
 		<info>
 [COLOR lime]Sinopse:[/COLOR] [COLOR white]Um grupo de busca explora um misterioso forte que levanta mais questões do que respostas. Com a ajuda de um novo aliado, Gavin e Izzy embarcam numa missão perigosa e não autorizada que pode causar um desastre sem precedentes.[/COLOR]			
@@ -20,7 +20,7 @@
  <channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] La Brea | S01 [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/t6rzMbwNnw6ObRBYds02vrkDuS9.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/The.Last.of.Us/Temporada-1.LEG.txt</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/SERIES/La.Brea/Temporada-1.LEG.txt</externallink>
 		<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
 		<info>
 [COLOR lime]Sinopse:[/COLOR] [COLOR white]Um grupo de busca explora um misterioso forte que levanta mais questões do que respostas. Com a ajuda de um novo aliado, Gavin e Izzy embarcam numa missão perigosa e não autorizada que pode causar um desastre sem precedentes.[/COLOR]			
