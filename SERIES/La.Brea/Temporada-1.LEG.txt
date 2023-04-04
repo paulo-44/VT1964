@@ -1,0 +1,140 @@
+<item>
+<title>[B][COLOR white] La Brea (S01E01)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ZDywyBZZQxSqvaY</link>
+<subtitle>https://subs.warezcdn.com/145852-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E01[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] La Brea (S01E02)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/WqR6kPxjmGUbbeO</link>
+<subtitle>https://subs.warezcdn.com/146063-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E02[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] La Brea (S01E03)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Z3j3DpwvKrCqV0Y</link>
+<subtitle>https://subs.warezcdn.com/146288-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E03[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] La Brea (S01E04)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/JJ3K9OKYKRijx0A</link>
+<subtitle>https://subs.warezcdn.com/146409-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E04[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] La Brea (S01E05)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=LINK</link>
+<subtitle>https://subs.warezcdn.com/145852-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E05[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] La Brea (S01E06)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ab208JZ9JAux6AW</link>
+<subtitle>https://subs.warezcdn.com/146653-PT.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E06[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] La Brea (S01E07)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/bkA262Zk90sQAe</link>
+<subtitle>https://subs.warezcdn.com/147080-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E07[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] La Brea (S01E08)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/JvbWkpKOJDujWev</link>
+<subtitle>https://subs.warezcdn.com/147259-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E08[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] La Brea (S01E09)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/02apzZD92eFboJ2</link>
+<subtitle>https://subs.warezcdn.com/147668-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E09[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] La Brea (S01E10)[/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/j6mVellmYKSzBOy</link>
+<subtitle>https://subs.warezcdn.com/147667-PTB.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E10[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

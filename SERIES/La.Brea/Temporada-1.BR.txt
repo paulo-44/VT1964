@@ -1,0 +1,130 @@
+<item>
+<title>[B][COLOR white] La Brea (S01E01) [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/4yvYeOA8gZtKwXO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E01[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] La Brea (S01E02) [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/4163PJbd9RUKbqJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E02[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] La Brea (S01E03) [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.co/e/pkl9klrdhj9qoq</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E03[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] La Brea (S01E04) [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.co/e/n07x0kjpu4enpe</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E04[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] La Brea (S01E05) [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/JAQPw2ZBxWhjqpj</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E05[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] La Brea (S01E06) [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/l0m9Lj0Mqjh7KZb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E06[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] La Brea (S01E07) [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/YVZ9P9oX4JFv4Jw</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E07[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] La Brea (S01E08) [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Y7oYkvK9Besvvvo</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E08[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] La Brea (S01E09) [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Xzj2gYyrMwTDrQx</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E09[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] La Brea (S01E10) [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/34axlm7o1zCdoZR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1HiLMi66dO8Ia7EsPT2D9FwK5tL.jpg</fanart>
+<info>
+
+[COLOR lime]S01E10[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
