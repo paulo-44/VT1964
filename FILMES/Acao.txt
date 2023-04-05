@@ -1,4 +1,33 @@
 <item>
+<title>[B][COLOR white] Os Quatro 2: Reino Sem Lei [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/29zOXqRD8AsZOKe</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pMbwYwzb8BGH9Xbd8BxHQ724sQi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4HJm8s2s0Br18IqtuQLxnnES2St.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Quatro detetives, Sangue Frio, Emoção Zero, Mãos de Ferro e Usurpador de Almas, possuem habilidades únicas e são enviados para investigar um assassinato fora da cidade.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2013) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 58m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Os Quatro 2: Reino Sem Lei [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Kgkbdg3yV1UAAG</link>
+<subtitle>https://subs.warezcdn.com/149481-PT.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/pMbwYwzb8BGH9Xbd8BxHQ724sQi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4HJm8s2s0Br18IqtuQLxnnES2St.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Quatro detetives, Sangue Frio, Emoção Zero, Mãos de Ferro e Usurpador de Almas, possuem habilidades únicas e são enviados para investigar um assassinato fora da cidade.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2013) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 58m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Mistério em Paris [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/mk492K1pgMibx26</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pf1dQDb55mJ13KQMEYa4O0fni64.jpg</thumbnail>
