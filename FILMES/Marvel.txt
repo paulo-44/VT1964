@@ -1,6 +1,6 @@
 <item>
 <title>[B][COLOR white] Thor: Amor e Trovão [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/zpm7KAoQWlTYPzW</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/zrKrxl7p6kiejJ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oI8Ajp9EtDhsd9S81yVRKGTUScM.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Thor empreende uma jornada diferente de tudo o que já enfrentou –a procura pela paz interior. Mas a sua reforma é interrompida por um assassino galáctico conhecido como Gorr, o Carniceiro dos Deuses, que procura a extinção de todos os deuses.[/COLOR]
@@ -43,7 +43,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Thor Ragnarok [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/x9OKgvwxWbUk3Qe</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.to/e/pk1830g1cgn16dz</link>
 <subtitle>https://subs.warezcdn.com/7265-PT.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/jrF3WW4lJkIFtIY3nIyapZ7q0N8.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg</fanart>
