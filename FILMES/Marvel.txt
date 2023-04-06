@@ -74,7 +74,7 @@
 <title>[B][COLOR white] Thor: O Mundo Sombrio [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/lrO4b0WZjbc7Yxg</link>
 <subtitle>https://subs.warezcdn.com/525-PT.srt</subtitle>
-<thumbnail>https://www.themoviedb.org/t/p/original/wtHxoL3zFjIrjZBCGlRTb8ao1IW.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/1ZgNyh3Z8xfBXPszT5GmAeVtsAT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4zTsF0RtO0av3YX1NaKDqGKPxYF.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Thor luta para restabelecer a ordem em todo o cosmos… mas uma antiga raça liderada pelo vingativo Malekith regressa para mergulhar o universo nas trevas. [/COLOR]
 [COLOR lime]Género:[/COLOR][COLOR white] Aventura, Ação, Ficção científica[/COLOR]
@@ -87,7 +87,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Thor [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/2Vpawd6d8jtZkGK</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/oD8lK1e620sjZq</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wtHxoL3zFjIrjZBCGlRTb8ao1IW.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1wOu8rdvPxU1ObHi20VcRhfNpbo.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Aventura que une o Universo Marvel dos dias de hoje com o reino místico de Asgard. No centro da história está O Poderoso Thor, um forte, porém arrogante guerreiro, cujas imprudentes atitudes reacendem um antiga guerra. Como resultado, Thor é banido para a Terra, onde é obrigado a viver entre os humanos.[/COLOR]
@@ -101,7 +101,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Thor [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/vkvoyA7Ddxs43Gv</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/vQbDv3JVPws4rz8</link>
 <subtitle>https://subs.warezcdn.com/524-PT.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/wtHxoL3zFjIrjZBCGlRTb8ao1IW.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1wOu8rdvPxU1ObHi20VcRhfNpbo.jpg</fanart>
