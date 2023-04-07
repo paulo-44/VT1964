@@ -154,7 +154,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Teen Wolf: O Filme [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ZwYABP3zwbI7Zo</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/XgXmg6ZvelSD7va</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/e4M1YCKc07PeBoUs7ST2QgCiZFB.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/96SADhPnkXnVN3KaRKsDeBovLcm.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Um terrível mal surgiu na cidade de Beacon Hills. Os lobos estão uivando mais uma vez pedindo o retorno de Banshees, Werecoyotes, Hellhounds, Kitsunes e todos os outros metamorfos da noite.[/COLOR]
@@ -844,7 +844,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] 10 Dias de um Homem Bom [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/8Zkllak46btoB78</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/DzP0YxMoqOSG6p</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eQnY9isD2u7jdSkyfy8qjdMgQnT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/72Cz99QcfnlcyUy7PePQZISVxxr.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Sadık (Nejat Isler) é um homem de grande integridade e força vital, além disso, sempre esteve muito empenhado em ajudar o próximo, por isso, começou a trabalhar como advogado.[/COLOR]
@@ -858,7 +858,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] 10 Dias de um Homem Bom [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/gveDR1WM8OHqrky</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/XxR1JaPkRGcDj1Z</link>
 <subtitle>https://subs.warezcdn.net/224426-PTB.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/eQnY9isD2u7jdSkyfy8qjdMgQnT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/72Cz99QcfnlcyUy7PePQZISVxxr.jpg</fanart>
