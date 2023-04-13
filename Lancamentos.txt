@@ -1,35 +1,6 @@
 <item>
-<title>[B][COLOR white] TESTE TORRENT [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09ce13018624147ef343efab33d02debc28b3e92</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/pf1dQDb55mJ13KQMEYa4O0fni64.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/AwB7HGeDTrBGkP2WEnNwg8Wa0E4.jpg</fanart>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Agora detetives particulares e donos de uma agência, Nick e Audrey Spitz se envolvem em uma investigação internacional após o sequestro de um amigo.[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Ação, Comédia, Mistério[/COLOR]
-[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 1h 30m[/COLOR]
-</info>
-
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[B][COLOR white] TESTE TORRENT [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:617806ea35799f1683b14e95e0537d323e432bbc</link>
-<subtitle>https://raw.githubusercontent.com/paulo-44/VT1964/main/Legendas/65.2023.WEB-DL.RENOMEIE.srt</subtitle>
-<thumbnail>https://www.themoviedb.org/t/p/original/pf1dQDb55mJ13KQMEYa4O0fni64.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/AwB7HGeDTrBGkP2WEnNwg8Wa0E4.jpg</fanart>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Agora detetives particulares e donos de uma agência, Nick e Audrey Spitz se envolvem em uma investigação internacional após o sequestro de um amigo.[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Ação, Comédia, Mistério[/COLOR]
-[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 1h 30m[/COLOR]
-</info>
-
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
 <title>[B][COLOR white] Mistério em Paris [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/mk492K1pgMibx26</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.to/e/o78q4m9raqv8wx</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pf1dQDb55mJ13KQMEYa4O0fni64.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/AwB7HGeDTrBGkP2WEnNwg8Wa0E4.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Agora detetives particulares e donos de uma agência, Nick e Audrey Spitz se envolvem em uma investigação internacional após o sequestro de um amigo.[/COLOR]
@@ -43,7 +14,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Mistério em Paris [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/voDqkjVDpbF4Xzd</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.to/e/j9xvmmloiqeowq</link>
+<subtitle>https://subs.warezcdn.com/225341-PTB.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/pf1dQDb55mJ13KQMEYa4O0fni64.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/AwB7HGeDTrBGkP2WEnNwg8Wa0E4.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Agora detetives particulares e donos de uma agência, Nick e Audrey Spitz se envolvem em uma investigação internacional após o sequestro de um amigo.[/COLOR]
