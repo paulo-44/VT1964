@@ -1,6 +1,34 @@
 <item>
+<title>[B][COLOR white] Fome de Sucesso [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ZPmK0vmWb9tyBl</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/56uuOLbLHTUM3xxUKm16IjAULaf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5496hsdYzNq4O9PC4Zu6axIswHY.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma jovem e talentosa cozinheira de comida de rua se esforça ao máximo depois de aceitar um convite para treinar com um chef infame e implacável.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 25m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Fome de Sucesso [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/BQ8QwZeO2MuypqL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/56uuOLbLHTUM3xxUKm16IjAULaf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5496hsdYzNq4O9PC4Zu6axIswHY.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma jovem e talentosa cozinheira de comida de rua se esforça ao máximo depois de aceitar um convite para treinar com um chef infame e implacável.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 25m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Mistério em Paris [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.to/e/o78q4m9raqv8wx</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/mk492K1pgMibx26</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pf1dQDb55mJ13KQMEYa4O0fni64.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/AwB7HGeDTrBGkP2WEnNwg8Wa0E4.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Agora detetives particulares e donos de uma agência, Nick e Audrey Spitz se envolvem em uma investigação internacional após o sequestro de um amigo.[/COLOR]
@@ -14,8 +42,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Mistério em Paris [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.to/e/j9xvmmloiqeowq</link>
-<subtitle>https://subs.warezcdn.com/225341-PTB.srt</subtitle>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/voDqkjVDpbF4Xzd</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pf1dQDb55mJ13KQMEYa4O0fni64.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/AwB7HGeDTrBGkP2WEnNwg8Wa0E4.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Agora detetives particulares e donos de uma agência, Nick e Audrey Spitz se envolvem em uma investigação internacional após o sequestro de um amigo.[/COLOR]
