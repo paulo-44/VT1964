@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] A Baleia [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/AA2XDOBO1MSX7pa</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4hhd8JuwsHTvpqW9wW9oebsHVu0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/46FRuCeAn6TrS4F1P4F9zhyCpyo.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Um professor de inglês recluso que sofre de obesidade severa tenta se reconectar com sua filha adolescente distante para uma última chance de redenção.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 56m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] A Baleia [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/qDK4o32JaQczxOL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4hhd8JuwsHTvpqW9wW9oebsHVu0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/46FRuCeAn6TrS4F1P4F9zhyCpyo.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Um professor de inglês recluso que sofre de obesidade severa tenta se reconectar com sua filha adolescente distante para uma última chance de redenção.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 56m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Os Reis da Rua Mulberry: Que Reine o Amor [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/6R6mgj7yLaf97rJ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3Tr5ziHzI6nEJyXwcyr0z29mA77.jpg</thumbnail>
