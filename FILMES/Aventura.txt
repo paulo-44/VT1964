@@ -1,3 +1,30 @@
+<title>[B][COLOR white] Meu Amigo Lutcha [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/wkklowXDwRfG8J</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aityu1Gma509jInlspHstEt8Jg0.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Durante uma visita à família no México, o adolescente Alex faz um amigo improvável: um chupacabra que vive escondido no galpão de seu avô. Para salvar a criatura, Alex e seus primos embarcam em uma grande aventura.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Aventura, Família, Fantasia[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 35m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Meu Amigo Lutcha [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/9llgeaM88ehaKLO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aityu1Gma509jInlspHstEt8Jg0.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Durante uma visita à família no México, o adolescente Alex faz um amigo improvável: um chupacabra que vive escondido no galpão de seu avô. Para salvar a criatura, Alex e seus primos embarcam em uma grande aventura.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Aventura, Família, Fantasia[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 35m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Os Reis da Rua Mulberry: Que Reine o Amor [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/6R6mgj7yLaf97rJ</link>
