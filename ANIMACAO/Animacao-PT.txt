@@ -1,4 +1,46 @@
 <item>
+<title>[B][COLOR white] Mínimos [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado-PT[/COLOR][/B]</title>
+<link>http://tkapp22.tk/2293640.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/caq9Xi6b1sZNREfzFBO2tRIBzWn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c7xTZ9EA6GpH72xJC5s0x0KKR1a.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Desde os primórdios dos tempos que os Mínimos têm servido — e atrapalhado — os mais marcantes vilões da história humana. Todavia, enfrentam agora o desemprego e a sua própria existência perdeu o sentido por não terem mais um vilão a quem servir.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2015) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 30m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Hotel Transylvania 2 [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado-PT[/COLOR][/B]</title>
+<link>http://tkapp22.tk/2510894.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/prBkRebn3rgLVboyxmEpjKaDJ1x.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mfnkxXWuh2Br097Qteq8ieqKfev.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Tudo parece estar a mudar para melhor no Hotel Transilvânia desde que Drácula abriu o castelo a hóspedes humanos. Mas, no recato do seu caixão, ele está preocupado com Dennis, o seu neto, que não mostra quaisquer sinais de vir a ser um vampiro.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2015) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 30m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Savva [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado-PT[/COLOR][/B]</title>
+<link>http://tkapp22.tk/4075322.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rNF4FPFOEDsh91HoBoKvzz4ARCK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cZborcjsbs6QyrNju73ygFxWRdr.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]SAVVA é um rapaz de 10 anos, que vive numa pequena aldeia que ao longo dos tempos, foi sempre protegida por lobos mas, que agora, é presa fácil para um gangue de hienas sem piedade… SAVVA decide fugir para a floresta e é então que conhece um grande lobo branco – o único visto em muito tempo[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Animação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2015) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 25m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Os Croods [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado-PT[/COLOR][/B]</title>
 <link>http://tkapp22.tk/0481499.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8wMyH1odZkVrM3uLcPRInGgx53S.jpg</thumbnail>
