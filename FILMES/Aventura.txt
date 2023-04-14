@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] Os Reis da Rua Mulberry: Que Reine o Amor [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/6R6mgj7yLaf97rJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3Tr5ziHzI6nEJyXwcyr0z29mA77.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iEbvRRsmgFzIJLy35UK7qI5nM76.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]E se dois jovens de Kwazulu Natal pudessem derrotar o tirânico senhor do crime local que ameaça suas famílias acreditando que é possível ser um herói de Bollywood? O espirituoso Ticky (Aaqil Hoosen) é como um artista tjara - impetuoso e ousado, com pouco respeito pelas regras.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Aventura, Comédia, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 49m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Os Reis da Rua Mulberry: Que Reine o Amor [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/PX903OPzYrh049q</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3Tr5ziHzI6nEJyXwcyr0z29mA77.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iEbvRRsmgFzIJLy35UK7qI5nM76.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]E se dois jovens de Kwazulu Natal pudessem derrotar o tirânico senhor do crime local que ameaça suas famílias acreditando que é possível ser um herói de Bollywood? O espirituoso Ticky (Aaqil Hoosen) é como um artista tjara - impetuoso e ousado, com pouco respeito pelas regras.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Aventura, Comédia, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 49m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Tempestade [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/DkyZBDlM13fk7Yw</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7sFsHSFqz9gvxyWjkQY4iJo0xQR.jpg</thumbnail>
