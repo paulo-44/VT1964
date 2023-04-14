@@ -1,6 +1,34 @@
 <item>
+<title>[B][COLOR white] Ah, Belinda [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/vQVxQMvO1ws46a0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6MI2WO2ThKMz8LSdpxBvaIAt8FE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/twIludYSwWV4UAjLvCY3ucIPj1w.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]A vida perfeita de uma jovem atriz muda completamente quando ela aceita um papel em um comercial e acaba indo parar no mundo da personagem.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Comédia, Drama, Fantasia[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 25m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Ah, Belinda [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/MP0bAqwwOLIm7x6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6MI2WO2ThKMz8LSdpxBvaIAt8FE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/twIludYSwWV4UAjLvCY3ucIPj1w.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]A vida perfeita de uma jovem atriz muda completamente quando ela aceita um papel em um comercial e acaba indo parar no mundo da personagem.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Comédia, Drama, Fantasia[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 25m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Teen Wolf: O Filme [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ZwYABP3zwbI7Zo</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/XgXmg6ZvelSD7va</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/e4M1YCKc07PeBoUs7ST2QgCiZFB.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/96SADhPnkXnVN3KaRKsDeBovLcm.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Um terrível mal surgiu na cidade de Beacon Hills. Os lobos estão uivando mais uma vez pedindo o retorno de Banshees, Werecoyotes, Hellhounds, Kitsunes e todos os outros metamorfos da noite.[/COLOR]
