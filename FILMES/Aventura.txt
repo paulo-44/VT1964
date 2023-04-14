@@ -1,3 +1,31 @@
+<item>
+<title>[B][COLOR white] Avatar: O Caminho da Água [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/8R0pYjDdOqiG4m</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mqEDAkUpRSlc0lkwaXZekTUXClI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ytdebEE0ndYLSTEctPgh8e0vaBs.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Ficção científica[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 3h 12m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Avatar: O Caminho da Água [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/PLxRlq1b0yF0JyW</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mqEDAkUpRSlc0lkwaXZekTUXClI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ytdebEE0ndYLSTEctPgh8e0vaBs.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ação, Aventura, Ficção científica[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 3h 12m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <title>[B][COLOR white] Meu Amigo Lutcha [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/wkklowXDwRfG8J</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg</thumbnail>
