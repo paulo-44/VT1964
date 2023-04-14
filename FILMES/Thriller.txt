@@ -1,4 +1,32 @@
 <item>
+<title>[B][COLOR white] Fome de Sucesso [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ZPmK0vmWb9tyBl</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/56uuOLbLHTUM3xxUKm16IjAULaf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5496hsdYzNq4O9PC4Zu6axIswHY.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma jovem e talentosa cozinheira de comida de rua se esforça ao máximo depois de aceitar um convite para treinar com um chef infame e implacável.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 25m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR white] Fome de Sucesso [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/BQ8QwZeO2MuypqL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/56uuOLbLHTUM3xxUKm16IjAULaf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5496hsdYzNq4O9PC4Zu6axIswHY.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma jovem e talentosa cozinheira de comida de rua se esforça ao máximo depois de aceitar um convite para treinar com um chef infame e implacável.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Thriller[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 25m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Out of Exile [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/6xWrQGaX4rT9RGx</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jgF5XaXnJmOgMxulhy2k1f9LNNc.jpg</thumbnail>
