@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR white] Avatar: O Caminho da Água [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR]</title>
+<title>[B][COLOR white] Avatar: O Caminho da Água [/COLOR][COLOR gold] DUAL[/COLOR][COLOR lime] ÁUDIO[/COLOR][/B]</title>
 <link>https://eu2.contabostorage.com/0fb356d527214844817b5318dd4c8af8:2023/Avatar.2023.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mqEDAkUpRSlc0lkwaXZekTUXClI.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ytdebEE0ndYLSTEctPgh8e0vaBs.jpg</fanart>
