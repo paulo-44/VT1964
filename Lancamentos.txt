@@ -1,6 +1,6 @@
 <item>
 <title>[B][COLOR white] Sete Reis Irão Cair [/COLOR][COLOR gold] DUAL[/COLOR][COLOR lime] ÁUDIO[/COLOR][/B]</title>
-<link>https://eu2.contabostorage.com/0fb356d527214844817b5318dd4c8af8:2023/Shazam.2023.mkv</link>
+<link>https://eu2.contabostorage.com/0fb356d527214844817b5318dd4c8af8:2023/Sete.Reis.Irão.Cair.2023.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xwA90BwZXTh8ke3CVsQlj8EOkFr.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]No rescaldo da morte do rei Eduardo, Uhtred de Bebbanburg e os seus camaradas aventuram-se por um reino fraturado na esperança de unir a Inglaterra de uma vez por todas.[/COLOR]
