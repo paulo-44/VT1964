@@ -1,4 +1,18 @@
 <item>
+<title>[B][COLOR white] Homem-Formiga e a Vespa: Quantumania [/COLOR][COLOR gold] LEG[/COLOR][COLOR lime]NDADO[/COLOR][/B]</title>
+<link>http://eu2.contabostorage.com/0fb356d527214844817b5318dd4c8af8:2023/Ant-Man.and.the.Wasp.Quantumania.2023.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mZBO9lcWAYEZ5F15xPQOQfA3Dm4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8YFL5QQVPy3AgrEQxNYVSgiPEbe.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Em Homem-Formiga e a Vespa: Quantumania, quando Cassie (Kathryn Newton), filha de Scott Lang (Paul Rudd), desenvolve um dispositivo que permitiria a comunicação com o reino quântico, o experimento termina em desastre: Cassie, Scott e sua companheira e heroína, Vespa, Hope van Dyne (Evangeline Lilly) involuntariamente se encontram no reino místico.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ficção científica, Aventura, Ação[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 2h 5m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Meu Amigo Lutcha [/COLOR][COLOR gold] DUAL[/COLOR][COLOR lime] ÁUDIO[/COLOR][/B]</title>
 <link>https://eu2.contabostorage.com/0fb356d527214844817b5318dd4c8af8:2023/Meu.Amigo.Lutcha.2023.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg</thumbnail>
