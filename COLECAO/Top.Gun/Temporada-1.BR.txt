@@ -1,6 +1,6 @@
 <item>
 <title>[B][COLOR white] Top Gun: Maverick (2022) [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/rbM1q9D3y7HbD3r</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/xOAge0KOAWtjzK</link>
 <thumbnail>https://artworks.thetvdb.com/banners/v4/movie/16721/posters/628136f172fe4.jpg</thumbnail>
 <fanart>https://artworks.thetvdb.com/banners/v4/movie/16721/backgrounds/63ac6b4a1ddb4.jpg</fanart>
 <info>
