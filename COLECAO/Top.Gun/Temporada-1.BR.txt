@@ -13,7 +13,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Top Gun - Ases Indomáveis (1986) [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/D9gobDJKO8tkZeK</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/pdjQB1R23Ltrmq1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dDrMtnVgtDeecIgNchb9F8JcO5w.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/j6sAlNz354qtzvG01LLYF16Uufg.jpg</fanart>
 <info>
