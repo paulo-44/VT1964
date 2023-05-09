@@ -885,7 +885,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Duro de Atuar [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/6QYgKMgW10tegA</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.co/e/qlxovg8zsvzvx9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hcuZ68ymJgohTerR8Oo1mb76SJv.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/t2k1pK0PCFcxhaXMHHSl9mHDytr.jpg</fanart>
 <info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Kevin Hart, fazendo uma versão de si mesmo, vai encarar o desafio da sua vida para se tornar um herói de ação. E só com a ajuda de John Travolta, Nathalie Emmanuel e Josh Hartnett que ele poderá alcançar o sucesso.[/COLOR]
