@@ -1,19 +1,4 @@
 <item>
-<title>[B][COLOR white] Evil Dead Rise - O Despertar [/COLOR][COLOR gold] LEGE[/COLOR][COLOR lime]NDADO[/COLOR][/B]</title>
-<link>https://s3.eu-central-2.wasabisys.com/cine2023-7plus/lancamentos23/Evil.Dead.Rise.2023.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5E4nVa3dXTHG2zx9iO7b0UIMsa7.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg</fanart>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]A história inquietante de duas irmãs que se afastam ao longo dos anos e cujo reencontro é interrompido pelo despertar de demónios, mergulhando assim numa luta pela sobrevivência com a qual se deparam por causa de uma reunião familiar tenebrosa.[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Terror[/COLOR]
-[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 1h 36m[/COLOR]
-</info>
-
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<item>
 <title>[B][COLOR white] Homem-Formiga e a Vespa: Quantumania [/COLOR][COLOR gold] LEGE[/COLOR][COLOR lime]NDADO[/COLOR][/B]</title>
 <link>http://eu2.contabostorage.com/0fb356d527214844817b5318dd4c8af8:2023/Ant-Man.and.the.Wasp.Quantumania.2023.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mZBO9lcWAYEZ5F15xPQOQfA3Dm4.jpg</thumbnail>
