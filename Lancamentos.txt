@@ -25,7 +25,7 @@
 </info>
 
 </item>
-https://s3.eu-central-2.wasabisys.com/cine2023-7plus/lancamentos23/Evil.Dead.Rise.2023.mp4
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B][COLOR white] Meu Amigo Lutcha [/COLOR][COLOR gold] DUAL[/COLOR][COLOR lime] ÁUDIO[/COLOR][/B]</title>
