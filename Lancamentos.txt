@@ -1,4 +1,18 @@
 <item>
+<title>[B][COLOR white] A Cratera [/COLOR][COLOR gold] DUAL[/COLOR][COLOR lime] ÁUDIO[/COLOR][/B]</title>
+<link>https://eu2.contabostorage.com/0fb356d527214844817b5318dd4c8af8:2023/Crater.2023.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9P2A7RF8z61XM6kMplDGFrYf2VJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4tMKRCS0w0rd86lBPFtfMYtdO3L.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Caleb Channing é um jovem que cresceu numa colónia mineira na Lua e está prestes a mudar-se de vez para um belo planeta longínquo após a morte do pai. Mas, antes de partir, para cumprir o último desejo do pai, ele, com os seus três melhores amigos e uma recém-chegada da Terra, rouba um veículo todo-o-terreno para viver uma última aventura e explorar uma cratera misteriosa.[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Ficção científica, Ação, Aventura, Família[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 45m[/COLOR]
+</info>
+
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[B][COLOR white] Fome de Sucesso [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/ZPmK0vmWb9tyBl</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/56uuOLbLHTUM3xxUKm16IjAULaf.jpg</thumbnail>
