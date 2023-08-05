@@ -4,7 +4,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]AÇÃO[/COLOR][/B]</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/410O56DAkyL.png</thumbnail>
-<externallink>https://pastebin.com/raw/Wp6bZTaF</externallink>
+<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Acao.txt</externallink>
 <fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
 <info>portugalkodi.com</info>
 </channel>
@@ -24,5 +24,15 @@
 <fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
 <info>portugalkodi.com</info>
 </channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]COMÉDIA[/COLOR][/B]</name>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Comedia.txt</externallink>
+<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
+
 
 </channels>
