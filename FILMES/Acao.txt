@@ -1,16 +1,16 @@
 <item>
-<title>[B][COLOR lime]●[/COLOR][COLOR white] Insidious: The Red Door11111[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/0d37tdqd9nvp</link>
+<title>[B][COLOR lime]●[/COLOR][COLOR white] I, Robot[/COLOR][/B]</title>
+<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:2e383843fab7c3801e52caa1c677a65f78377cf7&dn</link>
 <subtitle>https://raw.githubusercontent.com/paulo-44/VT1964/main/LEGENDAS/Insidious.The.Red.Door.2023.srt</subtitle>
-<thumbnail>https://www.themoviedb.org/t/p/original/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/i2GVEvltEu3BXn5crBSxgKuTaca.jpg</fanart>
-<genre>Terror, Mistério, Thriller</genre>
-<year>2023</year>
-<aired>06/07/2023</aired> 
-<duration>6420</duration>
-<info>Josh Lambert viaja para o leste para deixar o seu filho Dalton na faculdade. No entanto, o sonho de Dalton se torna um pesadelo quando os demônios reprimidos do seu passado retornam para assombrá-lo.
-[COLOR lime]Release:[/COLOR] 2023
-[COLOR lime]Quality:[/COLOR] WEBRIP
+<thumbnail>https://www.themoviedb.org/t/p/original/zDu0TsCZHPzDO0d0iG9QynKGr4J.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5FqDjK8cWRqr1E8xmNPHN4Tpgkc.jpg</fanart>
+<genre>Ação, Ficção científica</genre>
+<year>2004</year>
+<aired>02/09/2004</aired> 
+<duration>6840</duration>
+<info>Em 2035, é comum robôs serem usados como empregados e assistentes dos humanos. Para manter a ordem , esses robôs possuem um código de programação que impede a violência contra humanos, a Lei dos Robóticos.
+[COLOR lime]Release:[/COLOR] 2004
+[COLOR lime]Quality:[/COLOR] BRRIP
 </info>
 </item>
 ===============================================================================================
