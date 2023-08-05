@@ -1,140 +1,16 @@
 <item>
-<title>[B][COLOR white] Um Pacto de Amizade [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/9p7RVQrB4wcaGXA</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/f1NEx4lohw47WSuNqQife0GxWLv.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/aHKzw9AXrISbWpkVCyn4SV3PrY0.jpg</fanart>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]É época do baile de formatura e o último ano do ensino médio para Mandy. Ela e seu melhor amigo e companheiro, Ben, estão cercados por convites para o baile.[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Comédia, Romance[/COLOR]
-[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 1h 38m[/COLOR]
+<title>[B][COLOR lime]●[/COLOR][COLOR white] Soul Plane[/COLOR][/B]</title>
+<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:67974dd394d9f79a36b70a6f526f5b64ae3f4df5&dn</link>
+<subtitle>https://raw.githubusercontent.com/paulo-44/VT1964/main/LEGENDAS/Insidious.The.Red.Door.2023.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/b5Rzb5JUwPinllWGYUYER3OV14F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uYppahqnT4n0OlGf1BoeP8ADoS1.jpg</fanart>
+<genre>Romance, Comédia</genre>
+<year>2004</year>
+<aired>28/05/2004</aired> 
+<duration>5160</duration>
+<info>Durante uma viagem de avião há um acidente e o passageiro Nashawn Wade vê pela janela do banheiro seu cão, que havia sido despachado para o compartimento de bagagens, no ar junto com as malas, ser destroçado por um dos motores da aeronave. Ele vai à Justiça e consegue uma indenização milionária.
+[COLOR lime]Release:[/COLOR] 2004
+[COLOR lime]Quality:[/COLOR] BRRIP
 </info>
-
 </item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[B][COLOR white] Um Pacto de Amizade [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/W3wjbo2ydzTQ1J</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/f1NEx4lohw47WSuNqQife0GxWLv.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/aHKzw9AXrISbWpkVCyn4SV3PrY0.jpg</fanart>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]É época do baile de formatura e o último ano do ensino médio para Mandy. Ela e seu melhor amigo e companheiro, Ben, estão cercados por convites para o baile.[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Comédia, Romance[/COLOR]
-[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 1h 38m[/COLOR]
-</info>
-
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[B][COLOR white] Tinnitus [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/Zw0MVY2VGdIKLY</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sWVCBeQDiQTxmwjuKSuui2Vzjdc.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/vSlggcfYSRzIVobkGkUlzAVywqm.jpg</fanart>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Marina é uma ex-atleta de saltos ornamentais que sofre de um terrível zumbido no ouvido, afetando sua estabilidade física e emocional. Afastada de competições profissionais desde um acidente nas últimas Olimpíadas, ela decide voltar ao esporte em busca de uma medalha nos próximos jogos.[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Drama, Romance, Terror[/COLOR]
-[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 1h 45m[/COLOR]
-</info>
-
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[B][COLOR white] Desapega! [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/mg6lK4Z62WSb0qW</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/b0aRBdFnIi1MZbsW7QTZvRHcpo3.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/9O2rqXT662TpIoXddcmbBhoXlQC.jpg</fanart>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Após sete anos controlada de seu vício em compras, Rita assume a liderança de um grupo de apoio a compradores compulsivos para ajudar outras pessoas a darem a volta por cima. Começando um novo romance com Otávio e toda trabalhada no equilíbrio, parece que nada pode apagar o seu brilho.[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Comédia, Romance[/COLOR]
-[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 1h 30m[/COLOR]
-</info>
-
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[B][COLOR white] Vício Perfeito [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/L2bPYJlQk3UR1Qv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1bFE8TlLU7r3IwwGHN7au8xPIds.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/98Hak5vgStHNrQ90ZfDiHSto1hV.jpg</fanart>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]A treinadora de sucesso de MMA Sienna Lane descobre que seu namorado Jax, o atual campeão de luta de MMA clandestino, a está traindo com sua própria irmã. Sienna decide se vingar treinando o único homem capaz de vencê-lo: seu arqui-inimigo Kayden.[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Ação, Drama, Romance[/COLOR]
-[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 1h 37m[/COLOR]
-</info>
-
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[B][COLOR white] Vício Perfeito [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/yxqWql71BVU1Q7B</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1bFE8TlLU7r3IwwGHN7au8xPIds.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/98Hak5vgStHNrQ90ZfDiHSto1hV.jpg</fanart>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]A treinadora de sucesso de MMA Sienna Lane descobre que seu namorado Jax, o atual campeão de luta de MMA clandestino, a está traindo com sua própria irmã. Sienna decide se vingar treinando o único homem capaz de vencê-lo: seu arqui-inimigo Kayden.[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Ação, Drama, Romance[/COLOR]
-[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 1h 37m[/COLOR]
-</info>
-
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[B][COLOR white] At Midnight [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/wk9pL0Q3VJFJ2Kp</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/da8zHCMp2AQUtZQhFWps9GdVhm8.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/xVrtNFpcy5xS80HxvXsxodQxCpg.jpg</fanart>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]A vida de Alejandro muda quando a atriz Sophie Wilder se hospeda no hotel em que ele trabalha. Os dois se envolvem, e passam a se encontrar à meia-noite.[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Romance, Comédia[/COLOR]
-[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 1h 30m[/COLOR]
-</info>
-
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[B][COLOR white] At Midnight [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/pbYwJVw0oxSrZ3e</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/da8zHCMp2AQUtZQhFWps9GdVhm8.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/xVrtNFpcy5xS80HxvXsxodQxCpg.jpg</fanart>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]A vida de Alejandro muda quando a atriz Sophie Wilder se hospeda no hotel em que ele trabalha. Os dois se envolvem, e passam a se encontrar à meia-noite.[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Romance, Comédia[/COLOR]
-[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 1h 30m[/COLOR]
-</info>
-
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[B][COLOR white] Esta Noite, Você Dorme Comigo [/COLOR][COLOR gold] D[/COLOR][COLOR lime]ublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/YDQ1l9x8GLuvyD1</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tNHOildeM8pRcHUQE85IHh6DxkR.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/50ifLsFOF2i8lH015S6rRqv7epN.jpg</fanart>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma jornalista em um casamento morno precisa escolher entre o marido distante, mas amoroso, e um ex-namorado mais jovem que reaparece em sua vida.[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Romance, Drama[/COLOR]
-[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 1h 33m[/COLOR]
-</info>
-
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<item>
-<title>[B][COLOR white] Esta Noite, Você Dorme Comigo [/COLOR][COLOR gold] L[/COLOR][COLOR lime]egendado[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/wzaxDXd8qRtGvM</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tNHOildeM8pRcHUQE85IHh6DxkR.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/50ifLsFOF2i8lH015S6rRqv7epN.jpg</fanart>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Uma jornalista em um casamento morno precisa escolher entre o marido distante, mas amoroso, e um ex-namorado mais jovem que reaparece em sua vida.[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Romance, Drama[/COLOR]
-[COLOR lime]Ano:[/COLOR][COLOR white] (2023) [/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 1h 33m[/COLOR]
-</info>
-
-</item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+===============================================================================================
