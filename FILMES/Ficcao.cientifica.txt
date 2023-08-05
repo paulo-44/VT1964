@@ -1,7 +1,7 @@
 <item>
 <title>[B][COLOR lime]●[/COLOR][COLOR white] I, Robot[/COLOR][/B]</title>
 <link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:2e383843fab7c3801e52caa1c677a65f78377cf7&dn</link>
-<subtitle>https://raw.githubusercontent.com/paulo-44/VT1964/main/LEGENDAS/Insidious.The.Red.Door.2023.srt</subtitle>
+<subtitle>https://raw.githubusercontent.com/paulo-44/VT1964/main/LEGENDAS/I.Robot.2004.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/zDu0TsCZHPzDO0d0iG9QynKGr4J.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5FqDjK8cWRqr1E8xmNPHN4Tpgkc.jpg</fanart>
 <genre>Ação, Ficção científica</genre>
