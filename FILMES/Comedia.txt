@@ -1,7 +1,7 @@
 <item>
 <title>[B][COLOR lime]●[/COLOR][COLOR white] Soul Plane[/COLOR][/B]</title>
 <link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:67974dd394d9f79a36b70a6f526f5b64ae3f4df5&dn</link>
-<subtitle>https://raw.githubusercontent.com/paulo-44/VT1964/main/LEGENDAS/Insidious.The.Red.Door.2023.srt</subtitle>
+<subtitle>https://raw.githubusercontent.com/paulo-44/VT1964/main/LEGENDAS/Soul.Plane.2004.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/b5Rzb5JUwPinllWGYUYER3OV14F.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uYppahqnT4n0OlGf1BoeP8ADoS1.jpg</fanart>
 <genre>Romance, Comédia</genre>
