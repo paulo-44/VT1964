@@ -7,7 +7,7 @@
 <genre>Ação, Crime, Thriller</genre>
 <year>2000</year>
 <aired>25/08/2000</aired> 
-<duration>5652</duration>
+<duration>5688</duration>
 <info>Randall "Memphis" Raines é um famoso ladrão de carros "reformado" e regenerado. Porém, ele vai ser forçado a roubar uma última vez quando o irmão mais novo se envolve no mundo do crime e é ameaçado de morte.
 [COLOR lime]Release:[/COLOR] 2000
 [COLOR lime]Quality:[/COLOR] BRRIP /1080P
