@@ -1,10 +1,14 @@
 1
+00:00:21,100 --> 00:00:33,700
+TEAM TAKE ONE
+
+1
 00:00:51,100 --> 00:00:53,700
 60 SEGUNDOS
 
 2
 00:02:12,900 --> 00:02:16,100
-M˙sica
+M√∫sica
 
 3
 00:02:19,000 --> 00:02:22,500
@@ -16,7 +20,7 @@ Fotografia
 
 5
 00:03:02,000 --> 00:03:05,400
-ProduÁ„o
+Produ√ß√£o
 
 6
 00:03:07,200 --> 00:03:09,600
@@ -24,7 +28,7 @@ Argumento
 
 7
 00:03:11,800 --> 00:03:16,100
-RealizaÁ„o
+Realiza√ß√£o
 
 8
 00:03:25,500 --> 00:03:26,500
@@ -45,13 +49,13 @@ esquina da Wilshire.
 
 12
 00:03:34,500 --> 00:03:36,900
-- Ali est· ele.
-- Est·s a gozar comigo?
+- Ali est√° ele.
+- Est√°s a gozar comigo?
 
 13
 00:03:37,200 --> 00:03:40,300
 - 9024 Wilshire?
-- O quÍ? Aquilo?
+- O qu√™? Aquilo?
 
 14
 00:03:41,000 --> 00:03:43,100
@@ -60,7 +64,7 @@ a minha ferramenta.
 
 15
 00:03:43,300 --> 00:03:45,800
-Kip! Ele n„o est· a brincar.
+Kip! Ele n√£o est√° a brincar.
 
 16
 00:03:48,500 --> 00:03:49,900
@@ -68,21 +72,21 @@ Kip!
 
 17
 00:03:50,200 --> 00:03:52,800
-Isso n„o È uma ferramenta,
-È um tijolo.
+Isso n√£o √© uma ferramenta,
+√© um tijolo.
 
 18
 00:03:53,300 --> 00:03:56,500
 Se usares isso, podemos ligar
-para a pris„o e fazer reservas.
+para a pris√£o e fazer reservas.
 
 19
 00:03:56,700 --> 00:03:57,500
-V· l·...
+V√° l√°...
 
 20
 00:04:02,000 --> 00:04:03,500
-Tira a matrÌcula.
+Tira a matr√≠cula.
 
 21
 00:04:06,400 --> 00:04:09,800
@@ -104,7 +108,7 @@ Muito bem, Billy Badass.
 25
 00:04:20,800 --> 00:04:24,300
 Foste tu que nos meteste nisto.
-Diz-me como saÌmos.
+Diz-me como sa√≠mos.
 
 26
 00:04:25,600 --> 00:04:27,700
@@ -113,7 +117,7 @@ que eu estou a pensar?
 
 27
 00:04:30,200 --> 00:04:30,800
-V· l·!
+V√° l√°!
 
 28
 00:04:50,800 --> 00:04:54,100
@@ -122,27 +126,27 @@ Chamo-lhe "O Estranho".</i>
 
 29
 00:04:54,400 --> 00:04:58,100
-Fico sentado em cima da m„o
+Fico sentado em cima da m√£o
 durante 15 ou 20 minutos,
 
 30
 00:04:58,300 --> 00:05:01,300
-atÈ ela ficar dormente,
+at√© ela ficar dormente,
 sem sentir nada.
 
 31
 00:05:02,000 --> 00:05:06,000
 - Depois, masturbo-me.
-- Com que ent„o o Estranho?
+- Com que ent√£o o Estranho?
 
 32
 00:05:06,300 --> 00:05:09,700
 Sinto-me como se me tivesse vindo
-no quarto de uma crianÁa.
+no quarto de uma crian√ßa.
 
 33
 00:05:11,100 --> 00:05:13,300
-Onde È que eles est„o?
+Onde √© que eles est√£o?
 
 34
 00:05:19,300 --> 00:05:20,600
@@ -150,7 +154,7 @@ Deixa-os em paz, meu.
 
 35
 00:05:20,800 --> 00:05:22,200
-Tu Ès t„o talentosa, querida.
+Tu √©s t√£o talentosa, querida.
 
 36
 00:05:23,700 --> 00:05:25,900
@@ -163,16 +167,16 @@ Adoro-te.
 
 38
 00:05:32,800 --> 00:05:34,100
-NÛs vamos parar ‡ cadeia, meu!
+N√≥s vamos parar √† cadeia, meu!
 
 39
 00:05:36,500 --> 00:05:37,800
-Anda c·!
+Anda c√°!
 
 40
 00:05:43,700 --> 00:05:45,500
 Tem o direito de permanecer
-em silÍncio.
+em sil√™ncio.
 
 41
 00:05:51,100 --> 00:05:54,400
@@ -181,7 +185,7 @@ que vai a cerca de 120 km/hora,
 
 42
 00:05:54,700 --> 00:05:56,700
-em direcÁ„o ‡ Avenida Wilshire.
+em direc√ß√£o √† Avenida Wilshire.
 
 43
 00:05:58,500 --> 00:06:01,100
@@ -211,7 +215,7 @@ Isso mesmo, isso mesmo!
 
 49
 00:06:29,700 --> 00:06:31,000
-Que tal, homem dos automÛveis?
+Que tal, homem dos autom√≥veis?
 
 50
 00:06:31,200 --> 00:06:33,700
@@ -220,7 +224,7 @@ em 5,2 segundos.
 
 51
 00:06:34,000 --> 00:06:36,000
-Eu c· bem posso confirmar isso.
+Eu c√° bem posso confirmar isso.
 
 52
 00:06:36,100 --> 00:06:37,800
@@ -229,21 +233,21 @@ Eu c· bem posso confirmar isso.
 53
 00:06:38,100 --> 00:06:40,700
 <i>os suspeitos dirigem-se
-para sul do armazÈm.</i>
+para sul do armaz√©m.</i>
 
 54
 00:06:40,900 --> 00:06:43,600
-J· est„o treze,
+J√° est√£o treze,
 faltam trinta e sete.
 
 55
 00:06:51,000 --> 00:06:53,000
-- Que raio È aquilo?
-- O que È aquilo?
+- Que raio √© aquilo?
+- O que √© aquilo?
 
 56
 00:06:53,100 --> 00:06:54,700
-Agora È que foi, Raines.
+Agora √© que foi, Raines.
 
 57
 00:06:54,900 --> 00:06:57,000
@@ -253,7 +257,7 @@ e das luzes!
 58
 00:06:59,900 --> 00:07:02,500
 - Traz as chaves.
-- J· as tenho, j· as tenho!
+- J√° as tenho, j√° as tenho!
 
 59
 00:07:02,800 --> 00:07:05,000
@@ -269,40 +273,40 @@ Merda!
 
 62
 00:07:40,900 --> 00:07:41,900
-O que È que temos?
+O que √© que temos?
 
 63
 00:07:42,900 --> 00:07:47,200
-Fugiram todos. N„o apanh·mos
-um ˙nico. S„o profissionais.
+Fugiram todos. N√£o apanh√°mos
+um √∫nico. S√£o profissionais.
 
 64
 00:07:47,600 --> 00:07:50,000
-N„o h· danos visÌveis
+N√£o h√° danos vis√≠veis
 no mecanismo de fecho,
 
 65
 00:07:50,200 --> 00:07:51,800
 nem na caixa de velocidade
-ou na igniÁ„o.
+ou na igni√ß√£o.
 
 66
 00:07:52,100 --> 00:07:55,100
 Como pode ver,
-n„o s„o Honda Civics.
+n√£o s√£o Honda Civics.
 
 67
 00:07:55,300 --> 00:07:57,400
-Este È dos Mercedes novos,
+Este √© dos Mercedes novos,
 
 68
 00:07:57,700 --> 00:08:01,300
 um carro que eles dizem
-ser impossÌvel de roubar.
+ser imposs√≠vel de roubar.
 
 69
 00:08:02,300 --> 00:08:04,800
-A n„o ser que se tenham
+A n√£o ser que se tenham
 chaves com feixe laser
 
 70
@@ -312,11 +316,11 @@ de Hamburgo.
 
 71
 00:08:07,500 --> 00:08:09,200
-Eles tÍm alguÈm l· dentro.
+Eles t√™m algu√©m l√° dentro.
 
 72
 00:08:09,500 --> 00:08:12,100
-Descubra quem È que
+Descubra quem √© que
 vendeu os carros e isso...
 
 73
@@ -331,11 +335,11 @@ Vou tratar disso.
 75
 00:08:19,300 --> 00:08:21,100
 Apreenda estes carros
-por um mÍs,
+por um m√™s,
 
 76
 00:08:21,200 --> 00:08:23,500
-mesmo que pertenÁam
+mesmo que perten√ßam
 ao Tom Cruise.
 
 77
@@ -348,31 +352,31 @@ Controlo...
 
 79
 00:08:51,700 --> 00:08:54,200
-...determinaÁ„o da vis„o...
+...determina√ß√£o da vis√£o...
 
 80
 00:08:55,500 --> 00:08:57,700
-Estes s„o os componentes
+Estes s√£o os componentes
 fundamentais
 
 81
 00:08:57,900 --> 00:09:00,600
-da nova geraÁ„o de condutores
+da nova gera√ß√£o de condutores
 de carros de corrida.
 
 82
 00:09:00,900 --> 00:09:03,300
-A velocidade È um sub-produto.
+A velocidade √© um sub-produto.
 Andar depressa...
 
 83
 00:09:04,200 --> 00:09:07,600
-N„o se esqueÁam:
-VocÍs È que s„o o carro.
+N√£o se esque√ßam:
+Voc√™s √© que s√£o o carro.
 
 84
 00:09:07,800 --> 00:09:09,100
-VocÍs È que s„o o carro.
+Voc√™s √© que s√£o o carro.
 
 85
 00:09:10,500 --> 00:09:13,200
@@ -386,12 +390,12 @@ ao teu melhor tempo!
 
 87
 00:09:35,000 --> 00:09:37,800
-N„o sei o que isso foi,
-mas n„o foi guiar.
+N√£o sei o que isso foi,
+mas n√£o foi guiar.
 
 88
 00:09:42,400 --> 00:09:44,300
-Vai apanh·-los.
+Vai apanh√°-los.
 
 89
 00:09:52,200 --> 00:09:54,300
@@ -399,8 +403,8 @@ Olha, olha, olha...
 
 90
 00:09:54,500 --> 00:09:57,200
-O que È que d·s aos teus
-mec‚nicos? Bolachas e gomas?
+O que √© que d√°s aos teus
+mec√¢nicos? Bolachas e gomas?
 
 91
 00:09:59,700 --> 00:10:03,100
@@ -410,17 +414,17 @@ Tu sabes disso. Que fazes aqui?
 92
 00:10:03,300 --> 00:10:05,600
 - Podemos falar algures?
-- Sobre quÍ?
+- Sobre qu√™?
 
 93
 00:10:05,900 --> 00:10:07,900
-Sobre o teu irm„o e a grande
-merda em que est· metido.
+Sobre o teu irm√£o e a grande
+merda em que est√° metido.
 
 94
 00:10:09,100 --> 00:10:11,700
 Frank, podes tomar conta
-dos mi˙dos por um minuto?
+dos mi√∫dos por um minuto?
 
 95
 00:10:19,500 --> 00:10:23,400
@@ -429,7 +433,7 @@ dos mi˙dos por um minuto?
 
 96
 00:10:23,600 --> 00:10:26,600
-Agora est· metido num sarilho.
+Agora est√° metido num sarilho.
 Num grande sarilho.
 
 97
@@ -448,16 +452,16 @@ Um roubo?
 100
 00:10:38,300 --> 00:10:42,100
 - Que faz o Kip num roubo?
-- Est·s a mangar comigo, meu.
+- Est√°s a mangar comigo, meu.
 
 101
 00:10:43,000 --> 00:10:45,700
-Desde que tu saÌste, o Kip
-tem sido o lÌder do grupo.
+Desde que tu sa√≠ste, o Kip
+tem sido o l√≠der do grupo.
 
 102
 00:10:47,100 --> 00:10:50,400
-- Tu n„o falas com a tua m„e?
+- Tu n√£o falas com a tua m√£e?
 - Esqueceu-me de me falar nisso.
 
 103
@@ -467,7 +471,7 @@ uma coisa fresca.
 
 104
 00:10:56,300 --> 00:10:57,900
-Pensei que Ìamos falar
+Pensei que √≠amos falar
 para um lado qualquer.
 
 105
@@ -485,58 +489,58 @@ chamado Raymond Calitri.
 
 108
 00:11:12,800 --> 00:11:15,100
-Agora, È ele quem lidera todas
-as operaÁıes criminosas.
+Agora, √© ele quem lidera todas
+as opera√ß√µes criminosas.
 
 109
 00:11:15,900 --> 00:11:19,000
-<i>Uma situaÁ„o tipo "O DemÛnio
+<i>Uma situa√ß√£o tipo "O Dem√≥nio
 Veio para Long Beach".</i>
 
 110
 00:11:19,800 --> 00:11:20,800
-Ele È mau.
+Ele √© mau.
 
 111
 00:11:22,300 --> 00:11:23,700
-… mesmo mau.
+√â mesmo mau.
 
 112
 00:11:24,200 --> 00:11:27,500
-E È esse tal Calitri que anda
-atr·s do meu irm„o?
+E √© esse tal Calitri que anda
+atr√°s do meu irm√£o?
 
 113
 00:11:28,100 --> 00:11:29,700
-Como as nÛdoas atr·s
-de um colch„o.
+Como as n√≥doas atr√°s
+de um colch√£o.
 
 114
 00:11:31,500 --> 00:11:34,100
-… bom que saibas
+√â bom que saibas
 que eu trabalho para ele.
 
 115
 00:11:36,800 --> 00:11:38,900
-N„o h· muitas oportunidades
+N√£o h√° muitas oportunidades
 
 116
 00:11:39,200 --> 00:11:41,800
-para ladrıes de carros
+para ladr√µes de carros
 retirados que coxeiam.
 
 117
 00:11:42,200 --> 00:11:43,500
-Ele pÙs-me a trabalhar.
+Ele p√¥s-me a trabalhar.
 
 118
 00:11:46,400 --> 00:11:50,400
-Digo-te que aquele tipo atÈ
+Digo-te que aquele tipo at√©
 a mim me assusta, Memphis.
 
 119
 00:12:12,700 --> 00:12:14,200
-Que est„o a fazer?
+Que est√£o a fazer?
 
 120
 00:12:15,600 --> 00:12:18,900
@@ -548,12 +552,12 @@ Atley Jackson.
 
 122
 00:12:27,800 --> 00:12:31,800
-- Certo. Eles tÍm o Kip.
-- Leva-me l·.
+- Certo. Eles t√™m o Kip.
+- Leva-me l√°.
 
 123
 00:12:34,000 --> 00:12:37,100
-Exeter AÁo e Ferro-Velho
+Exeter A√ßo e Ferro-Velho
 
 124
 00:13:01,700 --> 00:13:02,800
@@ -570,16 +574,16 @@ os vossos comportamentos,
 
 127
 00:13:08,800 --> 00:13:10,300
-perceber as vossas obsessıes,
+perceber as vossas obsess√µes,
 
 128
 00:13:10,600 --> 00:13:13,700
 mas este jogo
-È uma grande seca, n„o È?
+√© uma grande seca, n√£o √©?
 
 129
 00:13:14,600 --> 00:13:15,500
-Onde est· o meu irm„o?
+Onde est√° o meu irm√£o?
 
 130
 00:13:18,700 --> 00:13:21,600
@@ -588,16 +592,16 @@ a tua lenda precede-te.
 
 131
 00:13:21,800 --> 00:13:23,000
-O Atley diz que Ès o melhor.
+O Atley diz que √©s o melhor.
 
 132
 00:13:24,300 --> 00:13:27,700
-Depois que tu saÌste, os roubos
-de carros desceram 47∫% .
+Depois que tu sa√≠ste, os roubos
+de carros desceram 47¬∫% .
 
 133
 00:13:28,500 --> 00:13:29,600
-Onde est· o meu irm„o?
+Onde est√° o meu irm√£o?
 
 134
 00:13:32,800 --> 00:13:33,800
@@ -605,23 +609,23 @@ Estou muito orgulhoso disto.
 
 135
 00:13:34,400 --> 00:13:38,900
-Cadeira do perÌodo
-Artes e OfÌcios. Mesa de mogno.
+Cadeira do per√≠odo
+Artes e Of√≠cios. Mesa de mogno.
 
 136
 00:13:39,500 --> 00:13:42,200
 Mesa para vinhos de nogueira
-preta. O metal È frio e feio.
+preta. O metal √© frio e feio.
 
 137
 00:13:42,800 --> 00:13:46,300
-A madeira È quente, depurada,
+A madeira √© quente, depurada,
 fornecida pela Natureza.
 
 138
 00:13:47,700 --> 00:13:50,300
 Ver uma mesa a tomar forma
-È como ver uma crianÁa a crescer.
+√© como ver uma crian√ßa a crescer.
 
 139
 00:13:52,400 --> 00:13:53,800
@@ -630,25 +634,25 @@ Fiz-te uma pergunta.
 140
 00:13:55,200 --> 00:13:57,200
 Puseram-nos fora de Inglaterra
-e de FranÁa,
+e de Fran√ßa,
 
 141
 00:13:57,500 --> 00:14:00,200
-mas aqui estamos nÛs a florescer,
+mas aqui estamos n√≥s a florescer,
 
 142
 00:14:00,500 --> 00:14:01,800
-com excepÁ„o da pequena
-inconveniÍncia
+com excep√ß√£o da pequena
+inconveni√™ncia
 
 143
 00:14:02,000 --> 00:14:03,700
 de desprezarmos tudo
-o que h· no vosso paÌs.
+o que h√° no vosso pa√≠s.
 
 144
 00:14:05,400 --> 00:14:08,200
-Nesta lista, h· cinquenta carros.
+Nesta lista, h√° cinquenta carros.
 Cinco-zero.
 
 145
@@ -658,13 +662,13 @@ no porto de Long Beach, cais 14,
 
 146
 00:14:12,500 --> 00:14:15,900
-‡s 8 horas da manh„, daqui a quatro
-dias. Pago 200 mil dÛlares.
+√†s 8 horas da manh√£, daqui a quatro
+dias. Pago 200 mil d√≥lares.
 
 147
 00:14:16,400 --> 00:14:18,600
-N„o estou interessado.
-SÛ vim buscar o Kip.
+N√£o estou interessado.
+S√≥ vim buscar o Kip.
 
 148
 00:14:19,300 --> 00:14:21,900
@@ -673,13 +677,13 @@ Tinha credibilidade na rua.
 
 149
 00:14:22,500 --> 00:14:26,200
-… irm„o do famoso Memphis Raines.
-H· duas semanas,
+√â irm√£o do famoso Memphis Raines.
+H√° duas semanas,
 
 150
 00:14:26,500 --> 00:14:29,000
 contratei-o e dei-lhe
-dez mil dÛlares adiantados.
+dez mil d√≥lares adiantados.
 
 151
 00:14:29,300 --> 00:14:30,200
@@ -687,13 +691,13 @@ O Atkey disse-me.
 
 152
 00:14:30,900 --> 00:14:33,700
-Se È por causa do adiantamento,
+Se √© por causa do adiantamento,
 percebo a tua raiva.
 
 153
 00:14:34,400 --> 00:14:37,200
-A dÌvida tem de ser paga.
-Dez mil dÛlares,
+A d√≠vida tem de ser paga.
+Dez mil d√≥lares,
 
 154
 00:14:37,900 --> 00:14:39,000
@@ -701,22 +705,22 @@ de mim, para ti.
 
 155
 00:14:39,700 --> 00:14:41,000
-Gostava que fosse assim t„o
-f·cil.
+Gostava que fosse assim t√£o
+f√°cil.
 
 156
 00:14:41,400 --> 00:14:42,900
-N„o vejo qual È a complicaÁ„o.
+N√£o vejo qual √© a complica√ß√£o.
 
 157
 00:14:43,200 --> 00:14:46,100
 Tenho de entregar 50 carros
-e n„o tenho carros.
+e n√£o tenho carros.
 
 158
 00:14:46,600 --> 00:14:49,800
-- Isso È outro problema.
-- …, n„o È?
+- Isso √© outro problema.
+- √â, n√£o √©?
 
 159
 00:14:51,100 --> 00:14:54,300
@@ -725,18 +729,18 @@ porque disse que o faria.
 
 160
 00:14:54,900 --> 00:14:57,700
-Se n„o o fizer, o meu amigo
+Se n√£o o fizer, o meu amigo
 sul-americano vai a outro lado
 
 161
 00:14:58,100 --> 00:15:00,100
-e isso È uma humilhaÁ„o
+e isso √© uma humilha√ß√£o
 para mim
 
 162
 00:15:00,400 --> 00:15:02,400
 porque sou o parvo que disse
-que podia entreg·-los.
+que podia entreg√°-los.
 
 163
 00:15:02,700 --> 00:15:07,000
@@ -750,17 +754,17 @@ que podia entreg·-los.
 
 165
 00:15:14,100 --> 00:15:15,400
-Onde raio est· o meu irm„o?
+Onde raio est√° o meu irm√£o?
 
 166
 00:15:21,400 --> 00:15:25,200
-TambÈm fiz isto.
-… o primeiro que faÁo.
+Tamb√©m fiz isto.
+√â o primeiro que fa√ßo.
 
 167
 00:15:43,800 --> 00:15:46,600
 Para esmagar um carro,
-s„o precisos 36 mil quilos de press„o.
+s√£o precisos 36 mil quilos de press√£o.
 
 168
 00:15:56,500 --> 00:15:57,400
@@ -768,13 +772,13 @@ Kip?
 
 169
 00:15:59,000 --> 00:16:01,500
-- Quem est· aÌ?
+- Quem est√° a√≠?
 - O Memphis.
 
 170
 00:16:01,900 --> 00:16:03,200
 - Merda!
-- Est·s bem?
+- Est√°s bem?
 
 171
 00:16:10,900 --> 00:16:11,800
@@ -783,7 +787,7 @@ Desliga aquilo!
 172
 00:16:12,700 --> 00:16:14,600
 Tens 30 segundos
-para pensar nas opÁıes.
+para pensar nas op√ß√µes.
 
 173
 00:16:14,900 --> 00:16:15,500
@@ -800,32 +804,32 @@ Dois: Mentes, aceitas o trabalho,
 
 176
 00:16:21,900 --> 00:16:24,200
-pegas no teu irm„o e foges.
+pegas no teu irm√£o e foges.
 Eu encontro-te,
 
 177
 00:16:24,600 --> 00:16:27,900
-mato-te, mato o Kip e a tua m„e
-pela irritaÁ„o que causaste.
+mato-te, mato o Kip e a tua m√£e
+pela irrita√ß√£o que causaste.
 
 178
 00:16:29,900 --> 00:16:32,700
-TrÍs: Aceitas o acordo.
+Tr√™s: Aceitas o acordo.
 Roubas uns carros,
 
 179
 00:16:32,900 --> 00:16:35,200
 fazes bom dinheiro
-e Ès um bom irm„o.
+e √©s um bom irm√£o.
 
 180
 00:16:46,000 --> 00:16:47,500
-Oito da manh„, sexta-feira.
+Oito da manh√£, sexta-feira.
 
 181
 00:16:47,600 --> 00:16:49,700
 Os carros no barco
-ou o Kip no caix„o.
+ou o Kip no caix√£o.
 
 182
 00:16:51,100 --> 00:16:52,600
@@ -833,7 +837,7 @@ Tirem-me daqui!
 
 183
 00:16:52,900 --> 00:16:54,200
-AlguÈm que me tire daqui!
+Algu√©m que me tire daqui!
 
 184
 00:16:56,500 --> 00:17:01,200
@@ -841,25 +845,25 @@ AlguÈm que me tire daqui!
 
 185
 00:17:02,300 --> 00:17:04,200
-N„o tens de preparar-me nada.
+N√£o tens de preparar-me nada.
 
 186
 00:17:04,600 --> 00:17:07,700
-Tu vieste atÈ aqui,
+Tu vieste at√© aqui,
 e salvaste-me o coiro.
 
 187
 00:17:08,000 --> 00:17:10,000
-Era o mÌnimo que podia fazer.
+Era o m√≠nimo que podia fazer.
 
 188
 00:17:12,500 --> 00:17:16,000
 Ouvi dizer que trabalhavas
-numa bomba l· para Norte.
+numa bomba l√° para Norte.
 
 189
 00:17:16,300 --> 00:17:18,000
-Estou a trabalhar com mi˙dos.
+Estou a trabalhar com mi√∫dos.
 
 190
 00:17:21,500 --> 00:17:25,400
@@ -868,39 +872,39 @@ Lembro-me disto.
 
 191
 00:17:28,300 --> 00:17:30,900
-Sim, foi h· muito tempo.
+Sim, foi h√° muito tempo.
 
 192
 00:17:41,900 --> 00:17:44,200
-- O que È que isto tem?
-- N„o sei.
+- O que √© que isto tem?
+- N√£o sei.
 
 193
 00:17:50,700 --> 00:17:51,600
-… bom.
+√â bom.
 
 194
 00:18:01,400 --> 00:18:05,300
-- A m„e sabe disto?
-- N„o, n„o sabe.
+- A m√£e sabe disto?
+- N√£o, n√£o sabe.
 
 195
 00:18:05,700 --> 00:18:09,000
-E acho que n„o deve saber.
+E acho que n√£o deve saber.
 Ela trabalha muito.
 
 196
 00:18:09,800 --> 00:18:12,000
-N„o precisa de saber
+N√£o precisa de saber
 de nada disto.
 
 197
 00:18:12,800 --> 00:18:14,600
-Est· tudo controlado.
+Est√° tudo controlado.
 
 198
 00:18:16,400 --> 00:18:17,300
-A cozinha est· a arder.
+A cozinha est√° a arder.
 
 199
 00:18:23,800 --> 00:18:24,700
@@ -912,7 +916,7 @@ Olha, Memphis...
 
 201
 00:18:36,800 --> 00:18:38,000
-… bom ver-te.
+√â bom ver-te.
 
 202
 00:18:46,000 --> 00:18:48,300
@@ -921,55 +925,55 @@ Olha, Memphis...
 
 203
 00:18:48,600 --> 00:18:51,500
-- J· disse que n„o sei nada.
-- Sim, mas Ès mentiroso.
+- J√° disse que n√£o sei nada.
+- Sim, mas √©s mentiroso.
 
 204
 00:18:53,100 --> 00:18:55,000
-- V„o fazer com que me despeÁam.
-- Isso n„o È bom.
+- V√£o fazer com que me despe√ßam.
+- Isso n√£o √© bom.
 
 205
 00:18:55,300 --> 00:18:56,500
-Est·s em liberdade condicional,
-n„o È?
+Est√°s em liberdade condicional,
+n√£o √©?
 
 206
 00:18:56,700 --> 00:18:59,900
-Fuzzy, ninguÈm quer
+Fuzzy, ningu√©m quer
 que sejas despedido.
 
 207
 00:19:00,200 --> 00:19:01,900
-NÛs sÛ precisamos de informaÁıes.
+N√≥s s√≥ precisamos de informa√ß√µes.
 
 208
 00:19:03,700 --> 00:19:06,100
-H· duas semanas, chegou um pedido
+H√° duas semanas, chegou um pedido
 de muitos carros de luxo.
 
 209
 00:19:06,400 --> 00:19:07,500
-Quem È que fez esse pedido?
+Quem √© que fez esse pedido?
 
 210
 00:19:08,300 --> 00:19:10,300
-- N„o faÁo a menor ideia.
-- Vamos perguntar ao teu patr„o.
+- N√£o fa√ßo a menor ideia.
+- Vamos perguntar ao teu patr√£o.
 
 211
 00:19:13,100 --> 00:19:14,400
-Sei qual È a data de entrega.
+Sei qual √© a data de entrega.
 
 212
 00:19:15,300 --> 00:19:18,200
-- Quando È?
+- Quando √©?
 - No final da semana.
 
 213
 00:19:18,600 --> 00:19:20,800
-D·-me um nome nas prÛximas
-48 horas ou nÛs voltamos.
+D√°-me um nome nas pr√≥ximas
+48 horas ou n√≥s voltamos.
 
 214
 00:19:22,000 --> 00:19:24,100
@@ -982,23 +986,23 @@ Procuro a Helen Raines.
 
 216
 00:19:31,900 --> 00:19:33,600
-Helen, est· aqui um tipo
+Helen, est√° aqui um tipo
 para falar contigo.
 
 217
 00:19:33,700 --> 00:19:36,000
 Um tipo?
-Como È que ele È?
+Como √© que ele √©?
 
 218
 00:19:36,300 --> 00:19:39,200
-… muito excitante.
+√â muito excitante.
 Parece-se com o teu filho.
 
 219
 00:19:40,500 --> 00:19:42,900
-- Est·s com Ûptimo aspecto.
-- Obrigado, m„e.
+- Est√°s com √≥ptimo aspecto.
+- Obrigado, m√£e.
 
 220
 00:19:44,100 --> 00:19:45,600
@@ -1020,16 +1024,16 @@ Posso ajudar-te?
 224
 00:20:02,500 --> 00:20:04,000
 Diz ao Castlebeck
-que ele n„o vai acreditar
+que ele n√£o vai acreditar
 
 225
 00:20:04,300 --> 00:20:06,400
-<i>quem È que acabou
+<i>quem √© que acabou
 de entrar no "Quality Cafe".</i>
 
 226
 00:20:07,100 --> 00:20:09,100
-N„o posso dizer
+N√£o posso dizer
 que esteja surpreendida.
 
 227
@@ -1039,11 +1043,11 @@ sempre tentou ser como tu.
 
 228
 00:20:14,600 --> 00:20:15,800
-Agora acho que j· È.
+Agora acho que j√° √©.
 
 229
 00:20:17,000 --> 00:20:18,400
-Por que È que isto est·
+Por que √© que isto est√°
 a acontecer?
 
 230
@@ -1057,7 +1061,7 @@ e mudou.
 
 232
 00:20:24,800 --> 00:20:29,000
-Perdeu aquela... doÁura...
+Perdeu aquela... do√ßura...
 
 233
 00:20:30,700 --> 00:20:34,000
@@ -1065,12 +1069,12 @@ Muito bem, conta-me.
 
 234
 00:20:35,000 --> 00:20:37,200
-- AtÈ onde È que ele est· metido?
-- Est· muito metido.
+- At√© onde √© que ele est√° metido?
+- Est√° muito metido.
 
 235
 00:20:38,800 --> 00:20:40,100
-Consegues ajud·-lo?
+Consegues ajud√°-lo?
 
 236
 00:20:43,100 --> 00:20:44,700
@@ -1079,7 +1083,7 @@ Isso significa fazer coisas,
 237
 00:20:47,200 --> 00:20:49,400
 coisas que eu te disse
-que n„o voltaria a fazer.
+que n√£o voltaria a fazer.
 
 238
 00:20:50,300 --> 00:20:51,900
@@ -1087,12 +1091,12 @@ Faz o que for preciso, Randall.
 
 239
 00:21:05,100 --> 00:21:07,000
-Quando È que chegaste ‡ cidade?
+Quando √© que chegaste √† cidade?
 
 240
 00:21:07,300 --> 00:21:09,400
-- Ontem ‡ noite.
-- Para quÍ?
+- Ontem √† noite.
+- Para qu√™?
 
 241
 00:21:09,700 --> 00:21:12,500
@@ -1105,12 +1109,12 @@ Querem ir?
 
 243
 00:21:15,400 --> 00:21:17,900
-- Suponho que n„o.
+- Suponho que n√£o.
 - Randall, Randall...
 
 244
 00:21:18,400 --> 00:21:19,100
-Anda c·.
+Anda c√°.
 
 245
 00:21:20,300 --> 00:21:23,000
@@ -1125,7 +1129,7 @@ Lembra-se de tudo.
 247
 00:21:25,200 --> 00:21:27,200
 <i>Disse-me: "Adivinha
-quem est· de volta".</i>
+quem est√° de volta".</i>
 
 248
 00:21:27,400 --> 00:21:29,800
@@ -1134,32 +1138,32 @@ Ele respondeu: "Randall Raines."</i>
 
 249
 00:21:30,100 --> 00:21:31,700
-<i>Perguntei: "O ladr„o de carros?"
+<i>Perguntei: "O ladr√£o de carros?"
 E ele disse: "Sim."</i>
 
 250
 00:21:32,000 --> 00:21:33,900
-Eu disse: "ImpossÌvel".
+Eu disse: "Imposs√≠vel".
 
 251
 00:21:34,300 --> 00:21:37,500
-<i>Ele disse: "Aposto 200 dÛlares
+<i>Ele disse: "Aposto 200 d√≥lares
 em como vi o Randall Raines."</i>
 
 252
 00:21:37,800 --> 00:21:39,500
 Disseram muita coisa.
-OiÁa, detective...
+Oi√ßa, detective...
 
 253
 00:21:42,000 --> 00:21:44,700
-O que È irÛnico È que,
-h· duas noites,
+O que √© ir√≥nico √© que,
+h√° duas noites,
 
 254
 00:21:45,000 --> 00:21:47,800
-apanh·mos 13 carros roubados
-‡ espera de serem exportados.
+apanh√°mos 13 carros roubados
+√† espera de serem exportados.
 
 255
 00:21:48,100 --> 00:21:52,200
@@ -1168,7 +1172,7 @@ apanh·mos 13 carros roubados
 
 256
 00:21:52,700 --> 00:21:55,400
-N„o tinha a tua energia
+N√£o tinha a tua energia
 nem o teu brilhantismo,
 
 257
@@ -1178,50 +1182,50 @@ a Randall Raines.
 
 258
 00:21:59,400 --> 00:22:00,400
-E aqui est·s tu.
+E aqui est√°s tu.
 
 259
 00:22:00,800 --> 00:22:04,500
-N„o sei o que procuram,
+N√£o sei o que procuram,
 mas acabei de chegar.
 
 260
 00:22:04,700 --> 00:22:06,800
-EmergÍncia familiar.
+Emerg√™ncia familiar.
 Estou a dizer a verdade.
 
 261
 00:22:07,000 --> 00:22:09,600
-Eu tambÈm tenho
-uma emergÍncia familiar.
+Eu tamb√©m tenho
+uma emerg√™ncia familiar.
 
 262
 00:22:10,900 --> 00:22:12,200
-Tenho de dizer ‡ minha mulher
+Tenho de dizer √† minha mulher
 
 263
 00:22:12,300 --> 00:22:14,900
-que acabei de perder 200 dÛlares
-numa aposta est˙pida.
+que acabei de perder 200 d√≥lares
+numa aposta est√∫pida.
 
 264
 00:22:15,600 --> 00:22:17,200
-- E ela È m·.
-- O quÍ?
+- E ela √© m√°.
+- O qu√™?
 
 265
 00:22:18,600 --> 00:22:22,900
-- Ela sabe ser m·.
-- Anda c·, Randall.
+- Ela sabe ser m√°.
+- Anda c√°, Randall.
 
 266
 00:22:24,500 --> 00:22:27,000
-Tira esse Ûculos, por favor.
+Tira esse √≥culos, por favor.
 Faz-me esse favor.
 
 267
 00:22:31,200 --> 00:22:34,000
-H· seis anos, eras esperto.
+H√° seis anos, eras esperto.
 Deixaste uma vida
 
 268
@@ -1231,22 +1235,22 @@ para a morte ou ambas.
 
 269
 00:22:36,800 --> 00:22:41,100
-Mas, o facto de n„o te ter
+Mas, o facto de n√£o te ter
 prendido quando tive oportunidade
 
 270
 00:22:41,500 --> 00:22:43,800
-È como uma coisa que tenho
+√© como uma coisa que tenho
 atravessada na garganta.
 
 271
 00:22:44,100 --> 00:22:45,200
-… impressionante.
+√â impressionante.
 
 272
 00:22:45,800 --> 00:22:50,800
 Eu sei. Sem desapontamentos,
-n„o se pode apreciar a vitÛria.
+n√£o se pode apreciar a vit√≥ria.
 
 273
 00:22:52,500 --> 00:22:53,600
@@ -1255,8 +1259,8 @@ alguma coisa?
 
 274
 00:22:54,000 --> 00:22:57,600
-- Isso È um golpe baixo.
-- Eu digo-te o que È um golpe baixo.
+- Isso √© um golpe baixo.
+- Eu digo-te o que √© um golpe baixo.
 
 275
 00:22:58,100 --> 00:23:01,500
@@ -1266,17 +1270,17 @@ a rua ilegalmente,
 276
 00:23:03,300 --> 00:23:07,000
 se passares um stop,
-usares um aerosol, est·s tramado.
+usares um aerosol, est√°s tramado.
 
 277
 00:23:07,300 --> 00:23:11,800
-Cometes um ˙nico erro
+Cometes um √∫nico erro
 e eu arrumo contigo de vez.
 
 278
 00:23:12,800 --> 00:23:16,300
-Quando saÌres da pris„o,
-j· nem haver· carros.
+Quando sa√≠res da pris√£o,
+j√° nem haver√° carros.
 
 279
 00:23:16,900 --> 00:23:20,600
@@ -1288,8 +1292,8 @@ Vai ser um nojo!
 
 281
 00:23:27,100 --> 00:23:29,800
-- Quem È a Eleanor?
-- … a porcaria de um carro.
+- Quem √© a Eleanor?
+- √â a porcaria de um carro.
 
 282
 00:23:30,400 --> 00:23:32,100
@@ -1298,7 +1302,7 @@ sobre a minha mulher.
 
 283
 00:23:40,100 --> 00:23:42,100
-Desculpe, sabe onde est· o Otto?
+Desculpe, sabe onde est√° o Otto?
 
 284
 00:23:42,600 --> 00:23:44,300
@@ -1307,26 +1311,26 @@ de pintura.
 
 285
 00:23:55,200 --> 00:23:56,100
-…s mesmo tu?
+√âs mesmo tu?
 
 286
 00:23:57,700 --> 00:23:59,100
-J· era altura de vires visitar-me.
+J√° era altura de vires visitar-me.
 
 287
 00:23:59,500 --> 00:24:04,000
-… um prazer ver-te.
-Est·s com Ûptimo aspecto.
+√â um prazer ver-te.
+Est√°s com √≥ptimo aspecto.
 
 288
 00:24:04,600 --> 00:24:05,600
-- … bom ver-te.
-- A ti tambÈm.
+- √â bom ver-te.
+- A ti tamb√©m.
 
 289
 00:24:06,600 --> 00:24:09,000
 - Ainda te lembras da Junie?
-- Junie... Como est·s?
+- Junie... Como est√°s?
 
 290
 00:24:09,400 --> 00:24:11,500
@@ -1340,17 +1344,17 @@ Estamos bem, obrigada.
 292
 00:24:17,500 --> 00:24:20,300
 Que aconteceu aqui?
-Est· porreiro,
+Est√° porreiro,
 
 293
 00:24:20,700 --> 00:24:22,400
-mas onde est· o sÌtio onde se
+mas onde est√° o s√≠tio onde se
 desmontavam os carros,
 
 294
 00:24:22,500 --> 00:24:24,200
 os carros descascados,
-a minha educaÁ„o...
+a minha educa√ß√£o...
 
 295
 00:24:24,400 --> 00:24:28,300
@@ -1359,16 +1363,16 @@ Foi isso que aconteceu.
 
 296
 00:24:28,600 --> 00:24:30,700
-Fartei-me de mat·-los.
+Fartei-me de mat√°-los.
 
 297
 00:24:32,700 --> 00:24:35,300
 Depois, ocorreu-me
-que j· n„o era um destruidor,
+que j√° n√£o era um destruidor,
 
 298
 00:24:35,500 --> 00:24:36,600
-que era um meio de ressurreiÁ„o.
+que era um meio de ressurrei√ß√£o.
 
 299
 00:24:36,700 --> 00:24:39,000
@@ -1377,12 +1381,12 @@ fazemos reviver.
 
 300
 00:24:39,600 --> 00:24:41,800
-Anda c·.
+Anda c√°.
 Lembras-te de fazer isto?
 
 301
 00:24:42,400 --> 00:24:43,300
-Anda c·.
+Anda c√°.
 
 302
 00:24:46,100 --> 00:24:48,700
@@ -1394,8 +1398,8 @@ Le Mans, 1971.
 
 304
 00:24:52,200 --> 00:24:53,700
-- Quatro veios de excÍntricos.
-- … um V-12.
+- Quatro veios de exc√™ntricos.
+- √â um V-12.
 
 305
 00:24:54,000 --> 00:24:55,600
@@ -1403,7 +1407,7 @@ Certo, certo!
 
 306
 00:24:56,300 --> 00:25:00,500
-Vai atÈ 5500 rotaÁıes
+Vai at√© 5500 rota√ß√µes
 por minuto.
 
 307
@@ -1417,17 +1421,17 @@ Que sabes sobre o Raymond Calitri?
 
 309
 00:25:08,500 --> 00:25:10,000
-Com licenÁa, nÛs j· voltamos.
+Com licen√ßa, n√≥s j√° voltamos.
 
 310
 00:25:10,300 --> 00:25:12,600
 - Podemos falar aqui.
-- N„o, n„o.
+- N√£o, n√£o.
 
 311
 00:25:13,100 --> 00:25:15,900
 O Raymond Calitri
-È um tipo nojento
+√© um tipo nojento
 
 312
 00:25:16,100 --> 00:25:19,700
@@ -1436,7 +1440,7 @@ das fraquezas da nossa cidade.
 
 313
 00:25:21,800 --> 00:25:24,700
-AlÈm disso, È um parvalh„o.
+Al√©m disso, √© um parvalh√£o.
 Por isso, tem cuidado.
 
 314
@@ -1445,16 +1449,16 @@ Soube o que aconteceu ao Kip.
 
 315
 00:25:27,800 --> 00:25:31,000
-- Est·s a considerar um regresso?
-- Achas que È possÌvel?
+- Est√°s a considerar um regresso?
+- Achas que √© poss√≠vel?
 
 316
 00:25:31,700 --> 00:25:33,100
-N„o me faÁas isso, est· bem?
+N√£o me fa√ßas isso, est√° bem?
 
 317
 00:25:34,200 --> 00:25:36,600
-Por favor... Agora, n„o...
+Por favor... Agora, n√£o...
 
 318
 00:25:38,700 --> 00:25:40,000
@@ -1468,21 +1472,21 @@ Bolas...
 320
 00:25:50,300 --> 00:25:52,200
 - Quantos dias?
-- TrÍs.
+- Tr√™s.
 
 321
 00:25:54,400 --> 00:25:57,400
-- Quantos s„o a tua equipa?
+- Quantos s√£o a tua equipa?
 - Um. Mas vim aqui
 
 322
 00:25:57,700 --> 00:25:59,200
-na esperanÁa de negociar
+na esperan√ßa de negociar
 um segundo.
 
 323
 00:25:59,400 --> 00:26:02,000
-Nem pensar, n„o pode ser.
+Nem pensar, n√£o pode ser.
 Precisamos de tempo
 
 324
@@ -1493,7 +1497,7 @@ para encontrar os carros.
 325
 00:26:04,300 --> 00:26:07,200
 Tem de ser.
-Eles v„o mat·-lo.
+Eles v√£o mat√°-lo.
 
 326
 00:26:11,700 --> 00:26:12,700
@@ -1506,12 +1510,12 @@ Fiz mal em ter vindo.
 328
 00:26:25,800 --> 00:26:28,400
 Tu agora tens uma boa vida.
-N„o quero interferir nisso.
+N√£o quero interferir nisso.
 
 329
 00:26:34,000 --> 00:26:37,800
-Espera. Aguenta aÌ!
-Olha ‡ tua volta.
+Espera. Aguenta a√≠!
+Olha √† tua volta.
 
 330
 00:26:39,100 --> 00:26:42,600
@@ -1525,11 +1529,11 @@ e depois decidimos.
 
 332
 00:26:47,900 --> 00:26:49,200
-Est· bem.
+Est√° bem.
 
 333
 00:26:51,400 --> 00:26:52,800
-N„o olhe para mim!
+N√£o olhe para mim!
 Olhe para quem vem ao lado!
 
 334
@@ -1546,26 +1550,26 @@ Idiota! Vai aprender a guiar!
 
 337
 00:27:06,200 --> 00:27:08,000
-N„o toque em nada.
+N√£o toque em nada.
 
 338
 00:27:12,300 --> 00:27:15,200
-N„o sabe virar,
-n„o sabe fazer sinal,
+N√£o sabe virar,
+n√£o sabe fazer sinal,
 
 339
 00:27:15,500 --> 00:27:19,000
-n„o consegue manter a velocidade
+n√£o consegue manter a velocidade
 nem arrumar em paralelo!
 
 340
 00:27:19,400 --> 00:27:20,700
-Caramba, vocÍ n„o sabe guiar!
+Caramba, voc√™ n√£o sabe guiar!
 
 341
 00:27:21,000 --> 00:27:23,000
-Eu n„o sei nadar!
-Sei que n„o sei,
+Eu n√£o sei nadar!
+Sei que n√£o sei,
 
 342
 00:27:23,500 --> 00:27:26,200
@@ -1583,7 +1587,7 @@ Estou?
 345
 00:27:37,600 --> 00:27:40,400
 Memphis!
-Como est·s?
+Como est√°s?
 
 346
 00:27:41,600 --> 00:27:43,200
@@ -1599,8 +1603,8 @@ O Donny...
 
 349
 00:27:51,700 --> 00:27:54,200
-DÍ umas voltas ao quarteir„o,
-est· bem?
+D√™ umas voltas ao quarteir√£o,
+est√° bem?
 
 350
 00:28:02,500 --> 00:28:03,800
@@ -1629,7 +1633,7 @@ Se o vir,
 355
 00:28:15,800 --> 00:28:17,900
 <i>diga-lhe que quero o meu dinheiro!
-- Eu n„o fiquei com o seu dinheiro.</i>
+- Eu n√£o fiquei com o seu dinheiro.</i>
 
 356
 00:28:18,200 --> 00:28:19,900
@@ -1637,12 +1641,12 @@ Procuro o Dan e o Mikey.
 
 357
 00:28:20,100 --> 00:28:22,500
-Est„o em Chino, a cumprir
+Est√£o em Chino, a cumprir
 cinco anos cada um.
 
 358
 00:28:22,800 --> 00:28:26,100
-- N„o digo quem fala.
+- N√£o digo quem fala.
 - Experimenta, seu anormal.
 
 359
@@ -1652,7 +1656,7 @@ Parece muito, muito ocupada.
 
 360
 00:28:34,900 --> 00:28:38,600
-- SÛ faltam dois nomes.
+- S√≥ faltam dois nomes.
 - Deixa-me ver o que tens.
 
 361
@@ -1662,12 +1666,12 @@ Parece muito, muito ocupada.
 
 362
 00:28:42,200 --> 00:28:45,100
-- N„o h· mais ninguÈm.
+- N√£o h√° mais ningu√©m.
 - Tens a certeza?
 
 363
 00:28:48,700 --> 00:28:50,300
-- PorquÍ?
+- Porqu√™?
 - Continua.
 
 364
@@ -1677,7 +1681,7 @@ Parece muito, muito ocupada.
 
 365
 00:28:53,400 --> 00:28:55,600
-Ele n„o fala, como È que vai
+Ele n√£o fala, como √© que vai
 atender o telefone?
 
 366
@@ -1686,7 +1690,7 @@ Tens uma chamada.
 
 367
 00:29:14,300 --> 00:29:15,500
-<i>…s tu, Sphinx?</i>
+<i>√âs tu, Sphinx?</i>
 
 368
 00:29:16,700 --> 00:29:18,800
@@ -1695,7 +1699,7 @@ Carrega no um, se fores tu.
 369
 00:29:27,200 --> 00:29:29,600
 Sway, foste tu que aceitaste
-este arranjo de travıes?
+este arranjo de trav√µes?
 
 370
 00:29:29,900 --> 00:29:33,800
@@ -1705,11 +1709,11 @@ Ele conduz como uma velha.
 371
 00:29:34,900 --> 00:29:37,500
 Parece que o bloco esquerdo
-est· com falta de combustÌvel.
+est√° com falta de combust√≠vel.
 
 372
 00:29:49,300 --> 00:29:50,800
-A recepÁ„o È ali.
+A recep√ß√£o √© ali.
 
 373
 00:29:52,100 --> 00:29:53,100
@@ -1722,7 +1726,7 @@ Falar comigo? Claro. Fala.
 375
 00:29:56,200 --> 00:29:58,500
 - Eu voltei porque...
-- Que horas s„o?
+- Que horas s√£o?
 
 376
 00:30:01,200 --> 00:30:03,500
@@ -1736,13 +1740,13 @@ Estou atrasada para o trabalho.
 
 378
 00:30:10,000 --> 00:30:12,900
-- Tu est·s no trabalho.
+- Tu est√°s no trabalho.
 - Tenho dois trabalhos.
 
 379
 00:30:14,700 --> 00:30:17,000
 Descobri que,
-quando se È honesto,
+quando se √© honesto,
 
 380
 00:30:17,300 --> 00:30:19,700
@@ -1751,7 +1755,7 @@ Estou exausta.
 
 381
 00:30:26,200 --> 00:30:28,000
-D·s-me mais um "shot", Sway?
+D√°s-me mais um "shot", Sway?
 
 382
 00:30:29,200 --> 00:30:30,500
@@ -1760,21 +1764,21 @@ Continuas deslumbrante.
 383
 00:30:31,400 --> 00:30:33,500
 Tu pareces um vendedor
-de BÌblias.
+de B√≠blias.
 
 384
 00:30:33,900 --> 00:30:34,800
-Est·s curada.
+Est√°s curada.
 
 385
 00:30:37,300 --> 00:30:39,800
 - Podemos improvisar um pouco?
-- Claro. Qual È a tua ideia?
+- Claro. Qual √© a tua ideia?
 
 386
 00:30:40,100 --> 00:30:42,500
 Queres fazer uma loucura?
-H· um Cutlass 442 l· atr·s.
+H√° um Cutlass 442 l√° atr√°s.
 
 387
 00:30:42,700 --> 00:30:45,400
@@ -1783,12 +1787,12 @@ e fazer sexo. Que me dizes?
 
 388
 00:30:46,900 --> 00:30:48,300
-N„o era isso que estava
+N√£o era isso que estava
 a pensar.
 
 389
 00:30:50,800 --> 00:30:54,700
-… o meu irm„o. Continua
+√â o meu irm√£o. Continua
 a meter-se em sarilhos.
 
 390
@@ -1804,7 +1808,7 @@ e fez asneira.
 392
 00:31:03,400 --> 00:31:07,200
 Cinquenta carros em 24 horas.
-Duzentos mil dÛlares.
+Duzentos mil d√≥lares.
 
 393
 00:31:08,200 --> 00:31:09,500
@@ -1813,17 +1817,17 @@ Eu deixei-me disso.
 394
 00:31:14,900 --> 00:31:17,600
 Compreendo.
-Odeio ter vindo c·.
+Odeio ter vindo c√°.
 
 395
 00:31:20,000 --> 00:31:23,800
-J· tive de pedir a alguns
+J√° tive de pedir a alguns
 dos outros. Sinto-me mal.
 
 396
 00:31:24,200 --> 00:31:26,300
-- Mas n„o tinhas opÁ„o.
-- Pois n„o.
+- Mas n√£o tinhas op√ß√£o.
+- Pois n√£o.
 
 397
 00:31:27,300 --> 00:31:28,200
@@ -1832,16 +1836,16 @@ Desculpa.
 398
 00:31:32,500 --> 00:31:35,500
 Adorava ajudar o Kip,
-mas j· n„o estou no ramo.
+mas j√° n√£o estou no ramo.
 
 399
 00:31:38,600 --> 00:31:39,700
-Isso È bom.
+Isso √© bom.
 
 400
 00:31:42,800 --> 00:31:45,900
 - Fico contente que estejas bem.
-- Desculpa n„o poder ajudar-te.
+- Desculpa n√£o poder ajudar-te.
 
 401
 00:31:47,200 --> 00:31:49,400
@@ -1850,7 +1854,7 @@ Isso È bom.
 
 402
 00:31:52,200 --> 00:31:53,100
-Ent„o essa bebida?
+Ent√£o essa bebida?
 
 403
 00:31:55,600 --> 00:31:57,100
@@ -1863,7 +1867,7 @@ Memphis Raines!
 
 405
 00:32:02,700 --> 00:32:03,700
-Eu conheÁo-te?
+Eu conhe√ßo-te?
 
 406
 00:32:04,500 --> 00:32:08,200
@@ -1872,8 +1876,8 @@ de tudo o que me fizeste.
 
 407
 00:32:09,200 --> 00:32:10,900
-- Tu Ès o Johnny B...
-- O prÛprio.
+- Tu √©s o Johnny B...
+- O pr√≥prio.
 
 408
 00:32:12,500 --> 00:32:13,500
@@ -1890,13 +1894,13 @@ Sai esta noite de Long Beach.
 
 411
 00:32:19,600 --> 00:32:21,600
-Parto daqui a 3 dias. SÛ vim tratar
+Parto daqui a 3 dias. S√≥ vim tratar
 de um assunto familiar.
 
 412
 00:32:22,600 --> 00:32:25,700
-Diz-se por aÌ que o Raymond Calitri
-contratou-te a ti e ao teu irm„o
+Diz-se por a√≠ que o Raymond Calitri
+contratou-te a ti e ao teu irm√£o
 
 413
 00:32:26,100 --> 00:32:29,000
@@ -1905,7 +1909,7 @@ que devia ter vindo para mim.
 
 414
 00:32:29,400 --> 00:32:30,600
-N„o foi isso que aconteceu.
+N√£o foi isso que aconteceu.
 
 415
 00:32:46,000 --> 00:32:48,200
@@ -1931,8 +1935,8 @@ Pai...
 
 420
 00:33:49,300 --> 00:33:52,300
-Se ele n„o tivesse morrido,
-est·vamos a trabalhar no stand,
+Se ele n√£o tivesse morrido,
+est√°vamos a trabalhar no stand,
 
 421
 00:33:52,700 --> 00:33:54,000
@@ -1948,26 +1952,26 @@ Que se passa contigo?
 
 424
 00:34:04,200 --> 00:34:08,300
-Seis anos tÍm muitos efeitos
+Seis anos t√™m muitos efeitos
 diferentes nas pessoas.
 
 425
 00:34:09,300 --> 00:34:11,500
-N„o sei onde estiveste,
+N√£o sei onde estiveste,
 
 426
 00:34:12,100 --> 00:34:14,700
-mas est·s aqui
+mas est√°s aqui
 a falar em normalidade
 
 427
 00:34:15,000 --> 00:34:17,900
 e contudo foste tu quem foi
-atr·s do dinheiro f·cil.
+atr√°s do dinheiro f√°cil.
 
 428
 00:34:22,700 --> 00:34:24,300
-N„o fiz nada pelo dinheiro.
+N√£o fiz nada pelo dinheiro.
 
 429
 00:34:27,800 --> 00:34:29,000
@@ -1997,12 +2001,12 @@ Ligava-os
 435
 00:34:50,700 --> 00:34:53,500
 e acelerava
-atÈ Palm Springs,
+at√© Palm Springs,
 
 436
 00:34:53,900 --> 00:34:57,300
 sentindo-me logo melhor
-comigo prÛprio.
+comigo pr√≥prio.
 
 437
 00:34:58,300 --> 00:35:01,000
@@ -2012,12 +2016,12 @@ comecei a ser alvejado,
 438
 00:35:01,400 --> 00:35:04,900
 os meus amigos
-comeÁaram a morrer,
+come√ßaram a morrer,
 
 439
 00:35:05,600 --> 00:35:09,300
 as pessoas a ir para a cadeia.
-N„o gostei daquilo que me tornei.
+N√£o gostei daquilo que me tornei.
 
 440
 00:35:14,100 --> 00:35:16,300
@@ -2025,22 +2029,22 @@ Depois, foste-te embora.
 
 441
 00:35:16,900 --> 00:35:18,700
-Depois, eu deixei de ter irm„o.
+Depois, eu deixei de ter irm√£o.
 
 442
 00:35:20,100 --> 00:35:24,600
 Agora, queres dar-me conselhos
-e eu nem sequer te conheÁo.
+e eu nem sequer te conhe√ßo.
 
 443
 00:35:25,300 --> 00:35:28,500
-Agora tenho a minha prÛpria
-famÌlia. Tenho os meus amigos.
+Agora tenho a minha pr√≥pria
+fam√≠lia. Tenho os meus amigos.
 
 444
 00:35:29,200 --> 00:35:32,000
 Diz o que quiseres deles,
-mas s„o leais.
+mas s√£o leais.
 
 445
 00:35:34,500 --> 00:35:37,300
@@ -2049,26 +2053,26 @@ vai acontecer-te a mesma coisa.
 
 446
 00:35:38,400 --> 00:35:40,800
-Tu e a tua famÌlia
+Tu e a tua fam√≠lia
 
 447
 00:35:42,700 --> 00:35:44,100
-ser„o mortos
+ser√£o mortos
 
 448
 00:35:45,300 --> 00:35:47,400
-ou apanhar„o uma pena
+ou apanhar√£o uma pena
 de cinco anos em Corcoran.
 
 449
 00:35:53,000 --> 00:35:56,100
 Gabinete Regional
-dos Roubos de AutomÛveis
+dos Roubos de Autom√≥veis
 
 450
 00:35:58,300 --> 00:35:59,500
 Lembra-se do Mercedes
-que confisc·mos
+que confisc√°mos
 
 451
 00:35:59,800 --> 00:36:03,500
@@ -2077,13 +2081,13 @@ Era da Dressner Foreign Motors.
 
 452
 00:36:03,800 --> 00:36:07,800
-Os empregados est„o todos limpos,
+Os empregados est√£o todos limpos,
 excepto este. James Lakewood.
 
 453
 00:36:08,100 --> 00:36:10,600
 Cumpriu cinco anos em Folsom
-por fraude em seguro automÛvel.
+por fraude em seguro autom√≥vel.
 
 454
 00:36:12,400 --> 00:36:14,400
@@ -2115,7 +2119,7 @@ A lista.
 
 460
 00:36:32,400 --> 00:36:34,500
-Acho que vamos comeÁar
+Acho que vamos come√ßar
 por procurar exaustivamente
 
 461
@@ -2129,30 +2133,30 @@ para descobrir onde...
 
 463
 00:36:38,600 --> 00:36:39,600
-A Eleanor est· aqui?
+A Eleanor est√° aqui?
 
 464
 00:36:40,400 --> 00:36:41,800
-Otto, est· aqui uma pessoa
+Otto, est√° aqui uma pessoa
 para falar contigo.
 
 465
 00:36:45,000 --> 00:36:46,100
-O cachorrinho j· È um c„o grande.
+O cachorrinho j√° √© um c√£o grande.
 
 466
 00:36:47,800 --> 00:36:49,300
-O que È isso, Kip?
+O que √© isso, Kip?
 
 467
 00:36:51,900 --> 00:36:52,800
 Viva, Otto.
-Como est·s?
+Como est√°s?
 
 468
 00:36:53,100 --> 00:36:54,900
-H· tanto tempo...
-… bom ver-te.
+H√° tanto tempo...
+√â bom ver-te.
 
 469
 00:36:56,300 --> 00:36:57,500
@@ -2165,16 +2169,16 @@ Que fazes aqui?
 
 471
 00:37:01,300 --> 00:37:04,000
-Parece que est„o a precisar
+Parece que est√£o a precisar
 de uma ajuda
 
 472
 00:37:04,300 --> 00:37:06,400
-e ach·mos que devÌamos participar.
+e ach√°mos que dev√≠amos participar.
 
 473
 00:37:06,800 --> 00:37:08,500
-Prometi ‡ mam„ que te tirava disto.
+Prometi √† mam√£ que te tirava disto.
 
 474
 00:37:08,800 --> 00:37:10,800
@@ -2182,28 +2186,28 @@ Estamos a falar de muito dinheiro.
 
 475
 00:37:11,600 --> 00:37:13,700
-- O quÍ? Dinheiro?
-- N„o vai ficar com o nosso pilim.
+- O qu√™? Dinheiro?
+- N√£o vai ficar com o nosso pilim.
 
 476
 00:37:14,000 --> 00:37:16,600
-… isso que achas que estou a fazer?
+√â isso que achas que estou a fazer?
 Seu puto inconsciente!
 
 477
 00:37:17,000 --> 00:37:18,800
-Quatro ladrıes
+Quatro ladr√µes
 de carros nas lonas...
 
 478
 00:37:19,900 --> 00:37:23,400
-N„o conseguem roubar 50 carros
+N√£o conseguem roubar 50 carros
 em dois dias!
 
 479
 00:37:27,000 --> 00:37:29,700
-… por isto que n„o tenho
-negÛcios com a minha famÌlia.
+√â por isto que n√£o tenho
+neg√≥cios com a minha fam√≠lia.
 
 480
 00:37:30,100 --> 00:37:31,800
@@ -2215,27 +2219,27 @@ A carreira dele chegou ao fim.
 
 482
 00:37:36,200 --> 00:37:38,600
-Se n„o fizermos isto,
-a vida dele È que chegou ao fim.
+Se n√£o fizermos isto,
+a vida dele √© que chegou ao fim.
 
 483
 00:37:39,000 --> 00:37:42,100
-Como È que conseguimos, sem ele?
-N„o conseguimos e tu sabes disso.
+Como √© que conseguimos, sem ele?
+N√£o conseguimos e tu sabes disso.
 
 484
 00:37:47,000 --> 00:37:48,500
-VocÍs tÍm alguma competÍncia
+Voc√™s t√™m alguma compet√™ncia
 especial?
 
 485
 00:37:50,000 --> 00:37:54,100
 Sim, temos. Aqui o Mirror Man
-È perito em electrÛnica.
+√© perito em electr√≥nica.
 
 486
 00:37:55,000 --> 00:37:58,000
-Tem engenhocas de que vocÍs
+Tem engenhocas de que voc√™s
 nunca ouviram falar.
 
 487
@@ -2249,7 +2253,7 @@ E algumas coisas sem rodas.
 
 489
 00:38:04,800 --> 00:38:07,900
-O Toby È um gÈnio inform·tico.
+O Toby √© um g√©nio inform√°tico.
 
 490
 00:38:08,200 --> 00:38:10,400
@@ -2258,18 +2262,18 @@ com computadores.
 
 491
 00:38:11,000 --> 00:38:13,400
-O que È que consegues fazer
+O que √© que consegues fazer
 com um computador?
 
 492
 00:38:13,700 --> 00:38:15,400
 Consigo entrar no computador
-da DirecÁ„o Geral de ViaÁ„o,
+da Direc√ß√£o Geral de Via√ß√£o,
 
 493
 00:38:15,800 --> 00:38:17,400
-mudar os n˙meros
-de identificaÁ„o dos veÌculos,
+mudar os n√∫meros
+de identifica√ß√£o dos ve√≠culos,
 
 494
 00:38:17,800 --> 00:38:21,700
@@ -2279,58 +2283,58 @@ Posso fazer muitas coisas...
 495
 00:38:22,100 --> 00:38:25,000
 Pronto, pronto. Se vamos fazer
-isto, fazemos ‡ minha maneira.
+isto, fazemos √† minha maneira.
 
 496
 00:38:25,300 --> 00:38:29,500
-VocÍs recebem ordens minhas.
-Quem n„o gostar, pode sair j·.
+Voc√™s recebem ordens minhas.
+Quem n√£o gostar, pode sair j√°.
 
 497
 00:38:30,300 --> 00:38:31,700
-N„o, tudo bem.
+N√£o, tudo bem.
 
 498
 00:38:32,000 --> 00:38:33,500
-Quem È o Gilligan?
+Quem √© o Gilligan?
 Que faz ele?
 
 499
 00:38:34,200 --> 00:38:35,700
-O "Giligan" È o Freb.
+O "Giligan" √© o Freb.
 
 500
 00:38:36,100 --> 00:38:37,900
 Encomenda pizzas
-melhor do que ninguÈm.
+melhor do que ningu√©m.
 
 501
 00:38:38,100 --> 00:38:39,600
-- O quÍ?
+- O qu√™?
 - Mesmo a tempo.
 
 502
 00:38:40,900 --> 00:38:42,200
-As pessoas tÍm de comer,
+As pessoas t√™m de comer,
 certo?
 
 503
 00:38:44,200 --> 00:38:45,300
-Isto È vergonhoso.
+Isto √© vergonhoso.
 
 504
 00:38:46,400 --> 00:38:49,800
 Quero um advogado.
-SÛ falo com um advogado.
+S√≥ falo com um advogado.
 
 505
 00:38:51,500 --> 00:38:54,400
-- … uma opÁ„o.
-- E muito razo·vel.
+- √â uma op√ß√£o.
+- E muito razo√°vel.
 
 506
 00:38:56,200 --> 00:38:57,500
-Ent„o liga ao teu advogado.
+Ent√£o liga ao teu advogado.
 
 507
 00:38:57,900 --> 00:39:00,800
@@ -2340,7 +2344,7 @@ por suspeita de roubo de um carro.
 508
 00:39:01,200 --> 00:39:02,800
 - Vamos acusar-te.
-- Ele liberta-te sob fianÁa.
+- Ele liberta-te sob fian√ßa.
 
 509
 00:39:03,000 --> 00:39:05,000
@@ -2349,27 +2353,27 @@ por suspeita de roubo de um carro.
 
 510
 00:39:07,200 --> 00:39:08,800
-Houve um mi˙do que veio ter
+Houve um mi√∫do que veio ter
 comigo a dizer
 
 511
 00:39:09,100 --> 00:39:10,500
-que pagava 500 dÛlares
+que pagava 500 d√≥lares
 por uma chave.
 
 512
 00:39:12,000 --> 00:39:16,300
-Pedi-as e ele foi busc·-las
+Pedi-as e ele foi busc√°-las
 uns dois dias depois.
 
 513
 00:39:17,000 --> 00:39:20,000
-- Como È que ele se chamava?
-- Mantivemos tudo anÛnimo.
+- Como √© que ele se chamava?
+- Mantivemos tudo an√≥nimo.
 
 514
 00:39:21,900 --> 00:39:23,200
-Era um mi˙do musculoso,
+Era um mi√∫do musculoso,
 
 515
 00:39:23,600 --> 00:39:24,900
@@ -2377,18 +2381,18 @@ parecia um boxeur.
 
 516
 00:39:26,600 --> 00:39:29,700
-- Que querem que eu faÁa?
+- Que querem que eu fa√ßa?
 - Quando ele voltar, avisa-nos.
 
 517
 00:39:30,100 --> 00:39:33,300
 - Por que acha que ele vai voltar?
-- … um palpite.
+- √â um palpite.
 
 518
 00:39:33,900 --> 00:39:37,000
 Para serem bem sucedidos,
-tÍm de seguir a velha escola.
+t√™m de seguir a velha escola.
 
 519
 00:39:37,400 --> 00:39:38,300
@@ -2401,7 +2405,7 @@ todos no mesmo cesto.
 
 521
 00:39:42,000 --> 00:39:44,300
-Uma noite? Est·s doido?
+Uma noite? Est√°s doido?
 
 522
 00:39:44,600 --> 00:39:45,900
@@ -2410,27 +2414,27 @@ Tens um plano melhor?
 523
 00:39:46,300 --> 00:39:48,400
 Sim. Distribuir a coisa.
-Fazer manobras de divers„o.
+Fazer manobras de divers√£o.
 
 524
 00:39:48,700 --> 00:39:51,100
-- N„o temos tempo.
+- N√£o temos tempo.
 - Ouve uma coisa, Otto.
 
 525
 00:39:51,500 --> 00:39:54,300
-NÛs ouvimos, Kip.
-Manobras de divers„o.
+N√≥s ouvimos, Kip.
+Manobras de divers√£o.
 
 526
 00:39:54,800 --> 00:39:58,600
-Se fizermos manobras de divers„o,
+Se fizermos manobras de divers√£o,
 na segunda noite,
 
 527
 00:39:58,800 --> 00:40:01,600
-a polÌcia j· topou tudo.
-Com uma ˙nica noite de roubo,
+a pol√≠cia j√° topou tudo.
+Com uma √∫nica noite de roubo,
 
 528
 00:40:02,000 --> 00:40:03,900
@@ -2439,18 +2443,18 @@ forem dados por roubados,
 
 529
 00:40:04,000 --> 00:40:07,000
-o navio j· partiu.
-… um ataque-supresa.
+o navio j√° partiu.
+√â um ataque-supresa.
 
 530
 00:40:08,000 --> 00:40:11,300
-… uma lista complicada, malta.
+√â uma lista complicada, malta.
 Muito complicada.
 
 531
 00:40:12,000 --> 00:40:15,800
-Vinte e cinco s„o f·ceis, mas
-os exÛticos s„o difÌceis de achar.
+Vinte e cinco s√£o f√°ceis, mas
+os ex√≥ticos s√£o dif√≠ceis de achar.
 
 532
 00:40:16,000 --> 00:40:19,500
@@ -2459,7 +2463,7 @@ chaves de feixe laser.
 
 533
 00:40:19,800 --> 00:40:21,000
-Isso est· tratado.
+Isso est√° tratado.
 
 534
 00:40:21,900 --> 00:40:22,900
@@ -2468,11 +2472,11 @@ Como?
 535
 00:40:23,200 --> 00:40:25,000
 Que foi que eu disse?
-Est· tratado.
+Est√° tratado.
 
 536
 00:40:25,800 --> 00:40:27,800
-Ent„o vamos ao trabalho.
+Ent√£o vamos ao trabalho.
 
 537
 00:40:28,500 --> 00:40:30,400
@@ -2491,8 +2495,8 @@ da Natali e da Tracy.</i>
 
 540
 00:40:36,800 --> 00:40:39,700
-<i>Donny, procura na DirecÁ„o Geral
-de ViaÁ„o os restantes carros da lista.</i>
+<i>Donny, procura na Direc√ß√£o Geral
+de Via√ß√£o os restantes carros da lista.</i>
 
 541
 00:40:40,100 --> 00:40:42,900
@@ -2501,16 +2505,16 @@ cinco perguntas. Chumbou.
 
 542
 00:40:45,700 --> 00:40:47,200
-N„o. N„o! PorquÍ?
+N√£o. N√£o! Porqu√™?
 
 543
 00:40:48,200 --> 00:40:50,900
-Quando alguÈm vem no nosso
-encalÁo, temos de ir mais depressa.
+Quando algu√©m vem no nosso
+encal√ßo, temos de ir mais depressa.
 
 544
 00:40:51,200 --> 00:40:52,000
-Ol· outra vez.
+Ol√° outra vez.
 
 545
 00:40:52,400 --> 00:40:54,100
@@ -2524,46 +2528,46 @@ dos carros.
 
 547
 00:40:56,900 --> 00:40:59,700
-- S„o cem dÛlares.
+- S√£o cem d√≥lares.
 - Cem?
 
 548
 00:40:59,900 --> 00:41:03,300
-Cinco dÛlares por carro,
+Cinco d√≥lares por carro,
 vinte carros. Quer uma calculadora?
 
 549
 00:41:03,700 --> 00:41:06,500
-Costumava ser dois dÛlares
+Costumava ser dois d√≥lares
 por carro. Obrigado.
 
 550
 00:41:08,700 --> 00:41:10,800
-O meu nome È Roger.
-Posso ajud·-lo?
+O meu nome √© Roger.
+Posso ajud√°-lo?
 
 551
 00:41:13,100 --> 00:41:14,600
 Curioso.
-TambÈm me chamo Roger.
+Tamb√©m me chamo Roger.
 
 552
 00:41:15,300 --> 00:41:16,900
-Dois Roger n„o resolvem tudo.
+Dois Roger n√£o resolvem tudo.
 
 553
 00:41:18,200 --> 00:41:20,500
 Tenho um problema.
-Estou em L.A. H· trÍs meses.
+Estou em L.A. H√° tr√™s meses.
 
 554
 00:41:21,000 --> 00:41:23,900
 Tenho dinheiro, bom gosto,
-mas n„o estou na lista de ninguÈm.
+mas n√£o estou na lista de ningu√©m.
 
 555
 00:41:24,100 --> 00:41:26,500
-As noites s„o muito solit·rias.
+As noites s√£o muito solit√°rias.
 
 556
 00:41:27,900 --> 00:41:29,500
@@ -2576,16 +2580,16 @@ Talvez, mas...
 
 558
 00:41:32,100 --> 00:41:33,600
-… este. Sim, sim.
+√â este. Sim, sim.
 
 559
 00:41:33,900 --> 00:41:37,300
-Esta manh„, vi trÍs destes parados
-‡ porta do CafÈ Starbucks,
+Esta manh√£, vi tr√™s destes parados
+√† porta do Caf√© Starbucks,
 
 560
 00:41:37,600 --> 00:41:41,300
-o que me diz uma coisa: H·
+o que me diz uma coisa: H√°
 demasiados idiotas convencidos
 
 561
@@ -2604,31 +2608,31 @@ um Ferrari
 
 564
 00:41:52,100 --> 00:41:55,900
-N„o seria um idiota convencido,
+N√£o seria um idiota convencido,
 seria um conhecedor.
 
 565
 00:41:56,200 --> 00:41:58,800
 Precisamente.
-O champanhe cairia do cÈu,
+O champanhe cairia do c√©u,
 
 566
 00:41:59,100 --> 00:42:01,800
 as portas abrir-se-iam
-e as cordas de veludo tambÈm.
+e as cordas de veludo tamb√©m.
 
 567
 00:42:02,900 --> 00:42:07,000
-N„o tenho aqui esse modelo,
-mas h· um em armazÈm.
+N√£o tenho aqui esse modelo,
+mas h√° um em armaz√©m.
 
 568
 00:42:07,400 --> 00:42:08,100
-MagnÌfico!
+Magn√≠fico!
 
 569
 00:42:09,700 --> 00:42:11,300
-Que mais h· em armazÈm?
+Que mais h√° em armaz√©m?
 
 570
 00:42:17,100 --> 00:42:18,800
@@ -2641,16 +2645,16 @@ vai hoje buscar as chaves
 
 572
 00:42:21,700 --> 00:42:23,400
-para trÍs Mercedes novos.
+para tr√™s Mercedes novos.
 
 573
 00:42:23,800 --> 00:42:26,200
 Do mesmo tipo
-dos que nÛs confisc·mos.
+dos que n√≥s confisc√°mos.
 
 574
 00:42:26,500 --> 00:42:27,800
-Isso È que È falar.
+Isso √© que √© falar.
 
 575
 00:42:28,600 --> 00:42:30,700
@@ -2663,7 +2667,7 @@ Cais 14
 
 577
 00:42:34,800 --> 00:42:37,900
-parte na sexta ‡s oito em ponto.
+parte na sexta √†s oito em ponto.
 
 578
 00:42:38,500 --> 00:42:41,400
@@ -2673,16 +2677,16 @@ a 45 minutos daqui.
 579
 00:42:42,100 --> 00:42:44,800
 Quando o alarme dos sistemas
-de detecÁ„o for activado,
+de detec√ß√£o for activado,
 
 580
 00:42:45,100 --> 00:42:47,200
-os carros estar„o
+os carros estar√£o
 nestes contentores.
 
 581
 00:42:56,300 --> 00:42:57,800
-Malta, esta È a Sway.
+Malta, esta √© a Sway.
 
 582
 00:42:59,400 --> 00:43:01,600
@@ -2692,7 +2696,7 @@ Estou aqui por causa do Kip.
 583
 00:43:20,100 --> 00:43:22,400
 <i>- Sou eu. Ele chegou.
-- … o do Chevy Nova vermelho?</i>
+- √â o do Chevy Nova vermelho?</i>
 
 584
 00:43:22,700 --> 00:43:24,200
@@ -2701,11 +2705,11 @@ Afirmativo.
 585
 00:43:25,900 --> 00:43:28,000
 Assim que ele sair,
-d·-me as moradas.
+d√°-me as moradas.
 
 586
 00:43:28,300 --> 00:43:30,100
-Vou j· entregar-lhe os formul·rios.
+Vou j√° entregar-lhe os formul√°rios.
 
 587
 00:43:33,500 --> 00:43:35,900
@@ -2714,7 +2718,7 @@ Sempre em cima de mim.
 
 588
 00:43:36,400 --> 00:43:39,200
-Est„o aqui trÍs?
+Est√£o aqui tr√™s?
 Obrigado.
 
 589
@@ -2728,17 +2732,17 @@ Posso mandar segui-los?
 
 591
 00:44:01,000 --> 00:44:03,200
-S„o espertos de mais.
+S√£o espertos de mais.
 Largam logo os carros.
 
 592
 00:44:04,200 --> 00:44:05,800
-N„o, vamos apanh·-los
+N√£o, vamos apanh√°-los
 nos Mercedes.
 
 593
 00:44:07,300 --> 00:44:10,300
-Ponha trÍs equipas de vigil‚ncia
+Ponha tr√™s equipas de vigil√¢ncia
 nessas moradas.
 
 594
@@ -2747,31 +2751,31 @@ Podes fazer o teu movimento, meu,
 
 595
 00:44:16,900 --> 00:44:18,500
-mas eu estarei ‡ tua espera.
+mas eu estarei √† tua espera.
 
 596
 00:44:24,100 --> 00:44:25,600
 Por que usam nomes
-de mi˙das?
+de mi√∫das?
 
 597
 00:44:26,100 --> 00:44:29,000
 - Boa pergunta.
-- PorquÍ?
+- Porqu√™?
 
 598
 00:44:29,300 --> 00:44:33,400
-… cÛdigo. Diz-se Jane,
+√â c√≥digo. Diz-se Jane,
 diz-se Shirley, Lucy, Edna
 
 599
 00:44:33,700 --> 00:44:36,600
 e quem nos ouve
-n„o percebe nada.
+n√£o percebe nada.
 
 600
 00:44:38,100 --> 00:44:39,000
-J· as tenho.
+J√° as tenho.
 
 601
 00:44:47,200 --> 00:44:48,100
@@ -2780,31 +2784,31 @@ Muito bem...
 602
 00:44:49,000 --> 00:44:52,500
 Temos as moradas das 50 senhoras.
-Vamos observ·-las.
+Vamos observ√°-las.
 
 603
 00:44:58,500 --> 00:45:00,600
-- Ali est· ela.
+- Ali est√° ela.
 - Bela...
 
 604
 00:45:01,500 --> 00:45:04,200
-Raios, est· frio.
-MantÈm os Ferraris refrigerados?
+Raios, est√° frio.
+Mant√©m os Ferraris refrigerados?
 
 605
 00:45:04,500 --> 00:45:07,400
-Os negros n„o gostam de frio.
+Os negros n√£o gostam de frio.
 Somos pessoas tropicais.
 
 606
 00:45:07,800 --> 00:45:12,300
-D·s-me uma chafarica,
+D√°s-me uma chafarica,
 duas horas e eu sou o rei!
 
 607
 00:45:13,500 --> 00:45:16,500
-Ol· e bem-vindos
+Ol√° e bem-vindos
 ao Concurso dos Carros.
 
 608
@@ -2819,8 +2823,8 @@ o condutor de um Firebird de 73?
 
 610
 00:45:23,600 --> 00:45:26,400
-- DÍem-me o Colombo.
-- Peugeot descapot·vel.
+- D√™em-me o Colombo.
+- Peugeot descapot√°vel.
 
 611
 00:45:26,800 --> 00:45:28,800
@@ -2829,8 +2833,8 @@ o condutor de um Firebird de 73?
 
 612
 00:45:29,300 --> 00:45:31,800
-<i>- Como È que sabes isso?
-- Adorava essa sÈrie.</i>
+<i>- Como √© que sabes isso?
+- Adorava essa s√©rie.</i>
 
 613
 00:45:32,400 --> 00:45:35,100
@@ -2839,31 +2843,31 @@ vos dizer. Arranjem uma vida.
 
 614
 00:45:35,700 --> 00:45:37,400
-Isto È uma merda
-para crianÁas, Sphinx.
+Isto √© uma merda
+para crian√ßas, Sphinx.
 
 615
 00:45:37,900 --> 00:45:40,100
-<i>Que estava escrito na matrÌcula
-na sÈrie "Magnum P.I."?</i>
+<i>Que estava escrito na matr√≠cula
+na s√©rie "Magnum P.I."?</i>
 
 616
 00:45:41,400 --> 00:45:45,000
 <i>- "Robin 1".
-- O Robin n„o era maricas?</i>
+- O Robin n√£o era maricas?</i>
 
 617
 00:45:45,500 --> 00:45:47,700
-N„o, esse era o Higgins.
+N√£o, esse era o Higgins.
 Esse era o Higgins.
 
 618
 00:45:48,200 --> 00:45:49,800
-Dez pontos para o nosso lÌder.
+Dez pontos para o nosso l√≠der.
 
 619
 00:45:50,200 --> 00:45:52,900
-<i>Sway, d·-nos o triplo
+<i>Sway, d√°-nos o triplo
 do Bill Bixby.</i>
 
 620
@@ -2874,12 +2878,12 @@ em "The Magician",</i>
 621
 00:45:58,400 --> 00:46:00,500
 <i>uma carrinha Ford
-em "O IncrÌvel Hulk" e,</i>
+em "O Incr√≠vel Hulk" e,</i>
 
 622
 00:46:01,500 --> 00:46:04,200
 <i>em "The Courtship
-of Eddie's Father, andou a pÈ.</i>
+of Eddie's Father, andou a p√©.</i>
 
 623
 00:46:11,900 --> 00:46:14,000
@@ -2892,8 +2896,8 @@ of Eddie's Father, andou a pÈ.</i>
 
 625
 00:46:30,200 --> 00:46:32,400
-Aqui n„o h· nada.
-N„o aparece ninguÈm.
+Aqui n√£o h√° nada.
+N√£o aparece ningu√©m.
 
 626
 00:46:32,800 --> 00:46:33,700
@@ -2905,7 +2909,7 @@ Aproxima-se uma minivan.
 
 628
 00:46:36,800 --> 00:46:39,000
-… um bocado tarde
+√â um bocado tarde
 para treinar futebol.
 
 629
@@ -2915,7 +2919,7 @@ Temos actividade.
 
 630
 00:46:49,600 --> 00:46:53,400
-Aqueles s„o...
+Aqueles s√£o...
 Parecem o Kip Raines
 
 631
@@ -2929,36 +2933,36 @@ prendemo-los.
 
 633
 00:47:00,200 --> 00:47:01,800
-Ele est· a tirar
+Ele est√° a tirar
 qualquer coisa do bolso.
 
 634
 00:47:02,600 --> 00:47:05,100
-… uma c‚mara. Parece que vai
+√â uma c√¢mara. Parece que vai
 fazer uns trabalhos de casa.
 
 635
 00:47:06,500 --> 00:47:08,600
-Vamos deix·-lo em paz.
-N„o quero estragar isto.
+Vamos deix√°-lo em paz.
+N√£o quero estragar isto.
 
 636
 00:47:09,100 --> 00:47:10,100
-Eles v„o voltar.
+Eles v√£o voltar.
 
 637
 00:47:15,300 --> 00:47:17,400
 Vamos ter com o Otto
-logo de amanh„.
+logo de amanh√£.
 
 638
 00:47:18,600 --> 00:47:21,200
 Vamos afastar umas pedras
-e ver o que est· por baixo.
+e ver o que est√° por baixo.
 
 639
 00:47:22,900 --> 00:47:24,300
-Guard·mos o melhor
+Guard√°mos o melhor
 para o fim.
 
 640
@@ -2973,30 +2977,30 @@ de 67.
 
 642
 00:47:35,800 --> 00:47:36,900
-Ali est· ela.
+Ali est√° ela.
 
 643
 00:47:40,600 --> 00:47:41,700
-Ali est· a Eleanor.
+Ali est√° a Eleanor.
 
 644
 00:47:44,200 --> 00:47:45,900
-A Eleanor È o unicÛrnio
+A Eleanor √© o unic√≥rnio
 do Memphis.
 
 645
 00:47:46,400 --> 00:47:48,800
-- O que È um unicÛrnio?
-- … uma criatura fant·stica.
+- O que √© um unic√≥rnio?
+- √â uma criatura fant√°stica.
 
 646
 00:47:49,200 --> 00:47:51,400
-… um cavalo com um chifre,
-impossÌvel de capturar.
+√â um cavalo com um chifre,
+imposs√≠vel de capturar.
 
 647
 00:47:51,700 --> 00:47:55,500
-Sempre que tentamos apanh·-lo,
+Sempre que tentamos apanh√°-lo,
 alguma coisa acontece.
 
 648
@@ -3009,22 +3013,22 @@ Vai ser simples...
 
 650
 00:48:05,600 --> 00:48:07,500
-- Que est· ele a fazer?
-...e f·cil...
+- Que est√° ele a fazer?
+...e f√°cil...
 
 651
 00:48:07,800 --> 00:48:09,200
-Est· a falar com ela.
+Est√° a falar com ela.
 
 652
 00:48:09,900 --> 00:48:13,200
-- Tiveram uma histÛria juntos.
-- N„o me respondas.
+- Tiveram uma hist√≥ria juntos.
+- N√£o me respondas.
 
 653
 00:48:13,500 --> 00:48:15,000
 Quase o matou,
-por v·rias vezes.
+por v√°rias vezes.
 
 654
 00:48:15,700 --> 00:48:17,700
@@ -3042,13 +3046,13 @@ Vamos deslizar.
 
 657
 00:48:29,500 --> 00:48:31,700
-Amanh„ È a grande noite, malta.
+Amanh√£ √© a grande noite, malta.
 Vamos para casa.
 
 658
 00:48:33,600 --> 00:48:37,600
-- J· tiraste a foto?
-- AtÈ amanh„ ‡ noite, Eleanor.
+- J√° tiraste a foto?
+- At√© amanh√£ √† noite, Eleanor.
 
 659
 00:48:38,400 --> 00:48:40,000
@@ -3060,7 +3064,7 @@ Queres comer alguma coisa?
 
 661
 00:48:47,000 --> 00:48:49,300
-Gostava de apanhar um cami„o
+Gostava de apanhar um cami√£o
 no centro.
 
 662
@@ -3073,7 +3077,7 @@ Vai, vai!
 
 664
 00:49:10,700 --> 00:49:13,500
-- Por que disparam contra nÛs?
+- Por que disparam contra n√≥s?
 - Estoirei o carro deles!
 
 665
@@ -3082,18 +3086,18 @@ Besta...
 
 666
 00:50:41,300 --> 00:50:42,500
-Achas que isto È alguma
+Achas que isto √© alguma
 brincadeira?
 
 667
 00:50:42,700 --> 00:50:45,400
 Johnny B!
-S„o chuis, meu.
+S√£o chuis, meu.
 
 668
 00:50:46,500 --> 00:50:48,200
-A ˙nica coisa que tenho
-È tempo, querida.
+A √∫nica coisa que tenho
+√© tempo, querida.
 
 669
 00:51:01,000 --> 00:51:02,400
@@ -3101,59 +3105,59 @@ Vamos ficar aqui toda a noite.
 
 670
 00:51:04,400 --> 00:51:07,200
-Olha! Carro da polÌcia!
+Olha! Carro da pol√≠cia!
 
 671
 00:51:07,800 --> 00:51:11,800
 Enquanto eu estiver aqui,
-tu vais ficar aÌ. Est· bem?
+tu vais ficar a√≠. Est√° bem?
 
 672
 00:51:15,300 --> 00:51:18,200
-O plano È este...
+O plano √© este...
 Eis o que vamos fazer...
 
 673
 00:51:18,400 --> 00:51:19,800
-Est· ali um reboque.
+Est√° ali um reboque.
 
 674
 00:51:23,400 --> 00:51:27,200
-Aquele cami„o È seu?
+Aquele cami√£o √© seu?
 
 675
 00:51:27,600 --> 00:51:29,200
-- Sim, È meu.
-- … do melhor.
+- Sim, √© meu.
+- √â do melhor.
 
 676
 00:51:43,600 --> 00:51:45,700
 Que tenho de fazer para aprender?
-Onde È que vou?
+Onde √© que vou?
 
 677
 00:51:46,600 --> 00:51:48,100
-Vais ‡ escola de conduÁ„o
-de camiıes.
+Vais √† escola de condu√ß√£o
+de cami√µes.
 
 678
 00:51:48,800 --> 00:51:50,600
-Eu sei. Mas como È que...
+Eu sei. Mas como √© que...
 
 679
 00:51:52,500 --> 00:51:55,100
-VocÍs est„o prontos para pendurar
+Voc√™s est√£o prontos para pendurar
 a cauda do burro?
 
 680
 00:51:56,200 --> 00:51:59,000
 - Posso oferecer-lhe um donut?
-- N„o, vou-me embora.
+- N√£o, vou-me embora.
 
 681
 00:51:59,300 --> 00:52:01,400
 - Eu vou comer um waffle.
-- Talvez para a prÛxima...
+- Talvez para a pr√≥xima...
 
 682
 00:52:22,400 --> 00:52:23,500
@@ -3169,7 +3173,7 @@ Quero.
 
 685
 00:52:50,500 --> 00:52:52,400
-TÍm licenÁa para essas armas?
+T√™m licen√ßa para essas armas?
 
 686
 00:52:52,700 --> 00:52:53,500
@@ -3181,8 +3185,8 @@ Porra, meu!
 
 688
 00:53:12,300 --> 00:53:14,300
-Ent„o julgavam que
-eu sÛ sabia arranjar pizzas?
+Ent√£o julgavam que
+eu s√≥ sabia arranjar pizzas?
 
 689
 00:53:15,100 --> 00:53:16,500
@@ -3191,27 +3195,27 @@ Fui eu que o roubei.
 690
 00:53:16,900 --> 00:53:18,300
 Pois, pois.
-Como È que conseguiste?
+Como √© que conseguiste?
 
 691
 00:53:19,500 --> 00:53:22,400
-- As chaves estavam l· dentro.
-- Isso estraga tudo, n„o È?
+- As chaves estavam l√° dentro.
+- Isso estraga tudo, n√£o √©?
 
 692
 00:53:22,600 --> 00:53:24,000
 Roubaste um carro
-que n„o est· na lista.
+que n√£o est√° na lista.
 
 693
 00:53:25,500 --> 00:53:27,900
-Roubaste um carro que n„o
-est· na lista.
+Roubaste um carro que n√£o
+est√° na lista.
 
 694
 00:53:28,300 --> 00:53:30,900
-Por que n„o vais ‡ esquadra
-vestido de palhaÁo
+Por que n√£o vais √† esquadra
+vestido de palha√ßo
 
 695
 00:53:31,100 --> 00:53:32,700
@@ -3220,8 +3224,8 @@ a fazer?
 
 696
 00:53:33,300 --> 00:53:35,400
-- O que È isso?
-- N„o sei.
+- O que √© isso?
+- N√£o sei.
 
 697
 00:53:37,700 --> 00:53:40,700
@@ -3235,8 +3239,8 @@ a fazer?
 
 699
 00:53:44,400 --> 00:53:46,500
-- Parece heroÌna.
-- O quÍ?
+- Parece hero√≠na.
+- O qu√™?
 
 700
 00:53:50,100 --> 00:53:52,300
@@ -3245,13 +3249,13 @@ a fazer?
 
 701
 00:53:52,700 --> 00:53:55,800
-Pensaste por que È que um carro
-teria as chaves l· dentro?
+Pensaste por que √© que um carro
+teria as chaves l√° dentro?
 
 702
 00:53:56,900 --> 00:53:59,500
-Achaste que ninguÈm seria
-suficientemente est˙pido para roub·-lo?
+Achaste que ningu√©m seria
+suficientemente est√∫pido para roub√°-lo?
 
 703
 00:54:00,000 --> 00:54:00,600
@@ -3259,7 +3263,7 @@ Leva-o de volta.
 
 704
 00:54:00,900 --> 00:54:02,900
-- N„o pode ser!
+- N√£o pode ser!
 - Tirem-no daqui!
 
 705
@@ -3286,7 +3290,7 @@ Esperem, esperem.
 
 710
 00:54:20,800 --> 00:54:23,400
-- Quem È?
+- Quem √©?
 - Detective Castlebeck.
 
 711
@@ -3295,13 +3299,13 @@ Raios!
 
 712
 00:54:42,400 --> 00:54:44,600
-- Ol·, Otto.
-- Detective, È um prazer vÍ-lo.
+- Ol√°, Otto.
+- Detective, √© um prazer v√™-lo.
 
 713
 00:54:46,000 --> 00:54:48,100
-- H· muito tempo...
-- Sim. Est· com bom aspecto.
+- H√° muito tempo...
+- Sim. Est√° com bom aspecto.
 
 714
 00:54:49,000 --> 00:54:49,800
@@ -3313,8 +3317,8 @@ Que temos aqui, Randall?
 
 716
 00:54:54,300 --> 00:54:56,500
-Uma reuni„o multi-geracional
-de bandidos? … isso?
+Uma reuni√£o multi-geracional
+de bandidos? √â isso?
 
 717
 00:54:58,600 --> 00:54:59,500
@@ -3323,7 +3327,7 @@ Olha o Donny!
 718
 00:55:01,100 --> 00:55:03,500
 - Como tens passado, D?
-- Contente por vÍ-lo.
+- Contente por v√™-lo.
 
 719
 00:55:05,000 --> 00:55:08,600
@@ -3332,12 +3336,12 @@ Ver-te a ti, ao Otto e ao Donny
 
 720
 00:55:09,300 --> 00:55:11,000
-quase me faz sentir nost·lgico.
+quase me faz sentir nost√°lgico.
 
 721
 00:55:11,500 --> 00:55:14,600
-… como uma grande reuni„o.
-N„o se v· embora.
+√â como uma grande reuni√£o.
+N√£o se v√° embora.
 
 722
 00:55:14,900 --> 00:55:19,000
@@ -3346,17 +3350,17 @@ e cantar o "Kumbayah".
 
 723
 00:55:22,400 --> 00:55:25,100
-- O que È isto?
+- O que √© isto?
 - Chamamos-lhe Cadillac.
 
 724
 00:55:28,100 --> 00:55:29,300
-Qual È o problema dele?
+Qual √© o problema dele?
 
 725
 00:55:29,800 --> 00:55:33,400
 Precisa de ser restaurado.
-Precisa de ser melhorado, vÍ?
+Precisa de ser melhorado, v√™?
 
 726
 00:55:33,800 --> 00:55:36,200
@@ -3365,7 +3369,7 @@ um Ford de 39!
 
 727
 00:55:36,800 --> 00:55:37,900
-N„o È um lindo carro?
+N√£o √© um lindo carro?
 
 728
 00:55:38,200 --> 00:55:43,000
@@ -3374,11 +3378,11 @@ Lindos carros!
 
 729
 00:55:43,600 --> 00:55:46,100
-E aÌ tens um Cadillac El Dorado.
+E a√≠ tens um Cadillac El Dorado.
 
 730
 00:55:47,300 --> 00:55:51,900
-Mas quem È que paga para
+Mas quem √© que paga para
 restaurar um Cadillac El Dorado?
 
 731
@@ -3392,7 +3396,7 @@ Faz-me uma pesquisa.
 
 733
 00:56:05,400 --> 00:56:07,900
-MatrÌcula 329 HRO.
+Matr√≠cula 329 HRO.
 
 734
 00:56:08,300 --> 00:56:12,200
@@ -3401,31 +3405,31 @@ Cadillac Burgundy.
 
 735
 00:56:17,000 --> 00:56:20,800
-N„o acredita que estamos
+N√£o acredita que estamos
 regenerados, detective?
 
 736
 00:56:21,900 --> 00:56:24,700
 Uma equipa trabalha
-com estatÌsticas. Tu sabes isso...
+com estat√≠sticas. Tu sabes isso...
 
 737
 00:56:25,300 --> 00:56:28,200
-- Randall, este È o Kip?
+- Randall, este √© o Kip?
 - Ele mesmo.
 
 738
 00:56:29,700 --> 00:56:30,700
-Est· crescido.
+Est√° crescido.
 
 739
 00:56:31,900 --> 00:56:33,800
-<i>1 Baker 11, Divis„o PacÌfico.</i>
+<i>1 Baker 11, Divis√£o Pac√≠fico.</i>
 
 740
 00:56:34,000 --> 00:56:38,700
 <i>329 Henry Robert Ocean,
-n„o È procurado.</i>
+n√£o √© procurado.</i>
 
 741
 00:56:40,100 --> 00:56:41,300
@@ -3433,32 +3437,32 @@ Entendido. Obrigado.
 
 742
 00:56:42,300 --> 00:56:43,900
-Eu sei o que est· a fazer.
+Eu sei o que est√° a fazer.
 Eu sei.
 
 743
 00:56:45,000 --> 00:56:45,900
-Est· a pensar
+Est√° a pensar
 
 744
 00:56:46,000 --> 00:56:50,000
-que lhe tirei as peÁas
+que lhe tirei as pe√ßas
 para as empacotar.
 
 745
 00:56:50,800 --> 00:56:52,900
 - Foi isso que fizeste?
-- N„o, n„o foi.
+- N√£o, n√£o foi.
 
 746
 00:56:53,200 --> 00:56:57,000
-Est· a tentar ofender-me?
+Est√° a tentar ofender-me?
 Tudo bem, ponha-o a trabalhar.
 
 747
 00:56:57,400 --> 00:56:59,200
 - Acelere.
-- Est· bem.
+- Est√° bem.
 
 748
 00:57:00,600 --> 00:57:01,800
@@ -3471,12 +3475,12 @@ em que tiveram "cruise control".</i>
 
 750
 00:57:06,000 --> 00:57:09,100
-Nesta altura, j· deve saber mais
+Nesta altura, j√° deve saber mais
 de carros do que eu.
 
 751
 00:57:10,100 --> 00:57:13,000
-- Est·s a brincar comigo?
+- Est√°s a brincar comigo?
 - O seu conhecimento deslumbra-me.
 
 752
@@ -3486,12 +3490,12 @@ de carros do que eu.
 
 753
 00:57:17,000 --> 00:57:19,500
-- InjecÁ„o fuel digital?
-- Exacto. VocÍ sabe!
+- Injec√ß√£o fuel digital?
+- Exacto. Voc√™ sabe!
 
 754
 00:57:25,700 --> 00:57:27,900
-DÍ-nos mais! DÍ-nos mais!
+D√™-nos mais! D√™-nos mais!
 
 755
 00:57:29,000 --> 00:57:31,200
@@ -3500,7 +3504,7 @@ DÍ-nos mais! DÍ-nos mais!
 
 756
 00:57:33,400 --> 00:57:34,800
-N„o seja t„o mau, querido!
+N√£o seja t√£o mau, querido!
 
 757
 00:57:38,600 --> 00:57:41,700
@@ -3509,7 +3513,7 @@ N„o seja t„o mau, querido!
 
 758
 00:57:44,900 --> 00:57:46,200
-Sim, tem alguma potÍncia.
+Sim, tem alguma pot√™ncia.
 
 759
 00:57:47,700 --> 00:57:48,600
@@ -3521,12 +3525,12 @@ Apanho-vos mais tarde.
 
 761
 00:58:11,500 --> 00:58:13,700
-- Est· marcado para esta noite.
-- Como È que sabe?
+- Est√° marcado para esta noite.
+- Como √© que sabe?
 
 762
 00:58:14,700 --> 00:58:18,500
-Eles tÍm os sinais de cÛdigo
+Eles t√™m os sinais de c√≥digo
 das unidades que trabalham hoje.
 
 763
@@ -3537,12 +3541,12 @@ das unidades que trabalham hoje.
 764
 00:58:24,300 --> 00:58:27,400
 <i>"Bater"?
-Nas prÛximas 24 horas,</i>
+Nas pr√≥ximas 24 horas,</i>
 
 765
 00:58:27,800 --> 00:58:30,500
-os vossos privilÈgios de tomada
-de decis„o s„o-vos retirados.
+os vossos privil√©gios de tomada
+de decis√£o s√£o-vos retirados.
 
 766
 00:58:30,800 --> 00:58:32,600
@@ -3551,8 +3555,8 @@ de decis„o s„o-vos retirados.
 
 767
 00:58:33,400 --> 00:58:36,100
-… Ûbvio que est„o em cima
-de nÛs e muito perto!
+√â √≥bvio que est√£o em cima
+de n√≥s e muito perto!
 
 768
 00:58:37,300 --> 00:58:38,900
@@ -3561,27 +3565,27 @@ estranha,
 
 769
 00:58:39,000 --> 00:58:43,500
-parem e voltem para c·.
+parem e voltem para c√°.
 E livrem-se deste carro!
 
 770
 00:58:46,700 --> 00:58:49,000
-Que est·s a fazer?
+Que est√°s a fazer?
 
 771
 00:58:49,700 --> 00:58:51,100
 Julgas que vens connosco,
-mas n„o vens.
+mas n√£o vens.
 
 772
 00:58:51,300 --> 00:58:54,100
-Que est·s tu a dizer? Eu faÁo parte
-da equipa, tambÈm vou.
+Que est√°s tu a dizer? Eu fa√ßo parte
+da equipa, tamb√©m vou.
 
 773
 00:58:54,900 --> 00:58:58,000
 Acorda! Podes acabar na cadeia
-ou na morgue. N„o sejas est˙pido.
+ou na morgue. N√£o sejas est√∫pido.
 
 774
 00:58:59,200 --> 00:59:00,300
@@ -3595,7 +3599,7 @@ de luvas de borracha, meu?
 776
 00:59:03,500 --> 00:59:04,800
 Luvas?
-Tu n„o precisas de luvas!
+Tu n√£o precisas de luvas!
 
 777
 00:59:05,000 --> 00:59:06,900
@@ -3604,25 +3608,25 @@ Olha para isto!
 
 778
 00:59:08,800 --> 00:59:09,500
-O que È isso?
+O que √© isso?
 
 779
 00:59:09,700 --> 00:59:11,400
-D·-me essa enorme pata
-a que chamas m„o.
+D√°-me essa enorme pata
+a que chamas m√£o.
 
 780
 00:59:13,600 --> 00:59:14,700
-N„o È geleia, n„o comas.
+N√£o √© geleia, n√£o comas.
 
 781
 00:59:15,700 --> 00:59:18,300
-As tuas novas impressıes
-digitais. S„o da Hilary Clinton.
+As tuas novas impress√µes
+digitais. S√£o da Hilary Clinton.
 
 782
 00:59:21,600 --> 00:59:26,700
-Que est·s a fazer?
+Que est√°s a fazer?
 Parece um gueto Strumpff!
 
 783
@@ -3646,7 +3650,7 @@ Vamos sair-nos bem.
 787
 01:00:11,500 --> 01:00:15,000
 <i>O "Low Rider", Donny.
-Donny, pıes o "Low Rider"?</i>
+Donny, p√µes o "Low Rider"?</i>
 
 788
 01:00:42,500 --> 01:00:43,400
@@ -3658,11 +3662,11 @@ Vamos a isto.
 
 790
 01:01:05,700 --> 01:01:06,900
-D·-me a lanterna.
+D√°-me a lanterna.
 
 791
 01:01:11,600 --> 01:01:12,700
-Para onde È que isto vai?
+Para onde √© que isto vai?
 
 792
 01:01:13,000 --> 01:01:14,400
@@ -3671,15 +3675,15 @@ Se voltas a fazer isso...
 793
 01:01:20,500 --> 01:01:22,800
 Calma, meu,
-n„o È nada pessoal.
+n√£o √© nada pessoal.
 
 794
 01:01:26,400 --> 01:01:27,500
-Est· tudo perfeito.
+Est√° tudo perfeito.
 
 795
 01:01:41,700 --> 01:01:43,100
-Ol·, minhas meninas.
+Ol√°, minhas meninas.
 
 796
 01:01:43,800 --> 01:01:45,300
@@ -3688,7 +3692,7 @@ dar uma voltinha.
 
 797
 01:01:46,200 --> 01:01:47,300
-V· l·, toca a mexer.
+V√° l√°, toca a mexer.
 
 798
 01:01:52,200 --> 01:01:53,100
@@ -3701,17 +3705,17 @@ Usa a tua magia, querida.
 
 800
 01:02:22,900 --> 01:02:23,700
-Est·s bem?
+Est√°s bem?
 
 801
 01:02:27,800 --> 01:02:31,000
 - Achas que vamos conseguir?
-- … demasiado cedo para dizer.
+- √â demasiado cedo para dizer.
 
 802
 01:02:56,100 --> 01:02:58,900
 <i>Diana, Tricia, Nadine
-e Rose v„o a caminho.</i>
+e Rose v√£o a caminho.</i>
 
 803
 01:02:59,300 --> 01:03:00,600
@@ -3724,16 +3728,16 @@ Muito bem, malta.
 
 805
 01:03:25,300 --> 01:03:27,700
-PeÁo desculpa, mas ainda nada.
+Pe√ßo desculpa, mas ainda nada.
 
 806
 01:03:28,200 --> 01:03:31,800
-Filho da m„e! N„o vais
-estacionar mesmo ‡ minha frente!
+Filho da m√£e! N√£o vais
+estacionar mesmo √† minha frente!
 
 807
 01:03:34,200 --> 01:03:38,100
-N„o vejo nada.
+N√£o vejo nada.
 Temos de mudar.
 
 808
@@ -3746,7 +3750,7 @@ Sentes-te mal por fazeres isto?
 
 810
 01:03:57,700 --> 01:03:59,100
-N„o. Eu sou o Robin dos Bosques.
+N√£o. Eu sou o Robin dos Bosques.
 
 811
 01:03:59,200 --> 01:04:01,000
@@ -3760,7 +3764,7 @@ Raios!
 813
 01:04:04,500 --> 01:04:06,200
 - Donny!
-- J· trato de ti.
+- J√° trato de ti.
 
 814
 01:04:07,600 --> 01:04:10,300
@@ -3769,21 +3773,21 @@ Raios!
 
 815
 01:04:13,300 --> 01:04:14,300
-N„o, os necessitados.
+N√£o, os necessitados.
 
 816
 01:04:17,400 --> 01:04:19,200
-Porque nÛs precisamos deste carro,
+Porque n√≥s precisamos deste carro,
 amigo.
 
 817
 01:04:26,700 --> 01:04:27,600
-Como est·?
+Como est√°?
 
 818
 01:04:28,700 --> 01:04:31,200
-- Tu Ès novo, n„o Ès?
-- Como È que sabe?
+- Tu √©s novo, n√£o √©s?
+- Como √© que sabe?
 
 819
 01:04:31,500 --> 01:04:34,100
@@ -3796,7 +3800,7 @@ que eu tomo conta de ti.
 821
 01:04:37,500 --> 01:04:41,100
 - Poupe e compra outro fato.
-- Deus te abenÁoe.
+- Deus te aben√ßoe.
 
 822
 01:04:41,400 --> 01:04:42,700
@@ -3806,12 +3810,12 @@ de moda.
 823
 01:04:42,900 --> 01:04:44,700
 Estou aqui por causa do carro
-e n„o da sua porta.
+e n√£o da sua porta.
 
 824
 01:04:45,000 --> 01:04:48,300
-Ponha-me esse grande cu l· fora.
-Rua! Para onde est· a olhar?
+Ponha-me esse grande cu l√° fora.
+Rua! Para onde est√° a olhar?
 
 825
 01:04:52,100 --> 01:04:54,700
@@ -3821,7 +3825,7 @@ Rua! Para onde est· a olhar?
 826
 01:04:55,100 --> 01:04:58,000
 - Sai ou disparo!
-- Est·s a brincar comigo!
+- Est√°s a brincar comigo!
 
 827
 01:04:58,300 --> 01:04:59,500
@@ -3829,16 +3833,16 @@ Olha que eu disparo!
 
 828
 01:05:03,200 --> 01:05:04,600
-Seu incompetente e preguiÁoso!
+Seu incompetente e pregui√ßoso!
 
 829
 01:05:05,100 --> 01:05:07,100
 Qualquer idiota pode apontar
-uma arma a alguÈm!
+uma arma a algu√©m!
 
 830
 01:05:07,300 --> 01:05:09,000
-N„o percebes nada
+N√£o percebes nada
 de roubar carros!
 
 831
@@ -3871,13 +3875,13 @@ Olhe para aquilo...
 
 838
 01:06:32,400 --> 01:06:35,600
-Ele voltou. … esperto.
+Ele voltou. √â esperto.
 Actua cuidadosamente.
 
 839
 01:06:35,900 --> 01:06:39,300
-<i>Vamos manter as posiÁıes.
-Se ele sair, vocÍs seguem-no.</i>
+<i>Vamos manter as posi√ß√µes.
+Se ele sair, voc√™s seguem-no.</i>
 
 840
 01:06:39,600 --> 01:06:40,500
@@ -3885,8 +3889,8 @@ Entendido.
 
 841
 01:06:50,400 --> 01:06:53,000
-Que est· ele a fazer?
-Que est·s a fazer?
+Que est√° ele a fazer?
+Que est√°s a fazer?
 
 842
 01:07:01,600 --> 01:07:04,500
@@ -3895,7 +3899,7 @@ e acenar.
 
 843
 01:07:05,000 --> 01:07:06,500
-<i>- Segue-o, T.J., est· bem?
+<i>- Segue-o, T.J., est√° bem?
 - Entendido.</i>
 
 844
@@ -3905,7 +3909,7 @@ Vamos.
 845
 01:07:17,100 --> 01:07:19,900
 - Boa sorte.
-- … canja.
+- √â canja.
 
 846
 01:07:24,400 --> 01:07:27,900
@@ -3924,13 +3928,13 @@ estava parada quatro casas abaixo
 
 849
 01:07:35,000 --> 01:07:38,300
-e n„o apenas duas.
+e n√£o apenas duas.
 - Temos companhia.
 
 850
 01:07:39,600 --> 01:07:41,700
 - Merda!
-- Ele est· no carro.
+- Ele est√° no carro.
 
 851
 01:07:45,200 --> 01:07:46,200
@@ -3943,7 +3947,7 @@ Aguardar, unidade um.
 853
 01:07:51,000 --> 01:07:52,700
 - Que foi?
-- Onde È que est·s?
+- Onde √© que est√°s?
 
 854
 01:07:53,000 --> 01:07:56,900
@@ -3952,12 +3956,12 @@ do tipo que vigia as mesas.
 
 855
 01:07:57,400 --> 01:07:58,600
-As senhoras est„o sujas.
+As senhoras est√£o sujas.
 
 856
 01:07:58,900 --> 01:08:01,100
 <i>Vai-te embora.
-As senhoras est„o sujas.</i>
+As senhoras est√£o sujas.</i>
 
 857
 01:08:01,700 --> 01:08:03,900
@@ -3965,8 +3969,8 @@ Voltem todos para a garagem.
 
 858
 01:08:05,000 --> 01:08:09,000
-Ela vai ter o bebÈ agora?
-… melhor ir para o hospital.
+Ela vai ter o beb√© agora?
+√â melhor ir para o hospital.
 
 859
 01:08:09,700 --> 01:08:10,900
@@ -3974,13 +3978,13 @@ Alguma coisa o assustou.
 
 860
 01:08:11,200 --> 01:08:15,400
-A minha mulher vai ter o bebÈ.
-Nem sequer È o meu carro!
+A minha mulher vai ter o beb√©.
+Nem sequer √© o meu carro!
 
 861
 01:08:15,800 --> 01:08:19,400
-- O meu est· ali!
-- Est· a afastar-se do carro.
+- O meu est√° ali!
+- Est√° a afastar-se do carro.
 
 862
 01:08:23,000 --> 01:08:23,700
@@ -3997,7 +4001,7 @@ Perdemo-los.</i>
 
 865
 01:08:53,600 --> 01:08:55,500
-S„o horas de voltar
+S√£o horas de voltar
 a falar com o Fuzzy.
 
 866
@@ -4011,20 +4015,20 @@ uma mensagem ao receptor do carro.
 
 868
 01:09:03,500 --> 01:09:05,500
-Onde È que as arranjaste?
+Onde √© que as arranjaste?
 
 869
 01:09:05,900 --> 01:09:07,800
-S„o do assalto da semana passada.
+S√£o do assalto da semana passada.
 
 870
 01:09:15,700 --> 01:09:16,600
-Quem est· aÌ?
+Quem est√° a√≠?
 
 871
 01:09:24,800 --> 01:09:26,700
 - Que aconteceu?
-- Onde È que arranjaste isso?
+- Onde √© que arranjaste isso?
 
 872
 01:09:26,900 --> 01:09:28,000
@@ -4032,13 +4036,13 @@ Que se passa?
 
 873
 01:09:28,300 --> 01:09:31,900
-Os Mercedes est„o a ser
-vigiados. De onde È que veio isto?
+Os Mercedes est√£o a ser
+vigiados. De onde √© que veio isto?
 
 874
 01:09:32,100 --> 01:09:35,600
 Do meu tipo em Southland.
-Um tipo que eu j· usei antes.
+Um tipo que eu j√° usei antes.
 
 875
 01:09:36,100 --> 01:09:36,900
@@ -4061,40 +4065,40 @@ Faltam oito horas.
 879
 01:09:49,200 --> 01:09:52,300
 Vamos ficar por aqui
-e ter uma reuni„o?
+e ter uma reuni√£o?
 
 880
 01:09:55,100 --> 01:09:57,800
-Talvez devÍssemos levar
-estes mi˙dos para fora daqui.
+Talvez dev√™ssemos levar
+estes mi√∫dos para fora daqui.
 
 881
 01:09:58,100 --> 01:09:59,900
-Sabes uma coisa? Isso È...
+Sabes uma coisa? Isso √©...
 
 882
 01:10:01,300 --> 01:10:05,800
-Sem Mercedes, n„o vale
+Sem Mercedes, n√£o vale
 a pena roubar outros carros.
 
 883
 01:10:06,700 --> 01:10:09,100
-S„o 50 e n„o 47.
+S√£o 50 e n√£o 47.
 Foi o que ele disse.
 
 884
 01:10:11,100 --> 01:10:15,100
 Ainda temos as chaves
-dos Mercedes do ˙ltimo assalto.
+dos Mercedes do √∫ltimo assalto.
 
 885
 01:10:15,700 --> 01:10:19,500
-Esses carros est„o no depÛsito
-da polÌcia, ouviste?
+Esses carros est√£o no dep√≥sito
+da pol√≠cia, ouviste?
 
 886
 01:10:20,100 --> 01:10:23,400
-Queres ir l· e comeÁar
+Queres ir l√° e come√ßar
 a roubar carros?
 
 887
@@ -4103,36 +4107,36 @@ Quero.
 
 888
 01:10:25,100 --> 01:10:26,000
-S„o doidos ou quÍ?
+S√£o doidos ou qu√™?
 
 889
 01:10:26,100 --> 01:10:29,100
 - Vamos! As chaves?
-- N„o, Memphis.
+- N√£o, Memphis.
 
 890
 01:10:30,600 --> 01:10:32,500
-Eu n„o pareÁo suspeito,
-pois n„o?
+Eu n√£o pare√ßo suspeito,
+pois n√£o?
 
 891
 01:10:34,100 --> 01:10:36,000
-Otto, o teu c„o comeu as chaves.
+Otto, o teu c√£o comeu as chaves.
 
 892
 01:10:37,100 --> 01:10:40,400
-Ele costuma preferir matrÌculas.
+Ele costuma preferir matr√≠culas.
 Tens a certeza?
 
 893
 01:10:41,800 --> 01:10:43,700
-Espera aÌ!
-O c„o comeu as chaves?
+Espera a√≠!
+O c√£o comeu as chaves?
 
 894
 01:10:46,700 --> 01:10:49,300
-- Como È que vais recuper·-las?
-- N„o tem graÁa nenhuma!
+- Como √© que vais recuper√°-las?
+- N√£o tem gra√ßa nenhuma!
 
 895
 01:10:49,500 --> 01:10:51,000
@@ -4145,12 +4149,12 @@ Toby,
 897
 01:10:58,000 --> 01:11:01,900
 vai ver se arranjas
-comida para c„o e um laxante.
+comida para c√£o e um laxante.
 
 898
 01:11:02,400 --> 01:11:04,600
 - Nem pensar.
-- C„o mau!
+- C√£o mau!
 
 899
 01:11:05,600 --> 01:11:06,800
@@ -4162,12 +4166,12 @@ Abre a porta. Despacha-te!
 
 901
 01:11:27,300 --> 01:11:29,400
-- P·ra com isso, estrela de rock.
+- P√°ra com isso, estrela de rock.
 - Jesus Cristo!
 
 902
 01:11:31,200 --> 01:11:32,600
-Que fazemos nÛs aqui?
+Que fazemos n√≥s aqui?
 
 903
 01:11:34,500 --> 01:11:37,800
@@ -4176,12 +4180,12 @@ Agora, temos de ficar aqui
 
 904
 01:11:38,200 --> 01:11:40,000
-atÈ me dizeres tudo o que sabes.
+at√© me dizeres tudo o que sabes.
 
 905
 01:11:40,400 --> 01:11:44,500
-J· disse. Sei isso porque
-disse: "… tudo o que sei".
+J√° disse. Sei isso porque
+disse: "√â tudo o que sei".
 
 906
 01:11:45,000 --> 01:11:46,000
@@ -4189,7 +4193,7 @@ Detective Drycoff,
 
 907
 01:11:46,500 --> 01:11:49,200
-acha que o suspeito est· a violar
+acha que o suspeito est√° a violar
 a liberdade condicional?
 
 908
@@ -4198,13 +4202,13 @@ Sim, detective Castlebeck.
 
 909
 01:11:50,900 --> 01:11:54,700
-N„o est· a cooperar
+N√£o est√° a cooperar
 com o agente cumpridor da lei.
 
 910
 01:12:01,000 --> 01:12:03,700
-… um truque que aprendi
-no asilo dos ladrıes de carros.
+√â um truque que aprendi
+no asilo dos ladr√µes de carros.
 
 911
 01:12:05,100 --> 01:12:06,000
@@ -4212,8 +4216,8 @@ Podes segurar nisto?
 
 912
 01:12:07,100 --> 01:12:09,400
-N„o È que n„o esteja a cooperar.
-Eu sÛ...
+N√£o √© que n√£o esteja a cooperar.
+Eu s√≥...
 
 913
 01:12:10,700 --> 01:12:12,100
@@ -4221,7 +4225,7 @@ Pronto, pronto, pronto.
 
 914
 01:12:12,300 --> 01:12:16,000
-Diz-se por aÌ que o Kip Raines
+Diz-se por a√≠ que o Kip Raines
 ficou com o trabalho e fez merda.
 
 915
@@ -4230,7 +4234,7 @@ Fez muita merda.
 
 916
 01:12:18,500 --> 01:12:20,000
-Quem È que pediu o trabalho?
+Quem √© que pediu o trabalho?
 
 917
 01:12:23,700 --> 01:12:24,800
@@ -4243,41 +4247,41 @@ Muito bem...
 919
 01:12:42,800 --> 01:12:45,200
 <i>Temos seis horas.
-O teu c„o j· fez o serviÁo?</i>
+O teu c√£o j√° fez o servi√ßo?</i>
 
 920
 01:12:45,600 --> 01:12:47,300
 O Toby e o Fred
-andam a passe·-lo.
+andam a passe√°-lo.
 
 921
 01:12:48,600 --> 01:12:50,700
-Ele n„o vai fazer nada.
-N„o vai acontecer.
+Ele n√£o vai fazer nada.
+N√£o vai acontecer.
 
 922
 01:12:51,400 --> 01:12:53,600
-- V· l·, c„o.
+- V√° l√°, c√£o.
 - Que se passa, Hemi?
 
 923
 01:12:54,400 --> 01:12:55,500
-Caga, c„o.
+Caga, c√£o.
 
 924
 01:12:58,800 --> 01:13:00,100
 Tinha de ser o carro
-de uma mi˙da.
+de uma mi√∫da.
 
 925
 01:13:00,400 --> 01:13:03,000
-O carro de uma mi˙da? Que tipo
-de mi˙da guia um Hemicuda?
+O carro de uma mi√∫da? Que tipo
+de mi√∫da guia um Hemicuda?
 
 926
 01:13:03,900 --> 01:13:07,500
 - Eu mostro-te.
-- B‚ton?
+- B√¢ton?
 
 927
 01:13:08,800 --> 01:13:10,000
@@ -4286,7 +4290,7 @@ Condiz com o carro.
 928
 01:13:13,200 --> 01:13:15,200
 Que vem a seguir?
-Blush? RÌmel?
+Blush? R√≠mel?
 
 929
 01:13:15,500 --> 01:13:19,900
@@ -4304,17 +4308,17 @@ anos em South London
 
 932
 01:13:33,500 --> 01:13:36,000
-por homicÌdio involunt·rio.
+por homic√≠dio involunt√°rio.
 Emigrou em 98.
 
 933
 01:13:36,500 --> 01:13:39,400
 Olha para isto. Agiotagem,
-extors„o e receptaÁ„o.
+extors√£o e recepta√ß√£o.
 
 934
 01:13:40,500 --> 01:13:42,100
-A cobertura dele È um ferro-velho.
+A cobertura dele √© um ferro-velho.
 
 935
 01:13:59,900 --> 01:14:00,800
@@ -4322,21 +4326,21 @@ Vamos ter de esperar.
 
 936
 01:14:06,000 --> 01:14:08,800
-Ent„o, andas com alguÈm?
+Ent√£o, andas com algu√©m?
 
 937
 01:14:09,600 --> 01:14:10,200
-N„o.
+N√£o.
 
 938
 01:14:11,100 --> 01:14:14,200
 Uma vez tive uma namorada.
-Ela era fant·stica.
+Ela era fant√°stica.
 
 939
 01:14:15,400 --> 01:14:18,500
-Se era fant·stica,
-por que È que a deixaste?
+Se era fant√°stica,
+por que √© que a deixaste?
 
 940
 01:14:39,300 --> 01:14:41,300
@@ -4344,21 +4348,21 @@ Eu pedi-te para vires comigo.
 
 941
 01:14:43,100 --> 01:14:45,200
-N„o, pediste-me para ser
+N√£o, pediste-me para ser
 uma pessoa diferente.
 
 942
 01:14:47,500 --> 01:14:51,900
-N„o queria magoar pessoas.
-SÛ queria que abrandasses.
+N√£o queria magoar pessoas.
+S√≥ queria que abrandasses.
 
 943
 01:14:52,500 --> 01:14:53,600
-N„o podia.
+N√£o podia.
 
 944
 01:14:55,300 --> 01:14:56,500
-N„o estava preparada.
+N√£o estava preparada.
 
 945
 01:14:58,100 --> 01:14:59,200
@@ -4371,32 +4375,32 @@ deixou de ser a mesma coisa.
 
 947
 01:15:08,700 --> 01:15:11,900
-- Com licenÁa...
-- Eu estava a ler isso, palhaÁo.
+- Com licen√ßa...
+- Eu estava a ler isso, palha√ßo.
 
 948
 01:15:12,200 --> 01:15:13,100
-VÍ l· como falas.
+V√™ l√° como falas.
 
 949
 01:15:13,600 --> 01:15:16,200
-Isto È um ficheiro de homicÌdio
-de um caso de homicÌdio.
+Isto √© um ficheiro de homic√≠dio
+de um caso de homic√≠dio.
 
 950
 01:15:16,400 --> 01:15:18,900
-Levei trÍs meses a arranjar um juiz
+Levei tr√™s meses a arranjar um juiz
 que autorizasse uma escuta.
 
 951
 01:15:19,800 --> 01:15:21,800
-Nenhuma outra divis„o,
+Nenhuma outra divis√£o,
 incluindo a GRAB,
 
 952
 01:15:22,000 --> 01:15:25,300
 podem aproximar-se dele,
-em casa ou no negÛcio.
+em casa ou no neg√≥cio.
 
 953
 01:15:25,600 --> 01:15:27,600
@@ -4406,7 +4410,7 @@ Deixem que vos diga uma coisa.
 954
 01:15:27,900 --> 01:15:31,700
 O Raymond Calitri vai ser preso
-por homicÌdio em primeiro grau,
+por homic√≠dio em primeiro grau,
 
 955
 01:15:31,900 --> 01:15:35,500
@@ -4415,16 +4419,16 @@ de roubos de carros de luxo?
 
 956
 01:15:38,100 --> 01:15:39,200
-N„o consigo ver isto.
+N√£o consigo ver isto.
 
 957
 01:15:39,800 --> 01:15:42,300
-V· l·, v· l·. V„o para a cama.
+V√° l√°, v√° l√°. V√£o para a cama.
 Acabem com isso.
 
 958
 01:15:48,400 --> 01:15:50,300
-O que È que achas mais excitante?
+O que √© que achas mais excitante?
 Fazer sexo
 
 959
@@ -4443,7 +4447,7 @@ Essa foi boa.
 
 962
 01:16:14,100 --> 01:16:15,700
-N„o funciona com muitas raparigas.
+N√£o funciona com muitas raparigas.
 
 963
 01:16:16,600 --> 01:16:18,800
@@ -4451,12 +4455,12 @@ Saiu-me. Eu...
 
 964
 01:16:20,700 --> 01:16:22,500
-N„o respondeste ‡ pergunta.
+N√£o respondeste √† pergunta.
 
 965
 01:16:24,500 --> 01:16:28,500
-O problema È evitar
-a alavanca de mudanÁas.
+O problema √© evitar
+a alavanca de mudan√ßas.
 
 966
 01:16:30,300 --> 01:16:32,600
@@ -4465,12 +4469,12 @@ a alavanca de mudanÁas.
 
 967
 01:16:32,900 --> 01:16:36,800
-E tu n„o queres estragar
+E tu n√£o queres estragar
 nenhuma engrenagem.
 
 968
 01:16:39,800 --> 01:16:41,100
-O sistema de regulaÁ„o...
+O sistema de regula√ß√£o...
 
 969
 01:16:47,200 --> 01:16:48,900
@@ -4478,8 +4482,8 @@ O sistema de regulaÁ„o...
 
 970
 01:16:54,500 --> 01:16:57,500
-...o veio de excÍntricos...
-- P·ra, n„o consigo fazer isto.
+...o veio de exc√™ntricos...
+- P√°ra, n√£o consigo fazer isto.
 
 971
 01:16:57,900 --> 01:17:01,100
@@ -4489,54 +4493,54 @@ cilindro,
 972
 01:17:01,500 --> 01:17:06,300
 carburador Weber triplo, adaptado
-‡s estruturas corporais de cada um.
+√†s estruturas corporais de cada um.
 
 973
 01:17:10,500 --> 01:17:12,900
-- S„o horas de trabalhar.
-- Belos travıes.
+- S√£o horas de trabalhar.
+- Belos trav√µes.
 
 974
 01:17:14,900 --> 01:17:16,000
-Belos travıes.
+Belos trav√µes.
 
 975
 01:17:30,300 --> 01:17:33,500
-- N„o est· a acontecer nada.
-- Talvez tenha uma indigest„o.
+- N√£o est√° a acontecer nada.
+- Talvez tenha uma indigest√£o.
 
 976
 01:17:34,000 --> 01:17:37,100
-- D·-lhe mais laxante.
-- Ele j· tomou dois.
+- D√°-lhe mais laxante.
+- Ele j√° tomou dois.
 
 977
 01:17:37,500 --> 01:17:39,100
-Olha l·, homenzinho!
+Olha l√°, homenzinho!
 
 978
 01:17:41,300 --> 01:17:44,300
-J· te disse que isto È nosso.
+J√° te disse que isto √© nosso.
 Queres fazer alguma coisa?
 
 979
 01:17:44,900 --> 01:17:46,400
-N„o queremos o vosso bairro.
+N√£o queremos o vosso bairro.
 
 980
 01:17:46,900 --> 01:17:48,500
-N„o gostam do sÌtio
+N√£o gostam do s√≠tio
 onde vivemos?
 
 981
 01:17:48,700 --> 01:17:51,000
-N„o, È bem fixe para vocÍs,
-mas n„o serve para nÛs.
+N√£o, √© bem fixe para voc√™s,
+mas n√£o serve para n√≥s.
 
 982
 01:17:51,800 --> 01:17:55,500
-Acham-se melhor do que nÛs?
-Talvez devÍssemos cort·-los...
+Acham-se melhor do que n√≥s?
+Talvez dev√™ssemos cort√°-los...
 
 983
 01:17:57,500 --> 01:18:00,800
@@ -4555,16 +4559,16 @@ Porra!
 986
 01:18:08,800 --> 01:18:11,800
 Que tipo de pervertido se excita
-a mexer em merda de c„o?
+a mexer em merda de c√£o?
 
 987
 01:18:12,100 --> 01:18:15,800
-- Olha, meu! Tenho as trÍs!
-- VocÍs s„o marados!
+- Olha, meu! Tenho as tr√™s!
+- Voc√™s s√£o marados!
 
 988
 01:18:16,300 --> 01:18:17,100
-J· as tenho!
+J√° as tenho!
 
 989
 01:18:17,400 --> 01:18:21,500
@@ -4572,7 +4576,7 @@ Seis horas para o prazo final
 
 990
 01:18:21,800 --> 01:18:26,100
-Parque da PolÌcia
+Parque da Pol√≠cia
 
 991
 01:18:30,300 --> 01:18:32,100
@@ -4581,17 +4585,17 @@ Acorda, meu. Topa-me isto.
 992
 01:18:32,500 --> 01:18:35,600
 Sempre que trago o meu Volvo
-para Beverly Hills, È rebocado.
+para Beverly Hills, √© rebocado.
 
 993
 01:18:45,800 --> 01:18:50,500
-- N„o temos nenhum Volvo.
-- Claro que tÍm. Eles disseram-me.
+- N√£o temos nenhum Volvo.
+- Claro que t√™m. Eles disseram-me.
 
 994
 01:18:51,200 --> 01:18:53,700
-Estou a dizer-lhe que n„o
-h· aqui Volvo nenhum.
+Estou a dizer-lhe que n√£o
+h√° aqui Volvo nenhum.
 
 995
 01:19:00,300 --> 01:19:02,800
@@ -4604,15 +4608,15 @@ Sphinx... Sway...
 
 997
 01:19:06,100 --> 01:19:07,300
-Tem de estar algures por aÌ.
+Tem de estar algures por a√≠.
 
 998
 01:19:10,100 --> 01:19:12,100
-N„o est· aqui nada. Veja.
+N√£o est√° aqui nada. Veja.
 
 999
 01:19:12,800 --> 01:19:13,800
-H· mais um...
+H√° mais um...
 
 1000
 01:19:16,700 --> 01:19:20,000
@@ -4626,17 +4630,17 @@ de estar aqui.
 
 1002
 01:19:34,600 --> 01:19:36,100
-Tenho um an„o a mandar-me
+Tenho um an√£o a mandar-me
 um bip.
 
 1003
 01:19:36,200 --> 01:19:38,000
 Tenho de ir.
-Tempo È dinheiro.
+Tempo √© dinheiro.
 
 1004
 01:19:40,200 --> 01:19:42,300
-… o pior dia da minha vida!
+√â o pior dia da minha vida!
 
 1005
 01:19:47,700 --> 01:19:48,800
@@ -4644,21 +4648,21 @@ Tempo È dinheiro.
 
 1006
 01:19:49,000 --> 01:19:53,600
-Os vidros do armazÈm eram
-de uma l‚mpada de luz negra,
+Os vidros do armaz√©m eram
+de uma l√¢mpada de luz negra,
 
 1007
 01:19:54,000 --> 01:19:56,300
-<i>‡ venda em qualquer loja."</i>
+<i>√† venda em qualquer loja."</i>
 
 1008
 01:20:01,300 --> 01:20:03,900
-Mas que raio faz uma l‚mpada
+Mas que raio faz uma l√¢mpada
 de luz negra
 
 1009
 01:20:05,200 --> 01:20:06,700
-num armazÈm de Long Beach?
+num armaz√©m de Long Beach?
 
 1010
 01:20:12,100 --> 01:20:13,000
@@ -4666,7 +4670,7 @@ Venha comigo.
 
 1011
 01:20:21,000 --> 01:20:23,200
-- Est· a ver este vidro?
+- Est√° a ver este vidro?
 - Deixe-me adivinhar.
 
 1012
@@ -4686,7 +4690,7 @@ Lembra-se dos anos 70?
 1015
 01:20:31,300 --> 01:20:33,000
 Sou demasiado novo,
-graÁas a Deus.
+gra√ßas a Deus.
 
 1016
 01:20:33,200 --> 01:20:38,400
@@ -4695,17 +4699,17 @@ Havia uns marcadores,
 
 1017
 01:20:39,800 --> 01:20:41,400
-os marcadores m·gicos.
-SÛ se viam com luz negra.
+os marcadores m√°gicos.
+S√≥ se viam com luz negra.
 
 1018
 01:20:41,900 --> 01:20:44,500
-Se tivÈssemos muita informaÁ„o
+Se tiv√©ssemos muita informa√ß√£o
 
 1019
 01:20:44,700 --> 01:20:46,500
-que n„o quisÈssemos
-que ninguÈm soubesse...
+que n√£o quis√©ssemos
+que ningu√©m soubesse...
 
 1020
 01:20:46,900 --> 01:20:49,400
@@ -4722,15 +4726,15 @@ Eis a nossa lista.
 
 1023
 01:20:57,200 --> 01:20:58,600
-Isto È uma grande lista.
+Isto √© uma grande lista.
 
 1024
 01:20:59,300 --> 01:21:00,800
-N„o conseguimos tratar disto tudo.
+N√£o conseguimos tratar disto tudo.
 
 1025
 01:21:01,500 --> 01:21:04,800
-Talvez n„o seja preciso. Vamos
+Talvez n√£o seja preciso. Vamos
 concentrar-nos nos mais raros
 
 1026
@@ -4739,7 +4743,7 @@ e esperar ter alguma sorte.
 
 1027
 01:21:08,100 --> 01:21:09,200
-Ponha alguÈm nestes aqui.
+Ponha algu√©m nestes aqui.
 
 1028
 01:21:09,400 --> 01:21:12,700
@@ -4753,17 +4757,17 @@ na cidade.
 
 1030
 01:21:15,100 --> 01:21:17,000
-Como È que sabemos que ele
-ainda n„o o roubou?
+Como √© que sabemos que ele
+ainda n√£o o roubou?
 
 1031
 01:21:17,600 --> 01:21:20,000
-Se bem conheÁo o nosso rapaz,
-vai deix·-lo para o fim.
+Se bem conhe√ßo o nosso rapaz,
+vai deix√°-lo para o fim.
 
 1032
 01:21:20,500 --> 01:21:22,900
-- PorquÍ?
+- Porqu√™?
 - Porque tem medo dele.
 
 1033
@@ -4772,11 +4776,11 @@ vai deix·-lo para o fim.
 
 1034
 01:21:35,500 --> 01:21:36,400
-OiÁam l·!
+Oi√ßam l√°!
 
 1035
 01:21:39,400 --> 01:21:41,400
-Que est·s a fazer?
+Que est√°s a fazer?
 
 1036
 01:21:41,600 --> 01:21:44,200
@@ -4793,26 +4797,26 @@ Que se passa contigo? Anda!
 
 1039
 01:22:16,800 --> 01:22:19,000
-Chamem a seguranÁa!
-AlguÈm est· a roubar o carro!
+Chamem a seguran√ßa!
+Algu√©m est√° a roubar o carro!
 
 1040
 01:22:19,300 --> 01:22:21,600
-Vamos! Que est·s a fazer?
+Vamos! Que est√°s a fazer?
 
 1041
 01:22:22,400 --> 01:22:24,700
-Ia deixar-te para tr·s.
+Ia deixar-te para tr√°s.
 Que se passa contigo?
 
 1042
 01:22:37,200 --> 01:22:40,900
 Sphinx, olha. O Homeboy
-tem "Snake"escrito na matrÌcula.
+tem "Snake"escrito na matr√≠cula.
 
 1043
 01:22:41,300 --> 01:22:44,700
-O Snake amanh„ vai ter de pÙr
+O Snake amanh√£ vai ter de p√¥r
 o cu no autocarro.
 
 1044
@@ -4822,16 +4826,16 @@ Temos de procurar um carro.
 
 1045
 01:22:52,500 --> 01:22:53,400
-ForÁa!
+For√ßa!
 
 1046
 01:23:00,800 --> 01:23:03,000
-Topa-me isto! … m˙sica para carros
-de suspens„o rebaixada.
+Topa-me isto! √â m√∫sica para carros
+de suspens√£o rebaixada.
 
 1047
 01:23:03,300 --> 01:23:06,600
-… um bocado diferente da merda
+√â um bocado diferente da merda
 branca que tu tocas.
 
 1048
@@ -4853,7 +4857,7 @@ Cobra! Cobra!
 1052
 01:23:22,400 --> 01:23:32,700
 Tira-a de cima de mim!
-Est· a tentar matar-me!
+Est√° a tentar matar-me!
 
 1053
 01:23:35,000 --> 01:23:37,100
@@ -4861,22 +4865,22 @@ Tira-a de cima de mim!
 
 1054
 01:23:41,600 --> 01:23:43,000
-Que est·s a fazer?
+Que est√°s a fazer?
 Apanha a cobra!
 
 1055
 01:23:45,800 --> 01:23:48,300
-- Carrega no trav„o!
-- … o que estou a fazer.
+- Carrega no trav√£o!
+- √â o que estou a fazer.
 
 1056
 01:23:52,300 --> 01:23:53,700
-A cobra est· a subir-me
+A cobra est√° a subir-me
 pelo cu acima.
 
 1057
 01:23:54,100 --> 01:23:55,300
-Est· a subir-me pelo cu.
+Est√° a subir-me pelo cu.
 
 1058
 01:23:57,300 --> 01:23:58,900
@@ -4892,12 +4896,12 @@ Caramba, adoro este carro.
 
 1061
 01:24:30,100 --> 01:24:31,900
-Duas senhoras s„s e salvas
+Duas senhoras s√£s e salvas
 em casa.
 
 1062
 01:24:32,400 --> 01:24:33,500
-Ele est· a aconchegar a Vanessa
+Ele est√° a aconchegar a Vanessa
 
 1063
 01:24:33,800 --> 01:24:36,100
@@ -4906,7 +4910,7 @@ a dar uma volta.
 
 1064
 01:24:38,700 --> 01:24:40,700
-- Qual È a contagem?
+- Qual √© a contagem?
 - Quarenta e oito.
 
 1065
@@ -4922,41 +4926,41 @@ tiveram visitas inesperadas.
 1067
 01:24:47,600 --> 01:24:49,700
 - Tudo sob controlo?
-- Eles est„o bem.
+- Eles est√£o bem.
 
 1068
 01:24:49,900 --> 01:24:52,100
-Est„o em casa do Otto,
+Est√£o em casa do Otto,
 com o Donny e o Freb.
 
 1069
 01:24:52,900 --> 01:24:55,400
 - O Kip e o Tumbler?
-- Ainda n„o deram notÌcias.
+- Ainda n√£o deram not√≠cias.
 
 1070
 01:24:57,300 --> 01:24:59,400
 <i>Perdidos no inferno
-dos sub˙rbios. Onde estamos?</i>
+dos sub√∫rbios. Onde estamos?</i>
 
 1071
 01:24:59,600 --> 01:25:03,300
-- Est·s perdido?
-- Onde È a saÌda? … tudo igual.
+- Est√°s perdido?
+- Onde √© a sa√≠da? √â tudo igual.
 
 1072
 01:25:03,600 --> 01:25:05,000
-N„o sabes onde estamos?
+N√£o sabes onde estamos?
 
 1073
 01:25:05,300 --> 01:25:07,000
-- … um chui.
-- N„o, È um guarda contratado.
+- √â um chui.
+- N√£o, √© um guarda contratado.
 
 1074
 01:25:09,200 --> 01:25:11,300
 - Abranda.
-- Est· a fazer invers„o de marcha.
+- Est√° a fazer invers√£o de marcha.
 
 1075
 01:25:14,500 --> 01:25:15,900
@@ -4978,8 +4982,8 @@ Continua!
 
 1079
 01:25:37,800 --> 01:25:39,600
-- Isto n„o È bom, meu.
-- Filho da m„e!
+- Isto n√£o √© bom, meu.
+- Filho da m√£e!
 
 1080
 01:25:39,800 --> 01:25:41,900
@@ -4992,7 +4996,7 @@ Merda, meu! Merda!
 
 1082
 01:25:46,200 --> 01:25:49,000
-- N„o me toques!
+- N√£o me toques!
 - Vai ao hospital.
 
 1083
@@ -5006,13 +5010,13 @@ Pensa. Estamos num carro roubado.
 
 1085
 01:25:57,800 --> 01:26:00,000
-- N„o estou a gostar disto.
+- N√£o estou a gostar disto.
 - Vais ficar bem.
 
 1086
 01:26:05,400 --> 01:26:07,800
 - Que aconteceu?
-- Apanh·mos um seguranÁa.
+- Apanh√°mos um seguran√ßa.
 
 1087
 01:26:08,500 --> 01:26:09,800
@@ -5020,21 +5024,21 @@ Ele escondeu-se na carrinha.
 
 1088
 01:26:10,000 --> 01:26:13,300
-Vou arranjar-te um mÈdico
+Vou arranjar-te um m√©dico
 particular. Ponham-no no carro.
 
 1089
 01:26:17,200 --> 01:26:19,600
-Deita-te atr·s. Deita-te l· atr·s.
+Deita-te atr√°s. Deita-te l√° atr√°s.
 
 1090
 01:26:21,000 --> 01:26:23,500
-Tumbler tu e o Kip levam a ˙ltima
+Tumbler tu e o Kip levam a √∫ltima
 carrinha para casa do Otto.
 
 1091
 01:26:28,100 --> 01:26:31,300
-- Que est·s a fazer?
+- Que est√°s a fazer?
 - Vou com ele.
 
 1092
@@ -5070,7 +5074,7 @@ Que se passa?
 
 1099
 01:27:08,700 --> 01:27:13,100
-O ˙nico Shelby de 67 est·
+O √∫nico Shelby de 67 est√°
 nas Torres Internacionais,
 
 1100
@@ -5080,13 +5084,13 @@ em Long Beach.
 
 1101
 01:27:49,900 --> 01:27:51,700
-Eu sei que temos uma histÛria
+Eu sei que temos uma hist√≥ria
 em comum, Eleanor,
 
 1102
 01:27:52,700 --> 01:27:55,000
-e que essa histÛria n„o
-È fant·stica.
+e que essa hist√≥ria n√£o
+√© fant√°stica.
 
 1103
 01:27:55,500 --> 01:27:58,400
@@ -5103,23 +5107,23 @@ Merda!
 
 1106
 01:28:28,400 --> 01:28:30,600
-Queres da maneira f·cil
-ou difÌcil, Raines?
+Queres da maneira f√°cil
+ou dif√≠cil, Raines?
 
 1107
 01:28:43,500 --> 01:28:44,900
 Acho que ele escolheu
-a maneira difÌcil.
+a maneira dif√≠cil.
 
 1108
 01:29:00,900 --> 01:29:04,400
-1 Baker 11 em perseguiÁ„o
+1 Baker 11 em persegui√ß√£o
 de um Ford Mustang de 67, cinzento.
 
 1109
 01:29:10,900 --> 01:29:13,800
-<i>- Aquele letreiro dizia "N„o Entrar".
-- TambÈm reparaste nisso?</i>
+<i>- Aquele letreiro dizia "N√£o Entrar".
+- Tamb√©m reparaste nisso?</i>
 
 1110
 01:29:14,200 --> 01:29:15,400
@@ -5137,7 +5141,7 @@ Saiam da frente! Avancem!
 
 1113
 01:30:01,100 --> 01:30:02,100
-Saiam daÌ!
+Saiam da√≠!
 
 1114
 01:30:07,100 --> 01:30:08,100
@@ -5145,11 +5149,11 @@ Queres brincar comigo?
 
 1115
 01:30:11,600 --> 01:30:12,500
-ForÁa, rapaz!
+For√ßa, rapaz!
 
 1116
 01:31:22,500 --> 01:31:25,300
-1 Baker 11, unidade trÍs
+1 Baker 11, unidade tr√™s
 envolvida num acidente
 
 1117
@@ -5159,26 +5163,26 @@ e a Rua Sete.
 
 1118
 01:32:02,200 --> 01:32:05,300
-<i>A perseguiÁ„o entrou no controlo
-de ·gua adjacente ‡ estrada.</i>
+<i>A persegui√ß√£o entrou no controlo
+de √°gua adjacente √† estrada.</i>
 
 1119
 01:32:05,800 --> 01:32:08,500
-- Onde est· a unidade aÈrea?
-- Solicito unidade aÈrea.
+- Onde est√° a unidade a√©rea?
+- Solicito unidade a√©rea.
 
 1120
 01:32:11,200 --> 01:32:12,600
-<i>Air One vai em perseguiÁ„o.</i>
+<i>Air One vai em persegui√ß√£o.</i>
 
 1121
 01:32:13,900 --> 01:32:16,500
-<i>Suspeito em direcÁ„o a sul
+<i>Suspeito em direc√ß√£o a sul
 a 140 km/h.</i>
 
 1122
 01:32:20,800 --> 01:32:22,800
-<i>Unidades terrestres ficaram para tr·s.
+<i>Unidades terrestres ficaram para tr√°s.
 - Sigo-o a 170 km/h.</i>
 
 1123
@@ -5189,11 +5193,11 @@ a velocidade para 220 km/h.</i>
 1124
 01:32:36,000 --> 01:32:39,000
 <i>- 240 km/h.
-- N„o o percam!</i>
+- N√£o o percam!</i>
 
 1125
 01:32:41,700 --> 01:32:43,100
-250! Estou a perdÍ-lo.
+250! Estou a perd√™-lo.
 
 1126
 01:32:44,700 --> 01:32:45,600
@@ -5206,12 +5210,12 @@ a velocidade para 220 km/h.</i>
 
 1128
 01:32:48,500 --> 01:32:50,700
-- O quÍ?
+- O qu√™?
 - Deve ser por causa do carro.
 
 1129
 01:32:54,300 --> 01:32:55,600
-Que horas s„o?
+Que horas s√£o?
 
 1130
 01:32:58,400 --> 01:32:59,300
@@ -5219,50 +5223,50 @@ Sete e meia.
 
 1131
 01:33:03,500 --> 01:33:06,300
-Acho que vou ter de pÙr-te
+Acho que vou ter de p√¥r-te
 fora da cidade.
 
 1132
 01:33:07,400 --> 01:33:08,900
-O teu irm„o È o melhor ladr„o
+O teu irm√£o √© o melhor ladr√£o
 do mundo,
 
 1133
 01:33:09,200 --> 01:33:11,400
-mas È capaz de n„o conseguir esta.
+mas √© capaz de n√£o conseguir esta.
 
 1134
 01:33:14,600 --> 01:33:18,200
-Eu n„o sou como o meu irm„o.
-N„o abandono os meus amigos.
+Eu n√£o sou como o meu irm√£o.
+N√£o abandono os meus amigos.
 
 1135
 01:33:19,100 --> 01:33:21,300
 Eu devia era dar-te uma sova,
-parvalh„o.
+parvalh√£o.
 
 1136
 01:33:24,800 --> 01:33:28,400
-Achas que o teu irm„o fugiu?
-… bom que saibas o que aconteceu.
+Achas que o teu irm√£o fugiu?
+√â bom que saibas o que aconteceu.
 
 1137
 01:33:32,100 --> 01:33:33,900
-Ent„o diz l·!
+Ent√£o diz l√°!
 
 1138
 01:33:35,700 --> 01:33:37,400
-A tua m„e disse-lhe
+A tua m√£e disse-lhe
 para partir.
 
 1139
 01:33:38,300 --> 01:33:42,200
 Ela sabia que, se o Memphis
-ficasse, tu ias copi·-lo
+ficasse, tu ias copi√°-lo
 
 1140
 01:33:42,500 --> 01:33:46,300
-e juntar-te ‡ equipa dele.
+e juntar-te √† equipa dele.
 Ela disse-lhe para se ir embora.
 
 1141
@@ -5277,21 +5281,21 @@ por tua causa.
 
 1143
 01:33:56,500 --> 01:33:58,500
-Mas isso n„o È importante.
+Mas isso n√£o √© importante.
 
 1144
 01:33:58,700 --> 01:34:02,000
-N„o foi um grande sacrifÌcio,
+N√£o foi um grande sacrif√≠cio,
 deixar tudo o que conhecia.
 
 1145
 01:34:03,500 --> 01:34:05,600
 Depois, seis anos mais tarde...
-A vida È fant·stica!
+A vida √© fant√°stica!
 
 1146
 01:34:05,800 --> 01:34:07,700
-Tu tornaste-te um ladr„o
+Tu tornaste-te um ladr√£o
 de carros na mesma.
 
 1147
@@ -5301,7 +5305,7 @@ de carros na mesma.
 
 1148
 01:34:12,100 --> 01:34:13,400
-Est· a dormir. Vai ficar bom.
+Est√° a dormir. Vai ficar bom.
 
 1149
 01:34:18,700 --> 01:34:22,000
@@ -5309,22 +5313,22 @@ Est· a dormir. Vai ficar bom.
 
 1150
 01:34:43,600 --> 01:34:46,000
-… sÛ um arranh„o, Eleanor.
+√â s√≥ um arranh√£o, Eleanor.
 Pode arranjar-se.
 
 1151
 01:34:48,600 --> 01:34:52,000
-N„o, n„o. N„o faÁas isso.
-N„o brinques comigo.
+N√£o, n√£o. N√£o fa√ßas isso.
+N√£o brinques comigo.
 
 1152
 01:34:52,400 --> 01:34:53,700
-N„o, n„o... arranca...
+N√£o, n√£o... arranca...
 
 1153
 01:34:53,800 --> 01:34:56,500
-Arranca, v· l·...
-V· l·...
+Arranca, v√° l√°...
+V√° l√°...
 
 1154
 01:34:59,900 --> 01:35:03,300
@@ -5342,12 +5346,12 @@ dirige-se para sul,</i>
 
 1157
 01:35:15,200 --> 01:35:17,300
-Vamos encontr·-lo
+Vamos encontr√°-lo
 na Avenida do Oceano.
 
 1158
 01:35:19,500 --> 01:35:21,300
-Ali est· ele! Ali est· ele!
+Ali est√° ele! Ali est√° ele!
 
 1159
 01:35:21,700 --> 01:35:24,400
@@ -5365,16 +5369,16 @@ dirige-se para oeste.</i>
 
 1162
 01:36:12,800 --> 01:36:14,400
-<i>Vou para Este para intercept·-lo.</i>
+<i>Vou para Este para intercept√°-lo.</i>
 
 1163
 01:36:20,400 --> 01:36:22,400
 <i>1 Baker 11,
-mantenha a direcÁ„o.</i>
+mantenha a direc√ß√£o.</i>
 
 1164
 01:36:39,400 --> 01:36:41,900
-<i>1 Baker 11, est· a virar,
+<i>1 Baker 11, est√° a virar,
 no final do molhe.</i>
 
 1165
@@ -5383,16 +5387,16 @@ Merda!
 
 1166
 01:37:47,400 --> 01:37:48,500
-Ele est· bem?
+Ele est√° bem?
 
 1167
 01:37:50,500 --> 01:37:51,900
-Que tal vai isso? Est·s bem?
+Que tal vai isso? Est√°s bem?
 
 1168
 01:37:52,100 --> 01:37:54,100
-Encosta-te para tr·s.
-Est·s bem?
+Encosta-te para tr√°s.
+Est√°s bem?
 
 1169
 01:37:54,400 --> 01:37:57,100
@@ -5405,18 +5409,18 @@ de atravessar uma parede.
 
 1171
 01:38:01,200 --> 01:38:03,800
-<i>peÁo permiss„o para
-atravessar espaÁo aÈreo.</i>
+<i>pe√ßo permiss√£o para
+atravessar espa√ßo a√©reo.</i>
 
 1172
 01:38:05,600 --> 01:38:08,700
 <i>Negativo. Aproxima-se
-avi„o. Mantenha a posiÁ„o.</i>
+avi√£o. Mantenha a posi√ß√£o.</i>
 
 1173
 01:38:10,600 --> 01:38:13,200
-<i>Repito, n„o entre
-no espaÁo aÈreo do aeroporto.</i>
+<i>Repito, n√£o entre
+no espa√ßo a√©reo do aeroporto.</i>
 
 1174
 01:38:23,600 --> 01:38:27,300
@@ -5424,7 +5428,7 @@ no espaÁo aÈreo do aeroporto.</i>
 
 1175
 01:39:05,600 --> 01:39:06,700
-Ali est· ele! Ali est· ele!
+Ali est√° ele! Ali est√° ele!
 
 1176
 01:39:13,500 --> 01:39:14,500
@@ -5436,17 +5440,17 @@ Raines!
 
 1178
 01:40:08,200 --> 01:40:09,900
-- Onde est· o Memphis?
-- N„o sei.
+- Onde est√° o Memphis?
+- N√£o sei.
 
 1179
 01:40:10,900 --> 01:40:12,000
-Ainda n„o voltou.
+Ainda n√£o voltou.
 
 1180
 01:40:12,900 --> 01:40:15,000
 Que queres dizer com isso?
-S„o oito horas.
+S√£o oito horas.
 
 1181
 01:40:21,100 --> 01:40:23,000
@@ -5455,20 +5459,20 @@ S„o oito horas.
 1182
 01:40:23,400 --> 01:40:27,300
 Tenho 49 carros. Falta um.
-Traz o mi˙do. Vamos resolver isto.
+Traz o mi√∫do. Vamos resolver isto.
 
 1183
 01:40:27,600 --> 01:40:28,400
-Que mi˙do È esse?
+Que mi√∫do √© esse?
 
 1184
 01:40:28,800 --> 01:40:31,400
-… o mi˙do de Cincinnati,
+√â o mi√∫do de Cincinnati,
 Billy The Kid.
 
 1185
 01:40:31,700 --> 01:40:32,700
-Que mi˙do È que achas que È?
+Que mi√∫do √© que achas que √©?
 
 1186
 01:40:32,900 --> 01:40:35,300
@@ -5477,23 +5481,23 @@ do Kip Raines.
 
 1187
 01:40:35,600 --> 01:40:39,000
-<i>- Acho que tens raz„o.
-- … curioso...</i>
+<i>- Acho que tens raz√£o.
+- √â curioso...</i>
 
 1188
 01:40:39,500 --> 01:40:42,400
-N„o consigo encontr·-lo.
-O filho da m„e fugiu-me.
+N√£o consigo encontr√°-lo.
+O filho da m√£e fugiu-me.
 
 1189
 01:40:42,800 --> 01:40:45,600
 - Encontra-o, Atley.
-- E se eu n„o conseguir?
+- E se eu n√£o conseguir?
 
 1190
 01:40:45,900 --> 01:40:48,700
-Ent„o o irm„ozinho È castigado.
-N„o quero saber.
+Ent√£o o irm√£ozinho √© castigado.
+N√£o quero saber.
 
 1191
 01:40:49,100 --> 01:40:52,600
@@ -5512,12 +5516,12 @@ de meter-se debaixo da guilhotina.
 1194
 01:41:12,600 --> 01:41:14,500
 Desculpa, amigo.
-NÛs j· acab·mos.
+N√≥s j√° acab√°mos.
 
 1195
 01:41:14,800 --> 01:41:17,100
-N„o acab·mos nada.
-Este È o n˙mero 50.
+N√£o acab√°mos nada.
+Este √© o n√∫mero 50.
 
 1196
 01:41:17,300 --> 01:41:21,900
@@ -5526,12 +5530,12 @@ algum problema, fala com o Calitri.
 
 1197
 01:41:40,900 --> 01:41:41,800
-Est·s atrasado.
+Est√°s atrasado.
 
 1198
 01:41:43,300 --> 01:41:46,100
 Vais discutir comigo
-nos prÛximos doze minutos?
+nos pr√≥ximos doze minutos?
 
 1199
 01:41:47,000 --> 01:41:49,300
@@ -5545,18 +5549,18 @@ um bocado excitado
 
 1201
 01:41:51,700 --> 01:41:55,100
-e acho que mereÁo
-alguma consideraÁ„o!
+e acho que mere√ßo
+alguma considera√ß√£o!
 
 1202
 01:41:55,800 --> 01:41:57,900
 Eu disse 50 carros
-e n„o 49 e meio.
+e n√£o 49 e meio.
 
 1203
 01:41:58,300 --> 01:42:01,100
 Quarenta e nove e meio?
-N„o est· assim t„o mau.
+N√£o est√° assim t√£o mau.
 
 1204
 01:42:01,400 --> 01:42:03,300
@@ -5568,7 +5572,7 @@ e de fibra de vidro. Sim, de facto.
 
 1206
 01:42:08,100 --> 01:42:11,600
-O valor do carro s„o 60, 70...
+O valor do carro s√£o 60, 70...
 Digamos 80 mil...
 
 1207
@@ -5587,12 +5591,12 @@ Feito.
 
 1210
 01:42:23,000 --> 01:42:25,300
-”ptimo. E a histÛria
-com o meu irm„o est· acabada.
+√ìptimo. E a hist√≥ria
+com o meu irm√£o est√° acabada.
 
 1211
 01:42:26,000 --> 01:42:26,900
-Est· acabada.
+Est√° acabada.
 
 1212
 01:42:28,300 --> 01:42:29,700
@@ -5604,13 +5608,13 @@ Arrumada. Terminada.
 
 1214
 01:42:40,700 --> 01:42:44,000
-NinguÈm me insulta. NinguÈm
-me encosta uma arma ‡ cabeÁa.
+Ningu√©m me insulta. Ningu√©m
+me encosta uma arma √† cabe√ßa.
 
 1215
 01:42:46,800 --> 01:42:49,100
 Matem-no.
-DesfaÁam o carro.
+Desfa√ßam o carro.
 
 1216
 01:42:58,900 --> 01:42:59,700
@@ -5618,22 +5622,22 @@ Muito bem...
 
 1217
 01:43:01,400 --> 01:43:06,100
-- Onde est· o Calitri?
-- Na Exeter Salvage. Vamos l·?
+- Onde est√° o Calitri?
+- Na Exeter Salvage. Vamos l√°?
 
 1218
 01:43:06,500 --> 01:43:08,700
-Os HomicÌdios disseram-nos
-especificamente para n„o...
+Os Homic√≠dios disseram-nos
+especificamente para n√£o...
 
 1219
 01:43:08,900 --> 01:43:10,900
-Que se lixem os HomicÌdios!
+Que se lixem os Homic√≠dios!
 
 1220
 01:43:27,300 --> 01:43:29,400
-- UnicÛrnio.
-- O quÍ?
+- Unic√≥rnio.
+- O qu√™?
 
 1221
 01:43:30,500 --> 01:43:31,200
@@ -5641,11 +5645,11 @@ Nada.
 
 1222
 01:43:36,300 --> 01:43:37,600
-Onde È que queres?
+Onde √© que queres?
 
 1223
 01:43:39,100 --> 01:43:41,300
-Na cabeÁa ou no peito?
+Na cabe√ßa ou no peito?
 
 1224
 01:43:41,900 --> 01:43:44,200
@@ -5655,21 +5659,21 @@ Na cabeÁa ou no peito?
 1225
 01:43:45,600 --> 01:43:48,200
 Esperem!
-Grande mudanÁa de planos!
+Grande mudan√ßa de planos!
 
 1226
 01:43:48,600 --> 01:43:52,100
 - Foste longe de mais, Atley!
-- Que est·s a fazer? N„o!
+- Que est√°s a fazer? N√£o!
 
 1227
 01:43:52,600 --> 01:43:53,500
-P·ra aÌ!
+P√°ra a√≠!
 
 1228
 01:43:54,600 --> 01:43:57,300
-N„o, o Calitri mandou-me
-vir c· fazer uma pergunta.
+N√£o, o Calitri mandou-me
+vir c√° fazer uma pergunta.
 
 1229
 01:44:08,000 --> 01:44:11,300
@@ -5679,12 +5683,12 @@ vir c· fazer uma pergunta.
 1230
 01:44:18,000 --> 01:44:20,600
 Cometeste um erro ao escolher
-um mi˙do para o teu trabalho sujo.
+um mi√∫do para o teu trabalho sujo.
 
 1231
 01:44:21,900 --> 01:44:24,500
 Cometeste um erro ainda maior
-ao escolher o meu irm„o.
+ao escolher o meu irm√£o.
 
 1232
 01:44:24,700 --> 01:44:28,200
@@ -5703,15 +5707,15 @@ de madeiras.
 
 1235
 01:44:38,300 --> 01:44:41,100
-Larga isso. N„o!
+Larga isso. N√£o!
 
 1236
 01:44:42,600 --> 01:44:44,000
-N„o... N„o!
+N√£o... N√£o!
 
 1237
 01:44:45,100 --> 01:44:45,800
-N„o!
+N√£o!
 
 1238
 01:45:30,700 --> 01:45:31,600
@@ -5719,37 +5723,37 @@ Eu estou pronto.
 
 1239
 01:46:46,000 --> 01:46:48,100
-- Quem Ès tu?
-- Sou polÌcia.
+- Quem √©s tu?
+- Sou pol√≠cia.
 
 1240
 01:46:49,200 --> 01:46:51,000
-- Tu n„o queres fazer isso.
+- Tu n√£o queres fazer isso.
 - Claro que quero.
 
 1241
 01:46:51,200 --> 01:46:54,300
-Olha, se saÌres daqui comigo,
-tens mais opÁıes.
+Olha, se sa√≠res daqui comigo,
+tens mais op√ß√µes.
 
 1242
 01:46:55,000 --> 01:46:57,500
-Pensa bem no que ser·
-se me matares. Eu sou polÌcia.
+Pensa bem no que ser√°
+se me matares. Eu sou pol√≠cia.
 
 1243
 01:46:57,900 --> 01:46:59,500
-A tua vida estar· acabada.
+A tua vida estar√° acabada.
 
 1244
 01:46:59,900 --> 01:47:02,900
-Est·s a ver mal a coisa. Se eu
-te matar, a tua vida est· acabada.
+Est√°s a ver mal a coisa. Se eu
+te matar, a tua vida est√° acabada.
 
 1245
 01:47:03,600 --> 01:47:05,800
-N„o ser· tudo mau.
-O funeral passar· na televis„o.
+N√£o ser√° tudo mau.
+O funeral passar√° na televis√£o.
 
 1246
 01:47:06,100 --> 01:47:10,400
@@ -5758,7 +5762,7 @@ empinocados. Salva de 21 tiros.
 
 1247
 01:47:10,700 --> 01:47:14,900
-Bandeira dobra por cima do caix„o.
+Bandeira dobra por cima do caix√£o.
 O maior dia da tua vida.
 
 1248
@@ -5767,7 +5771,7 @@ Agora tenho um dilema moral.
 
 1249
 01:47:49,900 --> 01:47:54,000
-Tu destruÌste a cidade na tua fuga.
+Tu destru√≠ste a cidade na tua fuga.
 Tu e a Eleanor.
 
 1250
@@ -5777,16 +5781,16 @@ o que te trouxe de volta.
 
 1251
 01:47:58,600 --> 01:48:02,200
-Amor de irm„o È amor de irm„o.
+Amor de irm√£o √© amor de irm√£o.
 
 1252
 01:48:05,300 --> 01:48:06,700
-Salvaste-me a vida, n„o foi?
+Salvaste-me a vida, n√£o foi?
 
 1253
 01:48:08,300 --> 01:48:11,800
 - Que vou eu fazer?
-- A decis„o È sua, detective.
+- A decis√£o √© sua, detective.
 
 1254
 01:48:14,700 --> 01:48:15,700
@@ -5803,22 +5807,22 @@ que eu mude de ideias.
 
 1257
 01:48:28,500 --> 01:48:31,700
-H· um navio de contentores
+H√° um navio de contentores
 no cais 14.
 
 1258
 01:48:32,100 --> 01:48:33,400
-Pode ir l· investig·-lo.
+Pode ir l√° investig√°-lo.
 
 1259
 01:48:45,900 --> 01:48:47,600
-Ser· que um cozinheiro bem
+Ser√° que um cozinheiro bem
 parecido e trabalhador
 
 1260
 01:48:47,700 --> 01:48:49,900
 pode beber uma cerveja?
-- Tumbler, tu n„o est·s ocupado.
+- Tumbler, tu n√£o est√°s ocupado.
 
 1261
 01:48:50,200 --> 01:48:51,200
@@ -5839,7 +5843,7 @@ Parece estar a sofrer muito.
 
 1265
 01:49:06,300 --> 01:49:08,200
-Se aquilo È dor, podes
+Se aquilo √© dor, podes
 alvejar-me quando quiseres.
 
 1266
@@ -5862,17 +5866,17 @@ e te inspirou a mudar,
 
 1270
 01:49:23,500 --> 01:49:27,700
-ent„o essas feridas possuem uma
-inerente nobreza e suprema glÛria.
+ent√£o essas feridas possuem uma
+inerente nobreza e suprema gl√≥ria.
 
 1271
 01:49:28,700 --> 01:49:32,100
-<i>DevÌamos ser todos t„o afortunados.
+<i>Dev√≠amos ser todos t√£o afortunados.
 Tu dizes: "Pobre Toby",</i>
 
 1272
 01:49:34,100 --> 01:49:35,400
-<i>eu digo: "Pobres de nÛs".</i>
+<i>eu digo: "Pobres de n√≥s".</i>
 
 1273
 01:49:38,100 --> 01:49:38,800
@@ -5889,7 +5893,7 @@ Memphis...
 1276
 01:49:50,700 --> 01:49:52,500
 - Tenho uma coisa para ti.
-- O que È?
+- O que √©?
 
 1277
 01:49:52,900 --> 01:49:53,700
@@ -5897,12 +5901,12 @@ Abre.
 
 1278
 01:49:55,800 --> 01:49:59,300
-Chaves. As chaves s„o boas.
-Que faÁo com elas?
+Chaves. As chaves s√£o boas.
+Que fa√ßo com elas?
 
 1279
 01:50:00,100 --> 01:50:03,300
-OiÁam todos! Vamos entrar!
+Oi√ßam todos! Vamos entrar!
 Vamos!
 
 1280
@@ -5911,16 +5915,16 @@ Senhoras e senhores,
 
 1281
 01:50:08,300 --> 01:50:11,800
-È um prazer apresentar-vos...
+√© um prazer apresentar-vos...
 
 1282
 01:50:13,200 --> 01:50:14,700
 - Caramba!
-- A tua prÛpria Eleanor.
+- A tua pr√≥pria Eleanor.
 
 1283
 01:50:16,200 --> 01:50:18,000
-… a Eleanor.
+√â a Eleanor.
 
 1284
 01:50:19,700 --> 01:50:20,500
@@ -5928,7 +5932,7 @@ Toda tua.
 
 1285
 01:50:22,600 --> 01:50:24,200
-Est· velho, mas dÍem-me
+Est√° velho, mas d√™em-me
 umas semanas.
 
 1286
@@ -5938,12 +5942,12 @@ numa linda borboleta.
 
 1287
 01:50:31,400 --> 01:50:32,300
-Tu n„o?
+Tu n√£o?
 
 1288
 01:50:34,200 --> 01:50:36,400
-N„o, n„o.
-Vendi a mota por peÁas.
+N√£o, n√£o.
+Vendi a mota por pe√ßas.
 
 1289
 01:50:37,600 --> 01:50:38,800
@@ -5955,12 +5959,12 @@ Tu compraste-me um carro.
 
 1291
 01:50:42,500 --> 01:50:47,700
-… sÛ um sinal da minha gratid„o
+√â s√≥ um sinal da minha gratid√£o
 por tudo.
 
 1292
 01:50:53,700 --> 01:50:55,800
-… assim que deve ser.
+√â assim que deve ser.
 
 1293
 01:51:00,300 --> 01:51:02,200
@@ -5969,11 +5973,11 @@ Entra e vai dar uma volta.
 1294
 01:51:02,800 --> 01:51:06,400
 Eu sei o que tu fizeste.
-AgradeÁo-te.
+Agrade√ßo-te.
 
 1295
 01:51:07,600 --> 01:51:08,700
-AtÈ mais tarde.
+At√© mais tarde.
 
 1296
 01:51:21,100 --> 01:51:23,200
@@ -5982,5 +5986,5 @@ AtÈ mais tarde.
 
 1297
 01:51:46,500 --> 01:51:47,700
-N„o me faÁas isso...
+N√£o me fa√ßas isso...
 
