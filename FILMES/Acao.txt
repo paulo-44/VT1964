@@ -1,7 +1,7 @@
 <item>
 <title>[B][COLOR lime]●[/COLOR][COLOR white] Gone in 60 Seconds[/COLOR][/B]</title>
 <link>plugin://plugin.video.torrest/play_magnet?magnet:?xt=urn:btih:3a4cd735ab0208d8581b2cb63ba761b4909af763&dn
-<subtitle>https://raw.githubusercontent.com/paulo-44/VT1964/main/LEGENDAS/The.Mask.Of.Zorro.1998.srt</subtitle>
+<subtitle>https://raw.githubusercontent.com/paulo-44/VT1964/main/LEGENDAS/Gone.in.Sixty.Seconds.2000.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/qo5Ifam64rDlp4oprXGhK5X0qIs.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/4GsvnaGqBGA78ccZusXvCH7zzun.jpg</fanart>
 <genre>Ação, Crime, Thriller</genre>
