@@ -28,7 +28,7 @@
 <duration>6840</duration>
 <info>Em 2035, é comum robôs serem usados como empregados e assistentes dos humanos. Para manter a ordem , esses robôs possuem um código de programação que impede a violência contra humanos, a Lei dos Robóticos.
 [COLOR lime]Release:[/COLOR] 2004
-[COLOR lime]Quality:[/COLOR] BRRIP
+[COLOR lime]Quality:[/COLOR] BRRIP /1080P
 </info>
 </item>
 ===============================================================================================
