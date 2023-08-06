@@ -1,16 +1,16 @@
 <item>
-<title>[B][COLOR lime]●[/COLOR][COLOR white] Insidious: The Red Door11111[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://dropload.io/e/0d37tdqd9nvp</link>
-<subtitle>https://raw.githubusercontent.com/paulo-44/VT1964/main/LEGENDAS/Insidious.The.Red.Door.2023.srt</subtitle>
-<thumbnail>https://www.themoviedb.org/t/p/original/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/i2GVEvltEu3BXn5crBSxgKuTaca.jpg</fanart>
-<genre>Terror, Mistério, Thriller</genre>
-<year>2023</year>
-<aired>06/07/2023</aired> 
-<duration>6420</duration>
-<info>Josh Lambert viaja para o leste para deixar o seu filho Dalton na faculdade. No entanto, o sonho de Dalton se torna um pesadelo quando os demônios reprimidos do seu passado retornam para assombrá-lo.
-[COLOR lime]Release:[/COLOR] 2023
-[COLOR lime]Quality:[/COLOR] WEBRIP
+<title>[B][COLOR lime]●[/COLOR][COLOR white] Gone in 60 Seconds[/COLOR][/B]</title>
+<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:3a4cd735ab0208d8581b2cb63ba761b4909af763&dn</link>
+<subtitle>https://raw.githubusercontent.com/paulo-44/VT1964/main/LEGENDAS/Gone.in.Sixty.Seconds.2000.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/qo5Ifam64rDlp4oprXGhK5X0qIs.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4GsvnaGqBGA78ccZusXvCH7zzun.jpg</fanart>
+<genre>Ação, Crime, Thriller</genre>
+<year>2000</year>
+<aired>25/00/2000</aired> 
+<duration>9600</duration>
+<info>Randall "Memphis" Raines é um famoso ladrão de carros "reformado" e regenerado. Porém, ele vai ser forçado a roubar uma última vez quando o irmão mais novo se envolve no mundo do crime e é ameaçado de morte.
+[COLOR lime]Release:[/COLOR] 2000
+[COLOR lime]Quality:[/COLOR] BRRIP /1080P
 </info>
 </item>
 ===============================================================================================
