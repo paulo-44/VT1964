@@ -6,7 +6,7 @@
 <fanart>https://www.themoviedb.org/t/p/original/4GsvnaGqBGA78ccZusXvCH7zzun.jpg</fanart>
 <genre>Ação, Crime, Thriller</genre>
 <year>2000</year>
-<aired>25/00/2000</aired> 
+<aired>25/08/2000</aired> 
 <duration>9600</duration>
 <info>Randall "Memphis" Raines é um famoso ladrão de carros "reformado" e regenerado. Porém, ele vai ser forçado a roubar uma última vez quando o irmão mais novo se envolve no mundo do crime e é ameaçado de morte.
 [COLOR lime]Release:[/COLOR] 2000
