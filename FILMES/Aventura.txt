@@ -1,6 +1,8 @@
 <item>
 <title>[B][COLOR lime]●[/COLOR][COLOR white] The Mask of Zorro[/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:3b0f01c8a070c82d120e8be505f847561e7a4cb8&dn</link>
+<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:3b0f01c8a070c82d120e8be505f847561e7a4cb8&dn$nome=[B] LINK 1 [COLOR yellow]TORREST[/COLOR][/B]</link>
+<subtitle>https://raw.githubusercontent.com/paulo-44/VT1964/main/LEGENDAS/The.Mask.Of.Zorro.1998.srt</subtitle>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b0f01c8a070c82d120e8be505f847561e7a4cb8&dn$nome=[B] LINK 2 [COLOR yellow]ELEMENTUM[/COLOR][/B]</link>
 <subtitle>https://raw.githubusercontent.com/paulo-44/VT1964/main/LEGENDAS/The.Mask.Of.Zorro.1998.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/y7x5tAFqE589IHwTUfamstD53RM.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dOqqnfLq1LFs7UlC9ZzMIgqbicu.jpg</fanart>
