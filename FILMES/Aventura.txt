@@ -1,8 +1,22 @@
 <item>
+<title>[B][COLOR lime]●[/COLOR][COLOR white] Plane[/COLOR][/B]</title>
+<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:2a33747949972ada14221de60f97ba17b858ad27&dn</link>
+<subtitle>https://raw.githubusercontent.com/paulo-44/VT1964/main/LEGENDAS/Gone.in.Sixty.Seconds.2000.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6JU2ysRVOHqav0Hs6BUv4mvvDxZ.jpg</fanart>
+<genre>Ação, Aventura, Thriller</genre>
+<year>2023</year>
+<aired>21/01/2023</aired> 
+<duration>6420</duration>
+<info>O piloto Brodie Torrance salva os seus passageiros ao fazer uma aterragem arriscada numa ilha devastada pela guerra. Quando os sobreviventes são feitos reféns por rebeldes perigosos, a única pessoa com quem Torrance pode contar é Louis Gaspare, um assassino que estava a ser transportado pelo FBI. Para salvar os passageiros, Torrance precisará da ajuda de Gaspare... e descobrirá que este é mais do que aparenta.
+[COLOR lime]Release:[/COLOR] 2023
+[COLOR lime]Quality:[/COLOR] WEBRIP /1080P
+</info>
+</item>
+===============================================================================================
+<item>
 <title>[B][COLOR lime]●[/COLOR][COLOR white] The Mask of Zorro[/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:3b0f01c8a070c82d120e8be505f847561e7a4cb8&dn$nome=[B] LINK 1 [COLOR yellow]TORREST[/COLOR][/B]</link>
-<subtitle>https://raw.githubusercontent.com/paulo-44/VT1964/main/LEGENDAS/The.Mask.Of.Zorro.1998.srt</subtitle>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b0f01c8a070c82d120e8be505f847561e7a4cb8&dn$nome=[B] LINK 2 [COLOR yellow]ELEMENTUM[/COLOR][/B]</link>
+<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:3b0f01c8a070c82d120e8be505f847561e7a4cb8&dn</link>
 <subtitle>https://raw.githubusercontent.com/paulo-44/VT1964/main/LEGENDAS/The.Mask.Of.Zorro.1998.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/y7x5tAFqE589IHwTUfamstD53RM.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/dOqqnfLq1LFs7UlC9ZzMIgqbicu.jpg</fanart>
