@@ -4,7 +4,7 @@ http://painel.neo.bip7plus.top/video.php?acesso=f3a22a835382ca92537ecbb10245e64e
 #EXTINF:-1 type="video" tvg-id="RTP 1 [Nos]" tvg-name="RTP 1 [Nos]" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" group-title="CANAIS | ABERTOS",RTP 1 [Nos]
 http://painel.neo.bip7plus.top/video.php?acesso=570549090093887a0c203dd4d48d3f78&usuario=47b4faa8d408be40612fbbcf350b97d4
 #EXTINF:-1 type="video" tvg-id="RTP 1 HD [VDF]" tvg-name="RTP 1 HD [VDF]" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" group-title="CANAIS | ABERTOS",RTP 1 HD [VDF]
-http://painel.neo.bip7plus.top/video.php?acesso=1dfa3059ea720e35dc641113236a26a6&usuario=47b4faa8d408be40612fbbcf350b97d4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR deeppink]@TakeOne-TV[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://painel.neo.bip7plus.top/video.php?acesso=1dfa3059ea720e35dc641113236a26a6&usuario=47b4faa8d408be40612fbbcf350b97d4
 #EXTINF:-1 type="video" tvg-id="RTP2 HD [Meo]" tvg-name="RTP2 HD [Meo]" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="CANAIS | ABERTOS",RTP2 HD [Meo]
 http://painel.neo.bip7plus.top/video.php?acesso=6673e982a9d37bd18e49455f84bca39f&usuario=47b4faa8d408be40612fbbcf350b97d4
 #EXTINF:-1 type="video" tvg-id="RTP 2 HD [VDF]" tvg-name="RTP 2 HD [VDF]" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="CANAIS | ABERTOS",RTP 2 HD [VDF]
