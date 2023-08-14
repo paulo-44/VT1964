@@ -1,7 +1,7 @@
 <item>
 <title>[B][COLOR lime]●[/COLOR][COLOR white] The Legend of Zorro[/COLOR][/B]</title>
 <link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:e07f2db37484a20c378ef0a5954e24b536a063f0&dn</link>
-<subtitle>https://raw.githubusercontent.com/paulo-44/VT1964/main/LEGENDAS/Gone.in.Sixty.Seconds.2000.srt</subtitle>
+<subtitle>https://raw.githubusercontent.com/paulo-44/VT1964/main/LEGENDAS/Legend.of.Zorro.2005.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/bSHWuFMXPEPdbk1zijnBkP4lgzR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/iDPeNJZpfdDtVEreTFet0CbrFBL.jpg</fanart>
 <genre>Ação, Aventura, Faroeste</genre>
