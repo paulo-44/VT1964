@@ -1,28 +1,46 @@
-<layouttype>thumbnail</layouttype>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]LIVE TV[/COLOR][/B]</name>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/410O56DAkyL.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/TESTE</externallink>
-<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
-<info>portugalkodi.com</info>
-</channel>
 
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]LANÇAMENTOS 2023[/COLOR][/B]</name>
-<thumbnail>https://cdn3.movieweb.com/i/article/QaFzHJ2eKTk6Vvd14n0J2cBVmfKryN/798:50/Disney-Plus-Launch-Movie-Tv-Episode-Catalogue.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/NOVOSCINE/Lancamentos</externallink>
-<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
-<info>portugalkodi.com</info>
-</channel>
 
+	
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
-<thumbnail>https://goo.gl/NHRvpX</thumbnail>
-<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/FILMES/Pagina.txt</externallink>
-<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
-<info>portugalkodi.com</info>
-</channel>
+		<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES 2023[COLOR cyan] |[/COLOR][COLOR lime] 4K[/COLOR][COLOR cyan] |[/COLOR][COLOR lime]●[/COLOR]Online[/B]</name>
+		<thumbnail>https://i.postimg.cc/63ksY4d4/LANCAMENTOS.png</thumbnail>
+		<externallink>https://besttv_p32178:vovesari29@vega.myseedbox.site/private/Downloads/4K/2023.txt</externallink>
+		<fanart>https://i.postimg.cc/15y7PK55/fanart.jpg</fanart>
+		<info>
 
+[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+<channel>
+		<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES 2022[COLOR cyan] |[/COLOR][COLOR lime] 4K[/COLOR][COLOR cyan] |[/COLOR][COLOR red]●[/COLOR]Offline[/B]</name>
+		<thumbnail>https://i.postimg.cc/63ksY4d4/LANCAMENTOS.png</thumbnail>
+		<externallink>http://wareztuga.polybotes.feralhosting.com/Torrent.4K/2022.txt</externallink>
+		<fanart>https://i.postimg.cc/15y7PK55/fanart.jpg</fanart>
+		<info>
+
+[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+<channel>
+		<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES 2021[COLOR cyan] |[/COLOR][COLOR lime] 4K[/COLOR][COLOR cyan] |[/COLOR][COLOR red]●[/COLOR]Offline[/B]</name>
+		<thumbnail>https://i.postimg.cc/63ksY4d4/LANCAMENTOS.png</thumbnail>
+		<externallink>http://wareztuga.polybotes.feralhosting.com/Torrent.4K/2021.txt</externallink>
+		<fanart>https://i.postimg.cc/15y7PK55/fanart.jpg</fanart>
+		<info>
+
+[COLOR lime]●[/COLOR]Online [COLOR yellow]●[/COLOR]Manutenção [COLOR red]●[/COLOR]Offline
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+	
 </channels>
