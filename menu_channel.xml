@@ -14,11 +14,11 @@
 	<!-- opicional -->
     
     <channel>
-        <name>ANIMES</name>
+        <name>ANIMES teste</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Animes</info>
-		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/menu_itens.xml</externallink>
     </channel>
 	
 	<channel>
