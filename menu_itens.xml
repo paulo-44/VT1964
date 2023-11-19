@@ -12,18 +12,14 @@
 	
     <item>
         <title>ANIME</title>
-        <link>$doregex[resolver]</link>
+        <link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:A3C7E0B638C1037C679DF8BBDFB72395578E5FF5</link>
         <thumbnail>http://channel.png</thumbnail>
         <genre>Animation</genre>
         <info>Anime teste</info>
         <date>08.02.2022</date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
         <fanart>http://fanart.jpg</fanart>
-		<regex>
-			<name>resolver</name>
-			<expres>"stream":.+?"(.*?)"</expres>
-			<page>https://vidsrc.to/embed/movie/670292</page>
-		</regex>
+		
     </item>	
 	
 </items>
