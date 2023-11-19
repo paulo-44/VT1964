@@ -1,4 +1,21 @@
 <item>
+<title>[B][COLOR lime]●[/COLOR][COLOR white] The Kill Room (2023)[/COLOR][/B]</title>
+<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:07B27988AE6195948DC3C41CD64B83A1417372BF</link>
+<subtitle></subtitle>
+<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/348814/posters/65440ab329395.jpg</thumbnail>
+<fanart>https://artworks.thetvdb.com/banners/v4/movie/348814/backgrounds/64e9e8a9917e1.jpg</fanart>
+<genre>Crime, Thriller, Ação</genre>
+<year>2023</year>
+<aired>28-09-2023</aired> 
+<duration>5880</duration>
+<info>Um assassino, seu chefe, um negociante de arte e um esquema de lavagem de dinheiro que acidentalmente transforma a assassina em uma sensação de vanguarda da noite para o dia, que a força a jogar o mundo da arte contra o submundo.
+[COLOR lime]Release:[/COLOR] 2023
+[COLOR lime]Quality:[/COLOR] 4K /2160P
+[COLOR lime]IMDb:[/COLOR] 5.4
+</info>
+</item>
+===============================================================================================
+<item>
 <title>[B][COLOR lime]●[/COLOR][COLOR white] Expend4bles (2023)[/COLOR][/B]</title>
 <link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:A3C7E0B638C1037C679DF8BBDFB72395578E5FF5</link>
 <subtitle>https://cld.pt/dl/download/8a86a4ba-e4d3-409f-89e2-274d16bb3c20/Expend4bles.2023.srt</subtitle>
@@ -10,7 +27,7 @@
 <duration>6180</duration>
 <info>Os Mercenários enfrentam um traficante de armas que comanda o poder de um enorme exército privado.
 [COLOR lime]Release:[/COLOR] 2023
-[COLOR lime]Quality:[/COLOR] 4K/2160P
+[COLOR lime]Quality:[/COLOR] 4K /2160P
 [COLOR lime]IMDb:[/COLOR] 4.8
 </info>
 </item>
@@ -27,7 +44,7 @@
 <duration>7980</duration>
 <info>Em um futuro distante, em meio a uma guerra entre humanos e as forças da inteligência artificial, Joshua, um ex-agente das forças especiais que sofre com o desaparecimento de sua esposa, é recrutado para caçar e matar o Criador, o desconhecido arquiteto da avançada Inteligência Artificial que desenvolveu uma misteriosa arma com o poder de acabar com a guerra… e com a própria humanidade.
 [COLOR lime]Release:[/COLOR] 2023
-[COLOR lime]Quality:[/COLOR] 4K/2160P
+[COLOR lime]Quality:[/COLOR] 4K /2160P
 [COLOR lime]IMDb:[/COLOR] 7.1
 </info>
 </item>
