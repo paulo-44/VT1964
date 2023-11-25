@@ -2,7 +2,7 @@
 <title>[B][COLOR lime]●[/COLOR][COLOR white] The Kill Room (2023)[/COLOR][/B]</title>
 <link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:07B27988AE6195948DC3C41CD64B83A1417372BF</link>
 <subtitle>https://cld.pt/dl/download/b0fc2f03-9726-4754-ac2a-b34f1f15ebdc/The.Kill.Room.2023.srt</subtitle>
-<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/348814/posters/65440ab329395.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/bpdwUE56aYeaWESInbu7eXrni4c.jpg</thumbnail>
 <fanart>https://artworks.thetvdb.com/banners/v4/movie/348814/backgrounds/64e9e8a9917e1.jpg</fanart>
 <genre>Crime, Thriller, Ação</genre>
 <year>2023</year>
