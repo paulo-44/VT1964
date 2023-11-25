@@ -1,4 +1,21 @@
 <item>
+<title>[B][COLOR lime]●[/COLOR][COLOR white] The Marsh King’s Daughter (2023)[/COLOR][/B]</title>
+<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:f511229de7b09e870632f1c819c1593ee80e095c</link>
+<subtitle>https://cld.pt/dl/download/ee13f857-9701-4a1d-9b28-804183a0fc8c/The.Marsh.Kings.Daughter.2023.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/AcHVPAwsWKmvDLKx5oXrzmJ7Pq4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c7MRmF3LMiBWokedmdQl3roTUv2.jpg</fanart>
+<genre>Thriller, Drama</genre>
+<year>2023</year>
+<aired>03-11-2023</aired> 
+<duration>6480</duration>
+<info>Helena vive em aparentemente normalidade, mas esconde um segredo sombrio: o seu pai é o infame "Rei do Pântano", o homem que a manteve a ela e à sua mãe cativas na selva durante anos. Ao fim de uma vida inteira a tentar escapar ao passado, Helena é confrontada com os seus demónios quando o pai foge inesperadamente da prisão.
+[COLOR lime]Release:[/COLOR] 2023
+[COLOR lime]Quality:[/COLOR] 4K /2160P
+[COLOR lime]IMDb:[/COLOR] 6.3
+</info>
+</item>
+===============================================================================================
+<item>
 <title>[B][COLOR lime]●[/COLOR][COLOR white] The Kill Room (2023)[/COLOR][/B]</title>
 <link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:07B27988AE6195948DC3C41CD64B83A1417372BF</link>
 <subtitle>https://cld.pt/dl/download/b0fc2f03-9726-4754-ac2a-b34f1f15ebdc/The.Kill.Room.2023.srt</subtitle>
