@@ -3,6 +3,7 @@
 <link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:f511229de7b09e870632f1c819c1593ee80e095c</link>
 <subtitle>https://cld.pt/dl/download/ee13f857-9701-4a1d-9b28-804183a0fc8c/The.Marsh.Kings.Daughter.2023.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/AcHVPAwsWKmvDLKx5oXrzmJ7Pq4.jpg</thumbnail>
+<logo>https://artworks.thetvdb.com/banners/v4/movie/135073/clearlogo/64fdcf5cb364d.png</logo>
 <fanart>https://www.themoviedb.org/t/p/original/c7MRmF3LMiBWokedmdQl3roTUv2.jpg</fanart>
 <genre>Thriller, Drama</genre>
 <year>2023</year>
