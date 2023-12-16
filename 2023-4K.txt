@@ -9,7 +9,7 @@
 <aired>13/01/2023</aired> 
 <duration>5700</duration>
 <info>Quando o amado cãozinho de uma família se perde na floresta, seus donos partem em uma incrível jornada para salvá-lo.
-[COLOR lime]Release:[/COLOR] 2023
+[COLOR lime]Ano de Lançamento:[/COLOR] 2023
 [COLOR lime]Áudio:[/COLOR] Dual Áudio
 [COLOR lime]Quality:[/COLOR] Web-DL | 1080p
 [COLOR lime]IMDb:[/COLOR] 6.1
@@ -28,9 +28,9 @@
 <aired>26/01/2023</aired> 
 <duration>6540</duration>
 <info>Emma esperou ansiosamente para se reunir com sua melhor amiga Tracey, que está se recuperando de um acidente grave. Mas Will, o irmão de Tracey, não vai permitir enquanto a culpa pelo acidente. Quando forçados a trabalhar juntos para melhorar sua comunidade, Will e Emma aprenderão a respeitar um ao outro?
-[COLOR lime]Release:[/COLOR] 2023
+[COLOR lime]Ano de Lançamento:[/COLOR] 2023
 [COLOR lime]Áudio:[/COLOR] Dual Áudio
-[COLOR lime]Quality:[/COLOR] Web-DL | 1080p
+[COLOR lime]Qualidade:[/COLOR] Web-DL | 1080p
 [COLOR lime]IMDb:[/COLOR] 7.6
 </info>
 </item>
