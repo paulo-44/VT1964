@@ -1,6 +1,6 @@
 <item>
 <title>[B][COLOR lime]●[/COLOR][COLOR white] Jung_E (2023)[/COLOR][/B]</title>
-<link>magnet:?xt=urn:btih:7b7b9a74d5f597751d6634c8dfcc4cbaf909fffb&dn</link>
+<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:7b7b9a74d5f597751d6634c8dfcc4cbaf909fffb&dn</link>
 <subtitle></subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/afsYFdid9pnnRd6tTrHFUbHgXJn.jpg</fanart>
