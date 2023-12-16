@@ -1,198 +1,26 @@
 <item>
-<title>[B][COLOR lime]●[/COLOR][COLOR white] The Marsh King’s Daughter (2023)[/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:f511229de7b09e870632f1c819c1593ee80e095c</link>
-<subtitle>https://cld.pt/dl/download/ee13f857-9701-4a1d-9b28-804183a0fc8c/The.Marsh.Kings.Daughter.2023.srt</subtitle>
-<thumbnail>https://www.themoviedb.org/t/p/original/AcHVPAwsWKmvDLKx5oXrzmJ7Pq4.jpg</thumbnail>
+<title>[B][COLOR lime]●[/COLOR][COLOR white] Destemida (2023)[/COLOR][/B]</title>
+<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:bc607929390959d2667cf97e1e38ada1d520c57d&dn</link>
+<subtitle></subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/7JGAiwq6s43aKHlJrM0ka0iOZcu.jpg</thumbnail>
 <logo>https://artworks.thetvdb.com/banners/v4/movie/135073/clearlogo/64fdcf5cb364d.png</logo>
-<fanart>https://www.themoviedb.org/t/p/original/c7MRmF3LMiBWokedmdQl3roTUv2.jpg</fanart>
-<genre>Thriller, Drama</genre>
+<fanart>https://www.themoviedb.org/t/p/original/dA34DDakXgvbjnyKocOcLJtKz0.jpg</fanart>
+<genre>Aventura, Drama, História</genre>
 <year>2023</year>
-<aired>03-11-2023</aired> 
-<duration>6480</duration>
-<info>Helena vive em aparentemente normalidade, mas esconde um segredo sombrio: o seu pai é o infame "Rei do Pântano", o homem que a manteve a ela e à sua mãe cativas na selva durante anos. Ao fim de uma vida inteira a tentar escapar ao passado, Helena é confrontada com os seus demónios quando o pai foge inesperadamente da prisão.
-[COLOR lime]Release:[/COLOR] 2023
-[COLOR lime]Quality:[/COLOR] 4K /2160P
-[COLOR lime]IMDb:[/COLOR] 6.3
-</info>
-</item>
-===============================================================================================
-<item>
-<title>[B][COLOR lime]●[/COLOR][COLOR white] The Kill Room (2023)[/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:07B27988AE6195948DC3C41CD64B83A1417372BF</link>
-<subtitle>https://cld.pt/dl/download/b0fc2f03-9726-4754-ac2a-b34f1f15ebdc/The.Kill.Room.2023.srt</subtitle>
-<thumbnail>https://www.themoviedb.org/t/p/original/bpdwUE56aYeaWESInbu7eXrni4c.jpg</thumbnail>
-<fanart>https://artworks.thetvdb.com/banners/v4/movie/348814/backgrounds/64e9e8a9917e1.jpg</fanart>
-<genre>Crime, Thriller, Ação</genre>
-<year>2023</year>
-<aired>28-09-2023</aired> 
-<duration>5880</duration>
-<info>Um assassino, seu chefe, um negociante de arte e um esquema de lavagem de dinheiro que acidentalmente transforma a assassina em uma sensação de vanguarda da noite para o dia, que a força a jogar o mundo da arte contra o submundo.
-[COLOR lime]Release:[/COLOR] 2023
-[COLOR lime]Quality:[/COLOR] 4K /2160P
-[COLOR lime]IMDb:[/COLOR] 5.4
-</info>
-</item>
-===============================================================================================
-<item>
-<title>[B][COLOR lime]●[/COLOR][COLOR white] Expend4bles (2023)[/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:A3C7E0B638C1037C679DF8BBDFB72395578E5FF5</link>
-<subtitle>https://cld.pt/dl/download/8a86a4ba-e4d3-409f-89e2-274d16bb3c20/Expend4bles.2023.srt</subtitle>
-<thumbnail>https://www.themoviedb.org/t/p/original/tvUaIIpdswGaOps3Ao3Z03BXJqi.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/j9LX1sF7WSXmJlnhf0RGpWzEC0i.jpg</fanart>
-<genre>Ficção científica, Ação, Thriller</genre>
-<year>2023</year>
-<aired>21-09-2023</aired> 
-<duration>6180</duration>
-<info>Os Mercenários enfrentam um traficante de armas que comanda o poder de um enorme exército privado.
-[COLOR lime]Release:[/COLOR] 2023
-[COLOR lime]Quality:[/COLOR] 4K /2160P
-[COLOR lime]IMDb:[/COLOR] 4.8
-</info>
-</item>
-===============================================================================================
-<item>
-<title>[B][COLOR lime]●[/COLOR][COLOR white] The Creator (2023)[/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:A19B3B41A4CEFCA580AB355E3FBCE30DD34DBFB6</link>
-<subtitle>https://cld.pt/dl/download/0c1092cd-8fd6-4c7c-bf76-9af11a7aff82/The.Creator.2023.srt</subtitle>
-<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/346573/posters/6549fd39dfe54.jpg</thumbnail>
-<fanart>https://artworks.thetvdb.com/banners/v4/movie/346573/backgrounds/6523823c1edfe.jpg</fanart>
-<genre>Ficção científica, Ação, Thriller</genre>
-<year>2023</year>
-<aired>28-09-2023</aired> 
-<duration>7980</duration>
-<info>Em um futuro distante, em meio a uma guerra entre humanos e as forças da inteligência artificial, Joshua, um ex-agente das forças especiais que sofre com o desaparecimento de sua esposa, é recrutado para caçar e matar o Criador, o desconhecido arquiteto da avançada Inteligência Artificial que desenvolveu uma misteriosa arma com o poder de acabar com a guerra… e com a própria humanidade.
-[COLOR lime]Release:[/COLOR] 2023
-[COLOR lime]Quality:[/COLOR] 4K /2160P
-[COLOR lime]IMDb:[/COLOR] 7.1
-</info>
-</item>
-===============================================================================================
-<item>
-<title>[B][COLOR lime]●[/COLOR][COLOR white] The Flash (2023)[/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:76A61CABA56DBB3414D0075D34DB967E4E729C27</link>
-<subtitle>https://cld.pt/dl/download/986589a2-c550-4dd2-9bfe-390bdd9a40d6/The.Flash.2023.srt</subtitle>
-<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/15763/posters/644834920c36a.jpg</thumbnail>
-<fanart>https://artworks.thetvdb.com/banners/v4/movie/15763/backgrounds/64909b766a0a1.jpg</fanart>
-<genre>Ação, Aventura, Ficção científica</genre>
-<aired>15-06-2023</aired> 
-<duration>8640</duration>
-<info>Quando sua tentativa de salvar sua família inadvertidamente altera o futuro, Barry Allen fica preso em uma realidade na qual o General Zod voltou e não há super-heróis a quem recorrer. Para salvar o mundo em que está e retornar ao futuro que conhece, a única esperança de Barry é correr para salvar sua vida. Mas fazer o sacrifício final será suficiente para reiniciar o universo?
-[COLOR lime]Release:[/COLOR] 2023
-[COLOR lime]Quality:[/COLOR] 4K /2160P
-[COLOR lime]IMDb:[/COLOR] 7.2
-</info>
-</item>
-===============================================================================================
-<item>
-<title>[B][COLOR lime]●[/COLOR][COLOR white] The Pope’s Exorcist (2023)[/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:ad57f90b5b6181160ea98ad8d91f940f84130d84</link>
-<subtitle></subtitle>
-<thumbnail>https://www.themoviedb.org/t/p/original/gNPqcv1tAifbN7PRNgqpzY8sEJZ.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/hiHGRbyTcbZoLsYYkO4QiCLYe34.jpg</fanart>
-<genre>Terror, Thriller</genre>
-<aired>06/04/2023</aired> 
-<duration>6180</duration>
-<info>O padre Gabriele Amorth, exorcista do Vaticano, luta contra Satanás e demônios possuidores de inocentes. Um retrato detalhado de um padre que realizou mais de 100 mil exorcismos em sua vida.
-[COLOR lime]Release:[/COLOR] 2023
-[COLOR lime]Quality:[/COLOR] 4K /2160P
-[COLOR lime]IMDb:[/COLOR] 6.2
-</info>
-</item>
-===============================================================================================
-<item>
-<title>[B][COLOR lime]●[/COLOR][COLOR white] Extraction 2 (2023)[/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:8721c0a72533b238a4a2807e2db4386a14f79a92</link>
-<subtitle>https://cld.pt/dl/download/cd73b6d4-7a21-4a1b-8b97-201f4e4e2733/Extraction.II.2023.srt</subtitle>
-<thumbnail>https://www.themoviedb.org/t/p/original/a2PldBCpNjqg1uhdcHx34GfutPW.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/3oKSoTLgJFsBUXe0amkKoSlKYNo.jpg</fanart>
-<genre>Ação, Thriller</genre>
-<aired>16/06/2023</aired> 
-<duration>7320</duration>
-<info>Depois de escapar da morte por um triz, o mercenário Tyler Rake encara mais uma missão perigosa: resgatar a família de um criminoso implacável.
-[COLOR lime]Release:[/COLOR] 2023
-[COLOR lime]Quality:[/COLOR] 4K /2160P
-[COLOR lime]IMDb:[/COLOR] 7.0
-</info>
-</item>
-===============================================================================================
-<item>
-<title>[B][COLOR lime]●[/COLOR][COLOR white] Indiana Jones and the Dial of Destiny (2023)[/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:1e7d6e1977c20204c8395660a781b297aae521d1</link>
-<subtitle>https://cld.pt/dl/download/0f92e169-4353-4f3f-929c-dee9d21dc4b2/Indiana.Jones.and.the.Dial.of.Destiny.2023.srt</subtitle>
-<thumbnail>https://www.themoviedb.org/t/p/original/m9c0GaHLQXisKB5XLCbjVmDrrol.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/57JocxmicOoAMhkUSmdKBlpZWMT.jpg</fanart>
-<genre>Aventura, Ação</genre>
-<aired>29/06/2023</aired> 
-<duration>9240</duration>
-<info>Encontrando-se em uma nova era, aproximando-se da aposentadoria, Indy luta para se encaixar em um mundo que parece tê-lo superado. Mas quando os tentáculos de um mal muito familiar retornam na forma de um antigo rival, Indy deve colocar seu chapéu e pegar seu chicote mais uma vez para garantir que um antigo e poderoso artefato não caia nas mãos erradas.
-[COLOR lime]Release:[/COLOR] 2023
-[COLOR lime]Quality:[/COLOR] 4K /2160P
-[COLOR lime]IMDb:[/COLOR] 6.8
-</info>
-</item>
-===============================================================================================
-<item>
-<title>[B][COLOR lime]●[/COLOR][COLOR white] Meg 2: The Trench (2023)[/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:78966D045BD2A684AEC41599609200E2324E88D7</link>
-<subtitle>https://cld.pt/dl/download/22427ff0-dd9d-4d57-a81e-ffecb7b2372c/Meg.2.The.Trench.2023.srt</subtitle>
-<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/307762/posters/64f4d0da2889a.jpg</thumbnail>
-<fanart>https://artworks.thetvdb.com/banners/v4/movie/307762/backgrounds/64ea54a886ecd.jpg</fanart>
-<genre>Ação, Ficção científica, Terror</genre>
-<aired>03/08/2023</aired> 
-<duration>6960</duration>
-<info>Um mergulho exploratório nas profundezas do oceano de uma ousada equipe de pesquisa se transforma em caos quando uma operação de mineração malévola ameaça sua missão e os força a uma batalha de alto risco pela sobrevivência.
-[COLOR lime]Release:[/COLOR] 2023
-[COLOR lime]Quality:[/COLOR] 4K /2160P
-[COLOR lime]IMDb:[/COLOR] 5.1
-</info>
-</item>
-===============================================================================================
-<item>
-<title>[B][COLOR lime]●[/COLOR][COLOR white] Blue Beetle (2023)[/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:01B8DC04A84037C536300CC1F220D9BEDE1DC86F</link>
-<subtitle>https://cld.pt/dl/download/9db3be34-5383-4512-9c29-53307cbc89ed/Blue.Beetle.2023.srt</subtitle>
-<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/156176/posters/64de4f441d18f.jpg</thumbnail>
-<fanart>https://artworks.thetvdb.com/banners/v4/movie/156176/backgrounds/64d6cd1815761.jpg</fanart>
-<genre>Ação, Ficção científica, Aventura</genre>
-<aired>17/08/2023</aired> 
-<duration>7620</duration>
-<info>O filme acompanha Jaime Reyes, um adolescente de origem mexicana que encontra um artefato alienígena que lhe dá um exo-esqueleto mecanizado e poderes, tornando-o no Besouro Azul.
-[COLOR lime]Release:[/COLOR] 2023
-[COLOR lime]Quality:[/COLOR] 4K /2160P
-[COLOR lime]IMDb:[/COLOR] 6.7
-</info>
-</item>
-===============================================================================================
-<item>
-<title>[B][COLOR lime]●[/COLOR][COLOR white] The Equalizer 3 (2023)[/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:F5A920158F38E44034D574518E2D2D19A82CBE66</link>
-<subtitle>https://cld.pt/dl/download/a0c7c426-ac6b-4c92-87ff-cbb9a9078cb5/The.Equalizer.3.2023.srt</subtitle>
-<thumbnail>https://artworks.thetvdb.com/banners/v4/movie/342756/posters/6446c957eb6da.jpg</thumbnail>
-<fanart>https://artworks.thetvdb.com/banners/v4/movie/342756/backgrounds/651e5c43e197f.jpg</fanart>
-<genre>Ação, Thriller, Crime</genre>
-<aired>05/10/2023</aired> 
+<aired>26/01/2023</aired> 
 <duration>6540</duration>
-<info>Sentindo-se em casa no sul da Itália, o ex-agente Robert McCall logo descobre que seus novos amigos estão sob o controle dos chefes do crime local. À medida que os acontecimentos se tornam mortais, McCall sabe o que tem de fazer: tornar-se o protetor dos seus amigos, enfrentando a máfia.
+<info>Emma esperou ansiosamente para se reunir com sua melhor amiga Tracey, que está se recuperando de um acidente grave. Mas Will, o irmão de Tracey, não vai permitir enquanto a culpa pelo acidente. Quando forçados a trabalhar juntos para melhorar sua comunidade, Will e Emma aprenderão a respeitar um ao outro?
 [COLOR lime]Release:[/COLOR] 2023
-[COLOR lime]Quality:[/COLOR] 4K /2160P
-[COLOR lime]IMDb:[/COLOR] 7.1
+[COLOR lime]Áudio:[/COLOR] Dual Áudio
+[COLOR lime]Quality:[/COLOR] Web-DL | 1080p
+[COLOR lime]IMDb:[/COLOR] 7.6
 </info>
 </item>
 ===============================================================================================
-<item>
-<title>[B][COLOR lime]●[/COLOR][COLOR white] The Old Way (2023)[/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:dddcec7d5bfa954b87f03ce8a5ff0b9711bb7e55</link>
-<subtitle></subtitle>
-<thumbnail>https://www.themoviedb.org/t/p/original/wencVOzIprw2GZVttVxsJhs8qab.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/lacnOoTHyS8g0eSu7cyQ8TgdGtv.jpg</fanart>
-<genre>Faroeste</genre>
-<year>2023</year>
-<aired>06-01-2023</aired> 
-<duration>5700</duration>
-<info>Um velho pistoleiro e sua filha devem enfrentar as consequências de seu passado, quando o filho de um homem que ele matou anos atrás chega para se vingar.
-[COLOR lime]Release:[/COLOR] 2023
-[COLOR lime]Quality:[/COLOR] 4K/2160P
-[COLOR lime]IMDb:[/COLOR] 5.5
-</info>
-</item>
-===============================================================================================
+
+
+
+
+
+
+
