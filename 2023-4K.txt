@@ -1,4 +1,22 @@
 <item>
+<title>[B][COLOR lime]●[/COLOR][COLOR white] Jung_E (2023)[/COLOR][/B]</title>
+<link>magnet:?xt=urn:btih:7b7b9a74d5f597751d6634c8dfcc4cbaf909fffb&dn</link>
+<subtitle></subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/afsYFdid9pnnRd6tTrHFUbHgXJn.jpg</fanart>
+<genre>Ficção científica, Guerra</genre>
+<year>2023</year>
+<aired>20/01/2023</aired> 
+<duration>5880</duration>
+<info>Num futuro pós-apocalíptico, uma pesquisadora lidera os esforços de pôr fim a uma guerra civil. Para isso, clona o cérebro de uma destemida capitã do exército: sua mãe.
+[COLOR lime]Ano de Lançamento:[/COLOR] 2023
+[COLOR lime]Áudio:[/COLOR] Dual Áudio
+[COLOR lime]Qualidade:[/COLOR] Web-DL | 1080p
+[COLOR lime]IMDb:[/COLOR] 5.4
+</info>
+</item>
+===============================================================================================
+<item>
 <title>[B][COLOR lime]●[/COLOR][COLOR white] Procura-se Gonker (2023)[/COLOR][/B]</title>
 <link>magnet:?xt=urn:btih:3d31fd1785b62ab57cf5edb1ca423445c7260b8b&dn</link>
 <subtitle></subtitle>
