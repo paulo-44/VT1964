@@ -1,6 +1,6 @@
 <item>
 <title>[B][COLOR lime]●[/COLOR][COLOR white] Jung_E (2023)[/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:7b7b9a74d5f597751d6634c8dfcc4cbaf909fffb&dn</link>
+<link>magnet:?xt=urn:btih:7b7b9a74d5f597751d6634c8dfcc4cbaf909fffb&dn</link>
 <subtitle></subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/afsYFdid9pnnRd6tTrHFUbHgXJn.jpg</fanart>
@@ -36,7 +36,7 @@
 ===============================================================================================
 <item>
 <title>[B][COLOR lime]●[/COLOR][COLOR white] Destemida (2023)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc607929390959d2667cf97e1e38ada1d520c57d&dn</link>
+<link>magnet:?xt=urn:btih:bc607929390959d2667cf97e1e38ada1d520c57d&dn</link>
 <subtitle></subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/7JGAiwq6s43aKHlJrM0ka0iOZcu.jpg</thumbnail>
 <logo>https://artworks.thetvdb.com/banners/v4/movie/135073/clearlogo/64fdcf5cb364d.png</logo>
