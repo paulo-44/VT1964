@@ -1,4 +1,21 @@
 <item>
+<title>[B][COLOR lime]-[/COLOR][COLOR white] O Silêncio da Vingança (2023)[/COLOR][/B]</title>
+<link>magnet:?xt=urn:btih:69F99B249B572DEB4EFC44F3C6E798CD6D97EDB9&</link>
+<subtitle></subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/7W2fdpbWV2MiaCpjYakbudP3Ywx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gg4zZoTggZmpAQ32qIrP5dtnkEZ.jpg</fanart>
+<info>Godlock é um pai em uma missão para vingar seu filho que foi tragicamente pego no fogo cruzado da violência de gangues na véspera de Natal. Baleado e quase morto enquanto perseguia os assassinos, Godlock promete vingar seu filho por qualquer meio necessário.
+[COLOR lime]Ano de Lançamento:[/COLOR] 2023
+[COLOR lime]Gênero:[/COLOR] Ação | Aventura | Ficção
+[COLOR lime]Duração:[/COLOR] 1 H 44 Min.
+[COLOR lime]Áudio:[/COLOR] Dual Áudio
+[COLOR lime]Qualidade:[/COLOR] Web-DL | 1080p
+[COLOR lime]IMDb:[/COLOR] 5.5
+
+</info>
+</item>
+===============================================================================================
+<item>
 <title>[B][COLOR lime]-[/COLOR][COLOR white] Rebel Moon – Parte 1: A Menina do Fogo (2023)[/COLOR][/B]</title>
 <link>magnet:?xt=urn:btih:SXKUUMHSNAKO5GBYRYBVCSBPIAC63F4F&</link>
 <subtitle></subtitle>
