@@ -5,7 +5,7 @@
 
 	
 <channel>
-		<name>[B][COLOR lime]●[/COLOR] [COLOR white] LANÇAMENTOS[COLOR cyan] |[/COLOR][COLOR lime] 2024[/COLOR][COLOR cyan] |[/COLOR][COLOR lime]●[/COLOR]Online[/B]</name>
+		<name>[B][COLOR lime]●[/COLOR] [COLOR white] LANÇAMENTOS[COLOR cyan] |[/COLOR][COLOR lime] 2024[/COLOR][COLOR cyan] |[/COLOR][COLOR red]●[/COLOR]Offline[/B]</name>
 		<thumbnail>https://i.postimg.cc/63ksY4d4/LANCAMENTOS.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/NOVOSCINE/Lancamentos</externallink>
 		<fanart>https://i.postimg.cc/15y7PK55/fanart.jpg</fanart>
@@ -17,7 +17,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 <channel>
-		<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES 2023[COLOR cyan] |[/COLOR][COLOR lime] 4K[/COLOR][COLOR cyan] |[/COLOR][COLOR red]●[/COLOR]Offline[/B]</name>
+		<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES[COLOR cyan] |[/COLOR][COLOR lime] 2023[/COLOR][COLOR cyan] |[/COLOR][COLOR lime]●[/COLOR]Offline[/B]</name>
 		<thumbnail>https://i.postimg.cc/63ksY4d4/LANCAMENTOS.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/paulo-44/VT1964/main/F-2023/ano23</externallink>
 		<fanart>https://i.postimg.cc/15y7PK55/fanart.jpg</fanart>
