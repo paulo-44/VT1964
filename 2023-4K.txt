@@ -1,13 +1,26 @@
 <item>
+<title>[B][COLOR lime]-[/COLOR][COLOR white] Rebel Moon – Parte 1: A Menina do Fogo (2023)[/COLOR][/B]</title>
+<link>magnet:?xt=urn:btih:SXKUUMHSNAKO5GBYRYBVCSBPIAC63F4F&</link>
+<subtitle></subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/sPmGw8DOpH856QjhCfetSK9yzI5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sRLC052ieEzkQs9dEtPMfFxYkej.jpg</fanart>
+<info>Quando uma colônia pacífica na periferia da galáxia se vê ameaçada pelos exércitos do tirânico regente Balisarius, eles despacham Kora, uma jovem com um passado misterioso, para procurar guerreiros de planetas vizinhos para ajudá-los a se posicionar.
+[COLOR lime]Ano de Lançamento:[/COLOR] 2023
+[COLOR lime]Gênero:[/COLOR] Ação | Aventura | Ficção
+[COLOR lime]Duração:[/COLOR] 2 H 13 Min.
+[COLOR lime]Áudio:[/COLOR] Dual Áudio
+[COLOR lime]Qualidade:[/COLOR] Web-DL | 1080p
+[COLOR lime]IMDb:[/COLOR] 6.3
+
+</info>
+</item>
+===============================================================================================
+<item>
 <title>[B][COLOR lime]-[/COLOR][COLOR white] Jung_E (2023)[/COLOR][/B]</title>
 <link>magnet:?xt=urn:btih:7b7b9a74d5f597751d6634c8dfcc4cbaf909fffb&dn</link>
 <subtitle></subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/afsYFdid9pnnRd6tTrHFUbHgXJn.jpg</fanart>
-<genre>Ficção científica, Guerra</genre>
-<year>2023</year>
-<aired>20/01/2023</aired> 
-<duration>5880</duration>
 <info>Num futuro pós-apocalíptico, uma pesquisadora lidera os esforços de pôr fim a uma guerra civil. Para isso, clona o cérebro de uma destemida capitã do exército: sua mãe.
 [COLOR lime]Ano de Lançamento:[/COLOR] 2023
 [COLOR lime]Áudio:[/COLOR] Dual Áudio
@@ -22,10 +35,6 @@
 <subtitle></subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/ziAL5224J9QHA0S0exarpkz4eUN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kLPIfUrMrjApjOxtqBUWI1MItOd.jpg</fanart>
-<genre>Família, Aventura, Drama</genre>
-<year>2023</year>
-<aired>13/01/2023</aired> 
-<duration>5700</duration>
 <info>Quando o amado cãozinho de uma família se perde na floresta, seus donos partem em uma incrível jornada para salvá-lo.
 [COLOR lime]Ano de Lançamento:[/COLOR] 2023
 [COLOR lime]Áudio:[/COLOR] Dual Áudio
@@ -41,10 +50,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/7JGAiwq6s43aKHlJrM0ka0iOZcu.jpg</thumbnail>
 <logo>https://artworks.thetvdb.com/banners/v4/movie/135073/clearlogo/64fdcf5cb364d.png</logo>
 <fanart>https://www.themoviedb.org/t/p/original/dA34DDakXgvbjnyKocOcLJtKz0.jpg</fanart>
-<genre>Aventura, Drama, História</genre>
-<year>2023</year>
-<aired>26/01/2023</aired> 
-<duration>6540</duration>
 <info>Emma esperou ansiosamente para se reunir com sua melhor amiga Tracey, que está se recuperando de um acidente grave. Mas Will, o irmão de Tracey, não vai permitir enquanto a culpa pelo acidente. Quando forçados a trabalhar juntos para melhorar sua comunidade, Will e Emma aprenderão a respeitar um ao outro?
 [COLOR lime]Ano de Lançamento:[/COLOR] 2023
 [COLOR lime]Áudio:[/COLOR] Dual Áudio
